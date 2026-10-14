@@ -1,0 +1,9 @@
+doctor_id,doctor_name,department,consultation_fee
+D01,Dr. Ahmed Ansari,General Medicine,500
+D02,Dr. Hina Qureshi,Pediatrics,600
+D03,Dr. Faisal Mir,Cardiology,1500
+D04,Dr. Ahmed Siddiqui,Dermatology,900
+D05,Dr. Bilal Khan,Orthopedics,1200
+D06,Dr. Ayesha Chaudhry,Gynecology,1000
+D07,Dr. Maryam Ansari,ENT,800
+D08,Dr. Maryam Ansari,Dentistry,700

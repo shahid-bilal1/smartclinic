@@ -1,0 +1,2948 @@
+appointment_id,patient_id,department,date,hour,diagnosis,status,doctor_id
+A02676,P0346,Pediatrics,2025-10-01,11,Back Pain,Completed,D02
+A02716,P0570,Pediatrics,2025-10-01,9,Infection,Completed,D02
+A00114,P0268,Dermatology,2025-10-01,13,Diabetes,Completed,D04
+A00211,P0172,Orthopedics,2025-10-01,9,Fever,Completed,D05
+A01150,P0521,General Medicine,2025-10-01,12,Asthma,Completed,D01
+A00050,P0115,Dermatology,2025-10-01,13,Asthma,Completed,D04
+A01649,P0178,Dermatology,2025-10-01,19,Infection,Completed,D04
+A00270,P0182,Dentistry,2025-10-02,17,Back Pain,Cancelled,D08
+A01239,P0351,Pediatrics,2025-10-02,12,Diabetes,Completed,D02
+A00555,P0396,Dermatology,2025-10-02,16,Checkup,Completed,D04
+A02646,P0520,General Medicine,2025-10-02,18,Asthma,Completed,D01
+A01783,P0562,ENT,2025-10-02,9,Infection,Cancelled,D07
+A01965,P0112,Dermatology,2025-10-02,14,Asthma,Completed,D04
+A02630,P0010,Gynecology,2025-10-02,9,Back Pain,Completed,D06
+A02028,P0469,Cardiology,2025-10-02,13,Checkup,Completed,D03
+A01183,P0585,Dermatology,2025-10-02,10,Checkup,Completed,D04
+A01243,P0089,General Medicine,2025-10-03,19,Skin Allergy,Completed,D01
+A01768,P0573,Pediatrics,2025-10-03,14,Migraine,Completed,D02
+A00468,P0466,Gynecology,2025-10-03,10,Hypertension,Completed,D06
+A00013,P0265,Dermatology,2025-10-03,10,Asthma,Completed,D04
+A00064,P0530,Pediatrics,2025-10-03,9,Migraine,Completed,D02
+A02684,P0265,Orthopedics,2025-10-03,14,Diabetes,Completed,D05
+A01832,P0583,Cardiology,2025-10-04,15,Checkup,Completed,D03
+A01258,P0551,Gynecology,2025-10-04,10,Fever,No-Show,D06
+A00355,P0503,General Medicine,2025-10-04,15,Back Pain,Completed,D01
+A02002,P0095,Cardiology,2025-10-04,13,Migraine,No-Show,D03
+A01504,P0305,Dermatology,2025-10-04,12,Hypertension,Completed,D04
+A02836,P0467,General Medicine,2025-10-04,15,Checkup,Completed,D01
+A00302,P0358,Dermatology,2025-10-04,14,Migraine,Completed,D04
+A00846,P0352,Pediatrics,2025-10-04,9,Skin Allergy,Completed,D02
+A01724,P0098,General Medicine,2025-10-04,9,Checkup,Completed,D01
+A02032,P0383,ENT,2025-10-05,12,Dental Pain,Completed,D07
+A01803,P0369,Pediatrics,2025-10-05,11,Infection,No-Show,D02
+A02103,P0084,General Medicine,2025-10-05,15,Infection,Completed,D01
+A01097,P0109,ENT,2025-10-05,14,Back Pain,No-Show,D07
+A01839,P0350,Pediatrics,2025-10-05,11,Fever,No-Show,D02
+A01861,P0275,Pediatrics,2025-10-05,14,Back Pain,Cancelled,D02
+A02770,P0040,General Medicine,2025-10-05,9,Hypertension,Completed,D01
+A00451,P0431,General Medicine,2025-10-06,9,Diabetes,Completed,D01
+A02215,P0124,General Medicine,2025-10-06,11,Asthma,Completed,D01
+A02784,P0058,Cardiology,2025-10-06,12,Checkup,Completed,D03
+A00909,P0098,Gynecology,2025-10-06,10,Checkup,Completed,D06
+A02029,P0445,Orthopedics,2025-10-06,9,Migraine,Completed,D05
+A02488,P0219,Pediatrics,2025-10-06,10,Back Pain,Cancelled,D02
+A02068,P0526,Orthopedics,2025-10-06,9,Infection,Completed,D05
+A00074,P0430,Orthopedics,2025-10-07,14,Diabetes,Completed,D05
+A01721,P0295,Orthopedics,2025-10-07,13,Hypertension,Completed,D05
+A00264,P0497,Dentistry,2025-10-07,11,Back Pain,Completed,D08
+A01663,P0078,Gynecology,2025-10-07,9,Checkup,Completed,D06
+A02021,P0460,Pediatrics,2025-10-07,14,Diabetes,Completed,D02
+A02553,P0245,General Medicine,2025-10-08,9,Back Pain,No-Show,D01
+A02187,P0276,Dentistry,2025-10-08,9,Checkup,Completed,D08
+A00773,P0484,General Medicine,2025-10-08,16,Infection,Completed,D01
+A00871,P0563,Dentistry,2025-10-08,9,Dental Pain,Completed,D08
+A01791,P0501,General Medicine,2025-10-08,10,Diabetes,Completed,D01
+A02331,P0579,Gynecology,2025-10-08,15,Fever,Completed,D06
+A01033,P0509,Dermatology,2025-10-08,9,Infection,Completed,D04
+A02944,P0516,Dermatology,2025-10-08,9,Skin Allergy,Completed,D04
+A01640,P0181,ENT,2025-10-08,14,Dental Pain,Completed,D07
+A01287,P0088,Dermatology,2025-10-08,10,Infection,No-Show,D04
+A00026,P0150,Orthopedics,2025-10-09,12,Asthma,Completed,D05
+A01090,P0061,Dermatology,2025-10-09,13,Hypertension,No-Show,D04
+A00733,P0175,Dentistry,2025-10-09,14,Asthma,Completed,D08
+A01687,P0034,General Medicine,2025-10-09,13,Diabetes,Completed,D01
+A01276,P0232,Gynecology,2025-10-09,15,Diabetes,No-Show,D06
+A01135,P0166,Gynecology,2025-10-09,9,Skin Allergy,Completed,D06
+A01377,P0152,Gynecology,2025-10-09,12,Back Pain,Completed,D06
+A02059,P0314,Pediatrics,2025-10-09,11,Diabetes,Completed,D02
+A00143,P0513,ENT,2025-10-09,15,Fever,Completed,D07
+A02267,P0537,Orthopedics,2025-10-09,12,Hypertension,Completed,D05
+A02454,P0545,Orthopedics,2025-10-10,9,Dental Pain,Completed,D05
+A02417,P0471,Orthopedics,2025-10-10,13,Infection,Completed,D05
+A01860,P0519,Orthopedics,2025-10-10,12,Diabetes,Completed,D05
+A02693,P0255,General Medicine,2025-10-10,9,Skin Allergy,Completed,D01
+A02623,P0212,Dentistry,2025-10-10,10,Checkup,Completed,D08
+A02894,P0487,Dentistry,2025-10-10,13,Back Pain,Completed,D08
+A02358,P0545,ENT,2025-10-10,15,Back Pain,Cancelled,D07
+A02145,P0210,Gynecology,2025-10-10,12,Dental Pain,Completed,D06
+A00113,P0260,Dermatology,2025-10-10,9,Back Pain,Completed,D04
+A02132,P0122,Cardiology,2025-10-10,14,Dental Pain,Cancelled,D03
+A00814,P0031,Orthopedics,2025-10-10,11,Diabetes,Completed,D05
+A01430,P0087,General Medicine,2025-10-10,16,Checkup,Completed,D01
+A02694,P0532,Cardiology,2025-10-10,14,Diabetes,Completed,D03
+A02194,P0450,Orthopedics,2025-10-11,15,Infection,Completed,D05
+A00547,P0422,Dermatology,2025-10-11,9,Fever,Completed,D04
+A01068,P0250,General Medicine,2025-10-11,16,Dental Pain,Completed,D01
+A01422,P0151,Dentistry,2025-10-11,10,Checkup,Cancelled,D08
+A00802,P0263,ENT,2025-10-11,9,Migraine,Cancelled,D07
+A02241,P0112,Cardiology,2025-10-11,13,Diabetes,Completed,D03
+A00012,P0023,General Medicine,2025-10-11,16,Checkup,No-Show,D01
+A01966,P0349,General Medicine,2025-10-12,16,Hypertension,Completed,D01
+A00747,P0042,Orthopedics,2025-10-12,13,Checkup,Completed,D05
+A00118,P0093,Dermatology,2025-10-12,11,Skin Allergy,Completed,D04
+A01326,P0323,Pediatrics,2025-10-12,9,Hypertension,Cancelled,D02
+A02589,P0588,General Medicine,2025-10-12,10,Asthma,Completed,D01
+A01329,P0369,Pediatrics,2025-10-12,9,Hypertension,Cancelled,D02
+A00155,P0565,General Medicine,2025-10-12,11,Back Pain,Completed,D01
+A02366,P0070,ENT,2025-10-13,17,Diabetes,Completed,D07
+A01896,P0234,General Medicine,2025-10-13,12,Infection,Cancelled,D01
+A01493,P0270,Dermatology,2025-10-13,11,Hypertension,Completed,D04
+A01122,P0442,ENT,2025-10-13,17,Infection,Completed,D07
+A01431,P0209,Dermatology,2025-10-13,10,Hypertension,Cancelled,D04
+A02695,P0246,Pediatrics,2025-10-13,17,Infection,Completed,D02
+A01109,P0458,Dermatology,2025-10-13,13,Back Pain,Cancelled,D04
+A01880,P0288,General Medicine,2025-10-13,13,Infection,No-Show,D01
+A02197,P0571,General Medicine,2025-10-13,10,Fever,Completed,D01
+A02828,P0496,Cardiology,2025-10-13,12,Migraine,No-Show,D03
+A00609,P0104,Dermatology,2025-10-14,17,Infection,Completed,D04
+A00563,P0524,General Medicine,2025-10-14,9,Hypertension,Cancelled,D01
+A01420,P0041,General Medicine,2025-10-14,13,Skin Allergy,Completed,D01
+A00885,P0072,General Medicine,2025-10-14,14,Hypertension,Completed,D01
+A02118,P0321,General Medicine,2025-10-14,14,Migraine,Completed,D01
+A01186,P0482,Dentistry,2025-10-14,11,Checkup,Cancelled,D08
+A00218,P0302,Cardiology,2025-10-15,15,Diabetes,Completed,D03
+A02274,P0279,Pediatrics,2025-10-15,11,Fever,Completed,D02
+A02173,P0146,Dentistry,2025-10-15,9,Dental Pain,Completed,D08
+A02127,P0297,Pediatrics,2025-10-15,9,Checkup,Completed,D02
+A01822,P0501,Dentistry,2025-10-15,12,Back Pain,Completed,D08
+A02756,P0315,Cardiology,2025-10-15,13,Migraine,Completed,D03
+A00953,P0088,Gynecology,2025-10-16,16,Skin Allergy,Completed,D06
+A01753,P0281,General Medicine,2025-10-16,9,Diabetes,Completed,D01
+A01237,P0010,Gynecology,2025-10-16,13,Checkup,Completed,D06
+A02633,P0303,Dermatology,2025-10-16,12,Hypertension,Completed,D04
+A02439,P0039,Cardiology,2025-10-16,12,Checkup,Completed,D03
+A01498,P0151,General Medicine,2025-10-16,10,Asthma,Completed,D01
+A01152,P0223,Pediatrics,2025-10-16,9,Hypertension,Completed,D02
+A02112,P0507,Cardiology,2025-10-16,18,Fever,Completed,D03
+A00786,P0194,Cardiology,2025-10-16,9,Asthma,Completed,D03
+A02847,P0088,ENT,2025-10-17,14,Asthma,Completed,D07
+A00041,P0421,Cardiology,2025-10-17,11,Infection,Cancelled,D03
+A01769,P0512,Cardiology,2025-10-17,9,Skin Allergy,Completed,D03
+A00480,P0173,ENT,2025-10-17,12,Back Pain,Completed,D07
+A01851,P0318,Cardiology,2025-10-17,17,Infection,Completed,D03
+A01302,P0370,General Medicine,2025-10-17,10,Back Pain,Completed,D01
+A00898,P0162,Orthopedics,2025-10-17,11,Infection,Completed,D05
+A02551,P0555,ENT,2025-10-17,9,Back Pain,Completed,D07
+A00005,P0095,Pediatrics,2025-10-17,9,Dental Pain,Completed,D02
+A00860,P0013,Pediatrics,2025-10-17,12,Skin Allergy,Completed,D02
+A02257,P0352,Pediatrics,2025-10-17,9,Hypertension,Cancelled,D02
+A00375,P0354,Dermatology,2025-10-18,9,Infection,No-Show,D04
+A01294,P0499,ENT,2025-10-18,14,Skin Allergy,Completed,D07
+A01826,P0442,Dermatology,2025-10-18,11,Fever,Completed,D04
+A02541,P0068,ENT,2025-10-18,11,Migraine,Completed,D07
+A00332,P0020,Orthopedics,2025-10-18,12,Diabetes,Completed,D05
+A00926,P0087,Pediatrics,2025-10-18,10,Checkup,Completed,D02
+A01350,P0560,Pediatrics,2025-10-18,12,Skin Allergy,Completed,D02
+A01029,P0019,Pediatrics,2025-10-18,11,Infection,Completed,D02
+A00560,P0515,Gynecology,2025-10-19,14,Back Pain,Completed,D06
+A01125,P0472,Cardiology,2025-10-19,14,Infection,No-Show,D03
+A01897,P0401,Pediatrics,2025-10-19,12,Migraine,Completed,D02
+A01126,P0288,Gynecology,2025-10-19,14,Hypertension,Completed,D06
+A01311,P0491,General Medicine,2025-10-19,12,Asthma,Completed,D01
+A01871,P0435,ENT,2025-10-19,15,Fever,Completed,D07
+A02674,P0004,Pediatrics,2025-10-20,17,Infection,Cancelled,D02
+A02281,P0536,Orthopedics,2025-10-20,15,Fever,Completed,D05
+A02056,P0175,Dermatology,2025-10-20,9,Infection,Completed,D04
+A00477,P0277,Gynecology,2025-10-20,12,Skin Allergy,Completed,D06
+A01729,P0157,General Medicine,2025-10-20,11,Checkup,No-Show,D01
+A02644,P0482,Gynecology,2025-10-20,10,Back Pain,Completed,D06
+A01409,P0352,General Medicine,2025-10-20,15,Hypertension,Completed,D01
+A00183,P0415,ENT,2025-10-20,11,Fever,Completed,D07
+A00222,P0168,ENT,2025-10-20,10,Hypertension,Completed,D07
+A00580,P0062,Dentistry,2025-10-20,13,Skin Allergy,Cancelled,D08
+A00085,P0359,Pediatrics,2025-10-21,15,Diabetes,Completed,D02
+A01133,P0144,ENT,2025-10-21,14,Dental Pain,Cancelled,D07
+A02388,P0207,General Medicine,2025-10-21,15,Diabetes,Completed,D01
+A00888,P0416,General Medicine,2025-10-21,9,Diabetes,Completed,D01
+A00103,P0367,Orthopedics,2025-10-21,9,Hypertension,Completed,D05
+A02158,P0146,Dentistry,2025-10-22,14,Skin Allergy,No-Show,D08
+A00362,P0538,Dentistry,2025-10-22,17,Infection,Completed,D08
+A01001,P0222,General Medicine,2025-10-22,10,Migraine,No-Show,D01
+A02139,P0501,General Medicine,2025-10-22,10,Hypertension,Completed,D01
+A02648,P0145,Cardiology,2025-10-22,9,Infection,Cancelled,D03
+A00325,P0295,Pediatrics,2025-10-22,13,Fever,Completed,D02
+A01440,P0429,Gynecology,2025-10-22,9,Diabetes,Completed,D06
+A02296,P0499,Gynecology,2025-10-23,10,Back Pain,Completed,D06
+A01764,P0433,General Medicine,2025-10-23,17,Dental Pain,Completed,D01
+A00096,P0283,Dermatology,2025-10-23,13,Infection,Completed,D04
+A00261,P0383,Gynecology,2025-10-23,19,Skin Allergy,No-Show,D06
+A02226,P0247,Gynecology,2025-10-23,14,Dental Pain,Cancelled,D06
+A00665,P0181,Gynecology,2025-10-23,17,Asthma,Completed,D06
+A00983,P0180,Cardiology,2025-10-23,11,Back Pain,Completed,D03
+A02044,P0271,ENT,2025-10-23,14,Fever,Completed,D07
+A00971,P0468,Cardiology,2025-10-24,9,Fever,Completed,D03
+A00541,P0172,General Medicine,2025-10-24,12,Back Pain,Cancelled,D01
+A00230,P0375,Gynecology,2025-10-24,9,Infection,Completed,D06
+A00063,P0375,General Medicine,2025-10-24,10,Skin Allergy,Completed,D01
+A02479,P0291,Dentistry,2025-10-24,12,Checkup,Completed,D08
+A00483,P0095,Dermatology,2025-10-24,13,Asthma,Completed,D04
+A00512,P0162,ENT,2025-10-24,10,Asthma,Completed,D07
+A00324,P0385,Gynecology,2025-10-25,11,Skin Allergy,Completed,D06
+A01635,P0262,Pediatrics,2025-10-25,13,Dental Pain,Completed,D02
+A01526,P0590,Cardiology,2025-10-25,17,Skin Allergy,Completed,D03
+A02558,P0067,Pediatrics,2025-10-25,10,Hypertension,Completed,D02
+A00316,P0073,ENT,2025-10-25,13,Hypertension,Cancelled,D07
+A01177,P0051,General Medicine,2025-10-25,9,Checkup,Cancelled,D01
+A01425,P0529,Dermatology,2025-10-25,11,Dental Pain,Cancelled,D04
+A01491,P0542,Gynecology,2025-10-25,12,Diabetes,No-Show,D06
+A01506,P0093,Dentistry,2025-10-25,12,Checkup,Completed,D08
+A01124,P0381,General Medicine,2025-10-25,14,Hypertension,Completed,D01
+A00453,P0413,Gynecology,2025-10-26,15,Infection,Completed,D06
+A01893,P0157,General Medicine,2025-10-26,10,Migraine,No-Show,D01
+A00345,P0156,Orthopedics,2025-10-26,11,Diabetes,Completed,D05
+A01105,P0397,Orthopedics,2025-10-26,16,Fever,Completed,D05
+A00514,P0598,ENT,2025-10-26,13,Skin Allergy,Completed,D07
+A02771,P0288,ENT,2025-10-26,16,Checkup,Completed,D07
+A02201,P0516,Orthopedics,2025-10-27,10,Diabetes,Completed,D05
+A00045,P0292,Gynecology,2025-10-27,13,Skin Allergy,Completed,D06
+A01163,P0257,General Medicine,2025-10-27,18,Back Pain,Completed,D01
+A00977,P0285,ENT,2025-10-27,11,Dental Pain,Completed,D07
+A02517,P0045,Pediatrics,2025-10-27,14,Checkup,No-Show,D02
+A02069,P0001,General Medicine,2025-10-27,12,Checkup,Completed,D01
+A02680,P0379,Pediatrics,2025-10-27,13,Hypertension,Completed,D02
+A01416,P0228,Cardiology,2025-10-28,9,Migraine,Completed,D03
+A02757,P0399,General Medicine,2025-10-28,14,Asthma,Completed,D01
+A00903,P0198,Dentistry,2025-10-28,18,Checkup,No-Show,D08
+A00708,P0212,General Medicine,2025-10-28,14,Migraine,Completed,D01
+A02311,P0231,Pediatrics,2025-10-28,9,Infection,Completed,D02
+A00670,P0564,General Medicine,2025-10-28,11,Skin Allergy,No-Show,D01
+A01095,P0375,Pediatrics,2025-10-28,13,Checkup,Completed,D02
+A02645,P0371,Pediatrics,2025-10-29,12,Asthma,Completed,D02
+A00767,P0564,General Medicine,2025-10-29,11,Migraine,Completed,D01
+A02833,P0593,General Medicine,2025-10-29,14,Infection,Completed,D01
+A02345,P0167,ENT,2025-10-29,14,Infection,Completed,D07
+A02404,P0157,Dentistry,2025-10-29,13,Hypertension,Completed,D08
+A01909,P0178,Orthopedics,2025-10-29,15,Migraine,Completed,D05
+A01487,P0351,General Medicine,2025-10-29,9,Infection,Completed,D01
+A01994,P0286,General Medicine,2025-10-29,9,Skin Allergy,Completed,D01
+A00361,P0232,ENT,2025-10-30,14,Skin Allergy,Completed,D07
+A01686,P0514,Dentistry,2025-10-30,9,Checkup,Completed,D08
+A01987,P0466,General Medicine,2025-10-30,13,Asthma,Completed,D01
+A02172,P0419,Pediatrics,2025-10-30,17,Hypertension,Completed,D02
+A02922,P0467,General Medicine,2025-10-30,14,Dental Pain,Completed,D01
+A02710,P0157,ENT,2025-10-30,13,Fever,Completed,D07
+A00390,P0104,Cardiology,2025-10-30,13,Diabetes,Completed,D03
+A00910,P0200,Gynecology,2025-10-30,15,Infection,Completed,D06
+A00582,P0440,ENT,2025-10-30,13,Asthma,Completed,D07
+A02402,P0306,General Medicine,2025-10-30,15,Diabetes,Completed,D01
+A02247,P0181,Dermatology,2025-10-30,9,Back Pain,Completed,D04
+A01864,P0091,Orthopedics,2025-10-31,9,Infection,Completed,D05
+A01112,P0163,Pediatrics,2025-10-31,17,Skin Allergy,Completed,D02
+A00342,P0386,General Medicine,2025-10-31,14,Dental Pain,No-Show,D01
+A01650,P0236,General Medicine,2025-10-31,10,Checkup,Cancelled,D01
+A01906,P0279,General Medicine,2025-10-31,14,Fever,Completed,D01
+A00166,P0182,Dentistry,2025-11-01,10,Checkup,Completed,D08
+A02735,P0427,General Medicine,2025-11-01,15,Checkup,Completed,D01
+A02432,P0039,General Medicine,2025-11-01,13,Checkup,Completed,D01
+A02299,P0401,Cardiology,2025-11-01,11,Migraine,Completed,D03
+A02233,P0522,Dermatology,2025-11-01,14,Fever,Completed,D04
+A01448,P0547,Gynecology,2025-11-01,13,Migraine,Completed,D06
+A00617,P0215,Dentistry,2025-11-01,9,Asthma,Completed,D08
+A00461,P0481,Cardiology,2025-11-01,17,Hypertension,Cancelled,D03
+A00571,P0164,Dermatology,2025-11-01,18,Back Pain,Cancelled,D04
+A00902,P0278,Gynecology,2025-11-01,13,Back Pain,Completed,D06
+A01285,P0293,Gynecology,2025-11-02,9,Diabetes,Cancelled,D06
+A02276,P0134,Dermatology,2025-11-02,10,Fever,Completed,D04
+A00626,P0317,Dermatology,2025-11-02,12,Diabetes,Completed,D04
+A02336,P0024,Gynecology,2025-11-02,17,Fever,Completed,D06
+A01802,P0568,ENT,2025-11-02,13,Asthma,Completed,D07
+A02521,P0196,Cardiology,2025-11-02,12,Hypertension,Completed,D03
+A00212,P0384,Orthopedics,2025-11-03,12,Dental Pain,Completed,D05
+A01743,P0511,Gynecology,2025-11-03,11,Migraine,Completed,D06
+A00036,P0598,Cardiology,2025-11-03,15,Migraine,Completed,D03
+A02373,P0064,Pediatrics,2025-11-03,12,Checkup,Completed,D02
+A01547,P0070,Orthopedics,2025-11-03,15,Dental Pain,Completed,D05
+A01986,P0410,Gynecology,2025-11-04,12,Fever,Completed,D06
+A02301,P0221,Dentistry,2025-11-04,9,Fever,Completed,D08
+A01406,P0479,Orthopedics,2025-11-04,17,Diabetes,Completed,D05
+A01114,P0004,Dermatology,2025-11-04,10,Fever,Completed,D04
+A01211,P0054,Pediatrics,2025-11-04,11,Migraine,Completed,D02
+A02465,P0321,ENT,2025-11-04,10,Diabetes,Completed,D07
+A02908,P0119,ENT,2025-11-04,11,Fever,Cancelled,D07
+A02067,P0539,General Medicine,2025-11-04,9,Dental Pain,Completed,D01
+A02229,P0370,ENT,2025-11-04,13,Dental Pain,Completed,D07
+A01371,P0265,Dentistry,2025-11-05,9,Infection,Completed,D08
+A01672,P0365,Orthopedics,2025-11-05,11,Migraine,Completed,D05
+A00106,P0518,General Medicine,2025-11-05,11,Migraine,Completed,D01
+A00481,P0105,General Medicine,2025-11-05,15,Infection,No-Show,D01
+A00092,P0438,Gynecology,2025-11-05,14,Checkup,Completed,D06
+A02212,P0562,ENT,2025-11-05,10,Fever,Completed,D07
+A00507,P0232,Pediatrics,2025-11-05,11,Checkup,Completed,D02
+A02231,P0252,Gynecology,2025-11-05,9,Fever,Completed,D06
+A01233,P0102,General Medicine,2025-11-05,10,Asthma,Cancelled,D01
+A01779,P0513,General Medicine,2025-11-05,9,Back Pain,Completed,D01
+A02603,P0506,Orthopedics,2025-11-05,20,Migraine,Completed,D05
+A00163,P0292,Pediatrics,2025-11-06,17,Dental Pain,Completed,D02
+A00732,P0497,Pediatrics,2025-11-06,11,Infection,Completed,D02
+A02738,P0038,General Medicine,2025-11-06,13,Dental Pain,Completed,D01
+A00509,P0446,Dermatology,2025-11-06,13,Checkup,Cancelled,D04
+A02119,P0504,General Medicine,2025-11-06,12,Dental Pain,Completed,D01
+A02705,P0562,General Medicine,2025-11-06,13,Skin Allergy,Completed,D01
+A00249,P0314,ENT,2025-11-06,16,Infection,Completed,D07
+A01854,P0007,Gynecology,2025-11-06,10,Hypertension,Cancelled,D06
+A01739,P0228,Gynecology,2025-11-06,15,Hypertension,Completed,D06
+A00725,P0432,Dermatology,2025-11-06,10,Dental Pain,Completed,D04
+A01575,P0094,General Medicine,2025-11-07,13,Infection,Completed,D01
+A01564,P0073,General Medicine,2025-11-07,11,Dental Pain,Completed,D01
+A02347,P0257,Pediatrics,2025-11-07,19,Skin Allergy,Completed,D02
+A01187,P0140,Cardiology,2025-11-07,9,Skin Allergy,Completed,D03
+A02484,P0471,Dentistry,2025-11-07,18,Migraine,Completed,D08
+A01099,P0452,Dermatology,2025-11-07,17,Dental Pain,Completed,D04
+A00641,P0273,Dermatology,2025-11-07,12,Skin Allergy,Completed,D04
+A01303,P0597,Pediatrics,2025-11-08,9,Checkup,Completed,D02
+A02348,P0148,Cardiology,2025-11-08,13,Fever,Completed,D03
+A01018,P0010,Dermatology,2025-11-08,15,Dental Pain,Completed,D04
+A01995,P0063,Pediatrics,2025-11-08,9,Diabetes,Completed,D02
+A00500,P0484,General Medicine,2025-11-08,15,Hypertension,Completed,D01
+A00719,P0072,Orthopedics,2025-11-08,14,Infection,Completed,D05
+A00462,P0117,ENT,2025-11-08,15,Skin Allergy,No-Show,D07
+A01648,P0406,ENT,2025-11-08,11,Fever,Completed,D07
+A00082,P0031,Dermatology,2025-11-08,10,Checkup,Completed,D04
+A00373,P0218,Pediatrics,2025-11-09,13,Back Pain,Completed,D02
+A01701,P0052,General Medicine,2025-11-09,13,Migraine,Completed,D01
+A01925,P0099,Gynecology,2025-11-09,15,Fever,Completed,D06
+A00960,P0272,Dermatology,2025-11-09,10,Hypertension,No-Show,D04
+A02539,P0573,Dentistry,2025-11-09,15,Checkup,Completed,D08
+A01075,P0281,Gynecology,2025-11-09,16,Asthma,No-Show,D06
+A02460,P0353,General Medicine,2025-11-09,12,Diabetes,Completed,D01
+A01119,P0594,General Medicine,2025-11-09,17,Skin Allergy,Completed,D01
+A01517,P0433,ENT,2025-11-10,15,Hypertension,Completed,D07
+A02010,P0020,Dentistry,2025-11-10,10,Skin Allergy,Cancelled,D08
+A01657,P0080,Cardiology,2025-11-10,13,Checkup,No-Show,D03
+A00081,P0029,Pediatrics,2025-11-10,12,Checkup,Completed,D02
+A00769,P0502,Pediatrics,2025-11-10,14,Fever,Completed,D02
+A01998,P0066,General Medicine,2025-11-10,12,Dental Pain,Completed,D01
+A01689,P0307,ENT,2025-11-11,19,Infection,Completed,D07
+A02321,P0219,Cardiology,2025-11-11,17,Hypertension,Completed,D03
+A00688,P0379,ENT,2025-11-11,15,Dental Pain,Completed,D07
+A01470,P0097,General Medicine,2025-11-11,11,Back Pain,Completed,D01
+A00638,P0126,Dentistry,2025-11-11,9,Fever,Completed,D08
+A00149,P0223,Cardiology,2025-11-11,15,Asthma,Completed,D03
+A01354,P0069,Dermatology,2025-11-11,10,Checkup,Completed,D04
+A01767,P0555,Pediatrics,2025-11-11,9,Back Pain,Completed,D02
+A00370,P0007,General Medicine,2025-11-11,15,Skin Allergy,Completed,D01
+A02426,P0097,General Medicine,2025-11-11,13,Skin Allergy,No-Show,D01
+A02731,P0527,Gynecology,2025-11-11,18,Back Pain,Cancelled,D06
+A02236,P0329,ENT,2025-11-11,15,Skin Allergy,Completed,D07
+A02799,P0271,Pediatrics,2025-11-12,12,Hypertension,Completed,D02
+A00805,P0455,Orthopedics,2025-11-12,13,Fever,Completed,D05
+A01022,P0031,Dentistry,2025-11-12,9,Hypertension,Completed,D08
+A00793,P0573,General Medicine,2025-11-12,12,Dental Pain,Completed,D01
+A01676,P0468,Gynecology,2025-11-13,10,Fever,Completed,D06
+A01653,P0133,General Medicine,2025-11-13,14,Asthma,Completed,D01
+A02584,P0539,General Medicine,2025-11-13,15,Migraine,Completed,D01
+A02673,P0383,Cardiology,2025-11-13,14,Infection,Completed,D03
+A00999,P0075,ENT,2025-11-13,18,Diabetes,Completed,D07
+A01926,P0289,Dentistry,2025-11-13,13,Asthma,Completed,D08
+A01680,P0488,ENT,2025-11-13,12,Checkup,No-Show,D07
+A02053,P0247,Dermatology,2025-11-14,15,Skin Allergy,Completed,D04
+A02159,P0098,Dentistry,2025-11-14,15,Diabetes,Completed,D08
+A01101,P0013,Gynecology,2025-11-14,11,Skin Allergy,Completed,D06
+A02149,P0560,Orthopedics,2025-11-14,12,Skin Allergy,Completed,D05
+A02379,P0557,General Medicine,2025-11-14,20,Asthma,Completed,D01
+A01877,P0528,Dermatology,2025-11-14,15,Asthma,Completed,D04
+A01591,P0336,General Medicine,2025-11-14,13,Skin Allergy,Completed,D01
+A02014,P0220,Orthopedics,2025-11-15,14,Diabetes,Completed,D05
+A02776,P0298,Orthopedics,2025-11-15,9,Dental Pain,Completed,D05
+A02935,P0202,Orthopedics,2025-11-15,9,Migraine,Cancelled,D05
+A02485,P0596,Gynecology,2025-11-15,13,Checkup,No-Show,D06
+A02357,P0433,Pediatrics,2025-11-15,13,Migraine,Completed,D02
+A02448,P0026,General Medicine,2025-11-15,12,Back Pain,Completed,D01
+A00471,P0063,Orthopedics,2025-11-15,12,Fever,Completed,D05
+A00416,P0562,Gynecology,2025-11-15,11,Checkup,Completed,D06
+A02356,P0151,Cardiology,2025-11-15,11,Fever,Completed,D03
+A00271,P0588,General Medicine,2025-11-16,11,Skin Allergy,Completed,D01
+A00759,P0544,Gynecology,2025-11-16,12,Diabetes,Completed,D06
+A00001,P0207,Orthopedics,2025-11-16,10,Infection,Completed,D05
+A01016,P0292,Pediatrics,2025-11-16,14,Fever,Cancelled,D02
+A02649,P0488,General Medicine,2025-11-16,15,Skin Allergy,Completed,D01
+A02891,P0401,ENT,2025-11-17,12,Infection,Completed,D07
+A01151,P0219,Pediatrics,2025-11-17,14,Migraine,Cancelled,D02
+A00396,P0178,General Medicine,2025-11-17,10,Migraine,Completed,D01
+A01289,P0129,Dermatology,2025-11-17,11,Back Pain,Completed,D04
+A01921,P0511,Pediatrics,2025-11-17,9,Infection,Completed,D02
+A01692,P0179,ENT,2025-11-17,14,Asthma,Completed,D07
+A00506,P0286,General Medicine,2025-11-17,14,Fever,Completed,D01
+A01661,P0568,Dermatology,2025-11-17,10,Skin Allergy,Completed,D04
+A00417,P0596,General Medicine,2025-11-17,15,Infection,Completed,D01
+A02191,P0522,Cardiology,2025-11-17,10,Checkup,Completed,D03
+A00623,P0082,Cardiology,2025-11-17,13,Dental Pain,Completed,D03
+A01128,P0030,Dermatology,2025-11-18,10,Fever,Completed,D04
+A01167,P0358,General Medicine,2025-11-18,10,Hypertension,Completed,D01
+A01469,P0128,General Medicine,2025-11-18,19,Infection,Completed,D01
+A00191,P0297,General Medicine,2025-11-18,9,Hypertension,Completed,D01
+A02083,P0589,General Medicine,2025-11-18,14,Diabetes,No-Show,D01
+A00828,P0403,General Medicine,2025-11-18,13,Asthma,Completed,D01
+A01013,P0298,General Medicine,2025-11-18,16,Infection,Completed,D01
+A01634,P0364,Dentistry,2025-11-18,9,Skin Allergy,No-Show,D08
+A00077,P0196,Pediatrics,2025-11-18,12,Dental Pain,Completed,D02
+A00016,P0181,General Medicine,2025-11-18,10,Infection,Completed,D01
+A01071,P0598,Dermatology,2025-11-18,14,Back Pain,Cancelled,D04
+A01172,P0409,Pediatrics,2025-11-18,14,Skin Allergy,Completed,D02
+A01297,P0084,Pediatrics,2025-11-19,19,Migraine,Completed,D02
+A01092,P0220,Dermatology,2025-11-19,11,Back Pain,Completed,D04
+A02898,P0468,Gynecology,2025-11-19,9,Diabetes,Cancelled,D06
+A00225,P0508,Orthopedics,2025-11-19,17,Skin Allergy,Completed,D05
+A00942,P0023,ENT,2025-11-19,9,Diabetes,Completed,D07
+A01695,P0355,Dermatology,2025-11-19,10,Skin Allergy,Completed,D04
+A02223,P0468,Orthopedics,2025-11-19,12,Asthma,Completed,D05
+A01629,P0045,General Medicine,2025-11-19,13,Asthma,Completed,D01
+A00824,P0317,Dermatology,2025-11-19,11,Infection,Completed,D04
+A01911,P0236,General Medicine,2025-11-20,13,Hypertension,Completed,D01
+A01138,P0508,Cardiology,2025-11-20,13,Dental Pain,Completed,D03
+A02416,P0534,General Medicine,2025-11-20,11,Dental Pain,Completed,D01
+A01502,P0378,Pediatrics,2025-11-20,13,Migraine,Completed,D02
+A00189,P0092,Pediatrics,2025-11-20,12,Checkup,Completed,D02
+A00847,P0133,Dentistry,2025-11-20,9,Infection,Cancelled,D08
+A02113,P0105,Dentistry,2025-11-20,13,Migraine,Completed,D08
+A01613,P0034,General Medicine,2025-11-20,15,Migraine,Completed,D01
+A00918,P0065,Gynecology,2025-11-20,12,Skin Allergy,Completed,D06
+A02762,P0372,General Medicine,2025-11-21,10,Checkup,Completed,D01
+A02398,P0282,Orthopedics,2025-11-21,11,Skin Allergy,Completed,D05
+A02450,P0105,Dermatology,2025-11-21,13,Infection,Completed,D04
+A00806,P0390,Dentistry,2025-11-21,14,Back Pain,Completed,D08
+A02123,P0171,Dentistry,2025-11-21,9,Back Pain,Completed,D08
+A02314,P0595,General Medicine,2025-11-22,16,Diabetes,Completed,D01
+A00575,P0106,Orthopedics,2025-11-22,14,Skin Allergy,Completed,D05
+A00984,P0139,Dentistry,2025-11-22,14,Back Pain,Completed,D08
+A01624,P0007,Pediatrics,2025-11-22,9,Fever,Completed,D02
+A02773,P0070,General Medicine,2025-11-22,12,Skin Allergy,Completed,D01
+A00088,P0199,General Medicine,2025-11-22,17,Skin Allergy,Completed,D01
+A01380,P0468,General Medicine,2025-11-22,12,Asthma,Completed,D01
+A00125,P0357,Dentistry,2025-11-22,9,Fever,Completed,D08
+A01916,P0531,General Medicine,2025-11-22,13,Hypertension,Completed,D01
+A00024,P0275,Orthopedics,2025-11-23,10,Asthma,No-Show,D05
+A00004,P0081,General Medicine,2025-11-23,9,Back Pain,Completed,D01
+A01319,P0117,Cardiology,2025-11-23,13,Skin Allergy,Completed,D03
+A01351,P0025,ENT,2025-11-23,16,Diabetes,Completed,D07
+A00881,P0458,Pediatrics,2025-11-23,17,Infection,Completed,D02
+A00175,P0285,General Medicine,2025-11-23,10,Fever,Cancelled,D01
+A02913,P0374,General Medicine,2025-11-23,18,Skin Allergy,Completed,D01
+A01327,P0528,ENT,2025-11-23,9,Skin Allergy,Completed,D07
+A01838,P0588,Cardiology,2025-11-24,19,Infection,Completed,D03
+A00262,P0156,ENT,2025-11-24,13,Back Pain,Completed,D07
+A00718,P0203,Pediatrics,2025-11-24,19,Skin Allergy,No-Show,D02
+A00369,P0134,General Medicine,2025-11-24,13,Diabetes,Completed,D01
+A00245,P0148,Pediatrics,2025-11-24,13,Back Pain,Completed,D02
+A01306,P0598,Dermatology,2025-11-24,11,Dental Pain,Completed,D04
+A00528,P0431,Gynecology,2025-11-25,9,Hypertension,Completed,D06
+A02166,P0579,Gynecology,2025-11-25,11,Checkup,Completed,D06
+A01241,P0576,General Medicine,2025-11-25,10,Fever,Completed,D01
+A01542,P0055,General Medicine,2025-11-25,17,Diabetes,Cancelled,D01
+A02655,P0054,General Medicine,2025-11-25,17,Fever,Completed,D01
+A01722,P0248,Gynecology,2025-11-25,9,Fever,Completed,D06
+A01501,P0063,Pediatrics,2025-11-25,10,Back Pain,Completed,D02
+A02483,P0475,General Medicine,2025-11-26,9,Asthma,Completed,D01
+A00766,P0003,General Medicine,2025-11-26,14,Fever,Completed,D01
+A01357,P0190,Pediatrics,2025-11-26,12,Fever,Completed,D02
+A01639,P0339,General Medicine,2025-11-26,12,Diabetes,Completed,D01
+A01888,P0234,Dermatology,2025-11-26,11,Fever,Completed,D04
+A00044,P0572,ENT,2025-11-26,20,Dental Pain,Completed,D07
+A02167,P0447,General Medicine,2025-11-26,19,Checkup,Completed,D01
+A00911,P0002,ENT,2025-11-26,9,Hypertension,Completed,D07
+A00536,P0236,General Medicine,2025-11-26,13,Checkup,Completed,D01
+A01339,P0389,Dermatology,2025-11-26,16,Dental Pain,Completed,D04
+A01080,P0454,General Medicine,2025-11-26,13,Back Pain,Completed,D01
+A02742,P0541,ENT,2025-11-26,12,Asthma,Completed,D07
+A00690,P0581,Dermatology,2025-11-27,15,Diabetes,Completed,D04
+A02852,P0360,Pediatrics,2025-11-27,13,Migraine,Cancelled,D02
+A01002,P0336,Gynecology,2025-11-27,17,Checkup,Cancelled,D06
+A02165,P0552,ENT,2025-11-27,20,Back Pain,Completed,D07
+A00981,P0572,General Medicine,2025-11-27,16,Asthma,No-Show,D01
+A01495,P0394,Cardiology,2025-11-27,13,Infection,Completed,D03
+A02324,P0096,Dermatology,2025-11-27,11,Migraine,Completed,D04
+A00408,P0446,Dentistry,2025-11-27,17,Skin Allergy,No-Show,D08
+A00914,P0062,ENT,2025-11-27,12,Back Pain,Completed,D07
+A00789,P0014,Cardiology,2025-11-27,16,Migraine,Completed,D03
+A01209,P0037,Dermatology,2025-11-27,9,Back Pain,Cancelled,D04
+A01417,P0271,General Medicine,2025-11-27,13,Asthma,Completed,D01
+A00602,P0059,Dermatology,2025-11-27,10,Diabetes,Completed,D04
+A01671,P0336,Cardiology,2025-11-27,13,Fever,Completed,D03
+A00938,P0047,Orthopedics,2025-11-28,9,Back Pain,Completed,D05
+A01645,P0147,General Medicine,2025-11-28,16,Infection,No-Show,D01
+A01747,P0067,Cardiology,2025-11-28,13,Back Pain,Completed,D03
+A01799,P0303,ENT,2025-11-28,9,Back Pain,Completed,D07
+A00048,P0130,Dentistry,2025-11-28,12,Skin Allergy,Completed,D08
+A00161,P0377,Cardiology,2025-11-28,15,Diabetes,Completed,D03
+A01910,P0017,General Medicine,2025-11-28,15,Back Pain,Completed,D01
+A01483,P0110,ENT,2025-11-29,14,Asthma,Completed,D07
+A02386,P0468,General Medicine,2025-11-29,11,Hypertension,Completed,D01
+A01204,P0066,Pediatrics,2025-11-29,16,Skin Allergy,Completed,D02
+A00352,P0463,Gynecology,2025-11-29,17,Back Pain,Completed,D06
+A02721,P0287,Gynecology,2025-11-30,18,Fever,Completed,D06
+A01381,P0092,ENT,2025-11-30,9,Migraine,Completed,D07
+A02526,P0364,Orthopedics,2025-11-30,16,Infection,Completed,D05
+A02009,P0424,General Medicine,2025-11-30,12,Asthma,Completed,D01
+A00768,P0414,Dermatology,2025-11-30,10,Dental Pain,Completed,D04
+A02163,P0586,Cardiology,2025-11-30,17,Asthma,Completed,D03
+A00433,P0251,Dermatology,2025-11-30,12,Asthma,No-Show,D04
+A02342,P0193,General Medicine,2025-12-01,11,Asthma,Completed,D01
+A01421,P0045,Pediatrics,2025-12-01,16,Dental Pain,Cancelled,D02
+A00854,P0517,General Medicine,2025-12-01,12,Fever,Completed,D01
+A02813,P0512,Gynecology,2025-12-01,14,Diabetes,Completed,D06
+A00156,P0289,Gynecology,2025-12-01,17,Migraine,Completed,D06
+A00543,P0355,General Medicine,2025-12-01,18,Asthma,Completed,D01
+A02534,P0495,Cardiology,2025-12-01,10,Diabetes,Completed,D03
+A00887,P0596,General Medicine,2025-12-01,11,Skin Allergy,Cancelled,D01
+A00378,P0377,Orthopedics,2025-12-01,9,Checkup,Completed,D05
+A00637,P0208,General Medicine,2025-12-02,15,Dental Pain,Completed,D01
+A00997,P0023,Dermatology,2025-12-02,10,Diabetes,No-Show,D04
+A00146,P0092,Gynecology,2025-12-02,12,Asthma,Completed,D06
+A01875,P0351,ENT,2025-12-02,9,Asthma,No-Show,D07
+A02768,P0177,ENT,2025-12-02,11,Hypertension,Cancelled,D07
+A01039,P0173,Cardiology,2025-12-03,10,Infection,Cancelled,D03
+A00470,P0567,Cardiology,2025-12-03,11,Skin Allergy,Completed,D03
+A01108,P0352,ENT,2025-12-03,11,Asthma,Completed,D07
+A01619,P0063,Pediatrics,2025-12-03,13,Infection,Completed,D02
+A00069,P0583,Cardiology,2025-12-03,11,Back Pain,Completed,D03
+A00445,P0333,Cardiology,2025-12-03,9,Back Pain,Completed,D03
+A02940,P0034,General Medicine,2025-12-03,20,Infection,Completed,D01
+A00689,P0573,Cardiology,2025-12-03,17,Back Pain,Cancelled,D03
+A00251,P0095,Pediatrics,2025-12-03,11,Diabetes,Completed,D02
+A01389,P0093,General Medicine,2025-12-03,13,Checkup,Completed,D01
+A02609,P0156,Pediatrics,2025-12-03,9,Hypertension,Completed,D02
+A01026,P0174,Dermatology,2025-12-03,15,Diabetes,Completed,D04
+A01130,P0555,General Medicine,2025-12-04,17,Checkup,Completed,D01
+A01959,P0318,General Medicine,2025-12-04,12,Checkup,Completed,D01
+A01174,P0578,General Medicine,2025-12-04,16,Back Pain,Cancelled,D01
+A00174,P0187,General Medicine,2025-12-04,10,Hypertension,No-Show,D01
+A00233,P0477,Dentistry,2025-12-04,12,Fever,No-Show,D08
+A01378,P0122,General Medicine,2025-12-04,12,Dental Pain,Completed,D01
+A00772,P0541,Orthopedics,2025-12-04,9,Infection,Completed,D05
+A02724,P0311,Dermatology,2025-12-05,10,Migraine,No-Show,D04
+A01834,P0046,Orthopedics,2025-12-05,10,Hypertension,Completed,D05
+A02421,P0276,Dermatology,2025-12-05,14,Skin Allergy,Completed,D04
+A00930,P0378,Dermatology,2025-12-05,12,Checkup,Completed,D04
+A00366,P0198,Cardiology,2025-12-05,11,Hypertension,No-Show,D03
+A00073,P0400,Pediatrics,2025-12-05,12,Back Pain,Completed,D02
+A00310,P0169,Dermatology,2025-12-05,9,Fever,Completed,D04
+A01203,P0555,ENT,2025-12-06,16,Checkup,Completed,D07
+A02817,P0095,General Medicine,2025-12-06,9,Checkup,Completed,D01
+A01098,P0154,Cardiology,2025-12-06,14,Migraine,No-Show,D03
+A00556,P0526,Dermatology,2025-12-06,16,Dental Pain,Completed,D04
+A02011,P0066,Dentistry,2025-12-06,12,Diabetes,Completed,D08
+A00622,P0500,Gynecology,2025-12-06,16,Back Pain,Completed,D06
+A00376,P0308,Dentistry,2025-12-06,11,Skin Allergy,Completed,D08
+A02017,P0205,Dentistry,2025-12-06,11,Checkup,Cancelled,D08
+A01391,P0011,Dermatology,2025-12-07,11,Fever,Completed,D04
+A01808,P0343,Pediatrics,2025-12-07,10,Migraine,Completed,D02
+A01521,P0361,General Medicine,2025-12-07,14,Diabetes,No-Show,D01
+A01317,P0482,Dentistry,2025-12-07,16,Hypertension,No-Show,D08
+A01886,P0003,Dentistry,2025-12-07,9,Fever,Completed,D08
+A01415,P0302,Orthopedics,2025-12-07,12,Skin Allergy,No-Show,D05
+A00399,P0249,General Medicine,2025-12-08,11,Dental Pain,No-Show,D01
+A02238,P0366,Pediatrics,2025-12-08,9,Diabetes,Completed,D02
+A01857,P0533,Pediatrics,2025-12-08,10,Fever,Completed,D02
+A01620,P0566,Dermatology,2025-12-08,11,Infection,Completed,D04
+A02668,P0113,Dermatology,2025-12-09,9,Hypertension,Completed,D04
+A01437,P0560,General Medicine,2025-12-09,13,Fever,Completed,D01
+A02355,P0088,Orthopedics,2025-12-09,15,Asthma,Completed,D05
+A01207,P0491,General Medicine,2025-12-09,12,Dental Pain,Completed,D01
+A02320,P0086,Pediatrics,2025-12-09,9,Fever,Completed,D02
+A01201,P0205,Pediatrics,2025-12-09,12,Migraine,Completed,D02
+A02351,P0319,Cardiology,2025-12-10,12,Migraine,Completed,D03
+A02641,P0244,Dermatology,2025-12-10,15,Skin Allergy,Completed,D04
+A02934,P0135,General Medicine,2025-12-10,9,Checkup,Completed,D01
+A02101,P0434,ENT,2025-12-10,18,Infection,Completed,D07
+A02140,P0307,Gynecology,2025-12-10,11,Skin Allergy,Completed,D06
+A00076,P0494,Orthopedics,2025-12-10,11,Diabetes,Completed,D05
+A00259,P0178,Cardiology,2025-12-10,12,Checkup,Completed,D03
+A01107,P0505,General Medicine,2025-12-10,14,Diabetes,Completed,D01
+A01343,P0370,General Medicine,2025-12-11,9,Skin Allergy,No-Show,D01
+A01451,P0516,Dentistry,2025-12-11,11,Infection,Completed,D08
+A00761,P0307,Dentistry,2025-12-11,10,Hypertension,Completed,D08
+A01652,P0009,Dermatology,2025-12-11,11,Dental Pain,Cancelled,D04
+A01299,P0136,ENT,2025-12-11,13,Checkup,Completed,D07
+A01247,P0385,General Medicine,2025-12-11,12,Checkup,Completed,D01
+A00455,P0534,ENT,2025-12-11,11,Diabetes,Completed,D07
+A02627,P0521,Dermatology,2025-12-11,12,Diabetes,Completed,D04
+A00570,P0341,Dermatology,2025-12-11,15,Asthma,Completed,D04
+A01821,P0083,Dermatology,2025-12-12,17,Skin Allergy,Cancelled,D04
+A01633,P0117,General Medicine,2025-12-12,18,Diabetes,Completed,D01
+A01227,P0216,General Medicine,2025-12-12,9,Skin Allergy,Cancelled,D01
+A00190,P0172,Orthopedics,2025-12-12,12,Diabetes,Completed,D05
+A01141,P0100,Dermatology,2025-12-12,15,Back Pain,Completed,D04
+A00502,P0456,Gynecology,2025-12-12,11,Asthma,Completed,D06
+A02316,P0108,Gynecology,2025-12-12,19,Checkup,Completed,D06
+A02733,P0160,Cardiology,2025-12-12,13,Infection,Completed,D03
+A00709,P0514,Orthopedics,2025-12-12,10,Infection,Completed,D05
+A01948,P0398,Cardiology,2025-12-12,9,Diabetes,Completed,D03
+A01284,P0468,General Medicine,2025-12-12,14,Skin Allergy,Cancelled,D01
+A01160,P0301,Dermatology,2025-12-13,10,Hypertension,Completed,D04
+A02039,P0545,Dentistry,2025-12-13,10,Migraine,Completed,D08
+A00680,P0022,Orthopedics,2025-12-13,15,Skin Allergy,Completed,D05
+A02033,P0259,Gynecology,2025-12-13,19,Infection,No-Show,D06
+A02406,P0199,Pediatrics,2025-12-13,9,Dental Pain,Completed,D02
+A01627,P0336,General Medicine,2025-12-13,14,Dental Pain,Completed,D01
+A01392,P0037,Pediatrics,2025-12-14,14,Diabetes,Completed,D02
+A01603,P0151,Cardiology,2025-12-14,16,Dental Pain,Completed,D03
+A01837,P0006,Gynecology,2025-12-14,14,Diabetes,Completed,D06
+A00171,P0136,ENT,2025-12-14,14,Skin Allergy,Completed,D07
+A00040,P0041,Dermatology,2025-12-14,14,Hypertension,Completed,D04
+A01675,P0174,ENT,2025-12-14,17,Infection,Completed,D07
+A01479,P0554,Orthopedics,2025-12-14,10,Infection,Completed,D05
+A00403,P0517,Orthopedics,2025-12-14,15,Asthma,Completed,D05
+A00100,P0460,Cardiology,2025-12-15,13,Diabetes,No-Show,D03
+A02063,P0212,Dermatology,2025-12-15,14,Checkup,Completed,D04
+A01647,P0568,General Medicine,2025-12-15,11,Asthma,Completed,D01
+A02808,P0303,Dentistry,2025-12-15,9,Migraine,Completed,D08
+A01025,P0513,General Medicine,2025-12-15,15,Back Pain,Completed,D01
+A01588,P0331,ENT,2025-12-15,10,Asthma,Completed,D07
+A01835,P0159,Orthopedics,2025-12-15,12,Infection,Cancelled,D05
+A00811,P0108,Dentistry,2025-12-15,13,Dental Pain,Completed,D08
+A00289,P0177,ENT,2025-12-15,12,Infection,No-Show,D07
+A01435,P0392,Dermatology,2025-12-16,13,Fever,Completed,D04
+A02209,P0521,Cardiology,2025-12-16,10,Diabetes,Cancelled,D03
+A01454,P0160,Pediatrics,2025-12-16,15,Checkup,Completed,D02
+A00418,P0047,Pediatrics,2025-12-16,14,Migraine,Completed,D02
+A01232,P0180,Pediatrics,2025-12-16,11,Diabetes,Completed,D02
+A02481,P0508,General Medicine,2025-12-16,11,Hypertension,Completed,D01
+A02920,P0463,Pediatrics,2025-12-16,11,Skin Allergy,Cancelled,D02
+A01658,P0565,Cardiology,2025-12-16,10,Dental Pain,No-Show,D03
+A00899,P0411,Cardiology,2025-12-16,20,Migraine,Completed,D03
+A00105,P0146,Orthopedics,2025-12-16,15,Fever,Cancelled,D05
+A01662,P0419,ENT,2025-12-17,11,Checkup,Completed,D07
+A02815,P0051,Gynecology,2025-12-17,10,Infection,Completed,D06
+A02706,P0587,Pediatrics,2025-12-17,13,Fever,Cancelled,D02
+A00760,P0135,Gynecology,2025-12-18,11,Hypertension,Cancelled,D06
+A01348,P0120,Pediatrics,2025-12-18,10,Dental Pain,Completed,D02
+A00778,P0455,Pediatrics,2025-12-18,11,Diabetes,Completed,D02
+A02424,P0428,General Medicine,2025-12-18,16,Checkup,Completed,D01
+A01296,P0388,ENT,2025-12-18,10,Diabetes,No-Show,D07
+A02218,P0518,Pediatrics,2025-12-19,9,Fever,Completed,D02
+A02877,P0189,Cardiology,2025-12-19,9,Skin Allergy,Completed,D03
+A02428,P0303,Dentistry,2025-12-19,14,Migraine,Completed,D08
+A00206,P0255,Pediatrics,2025-12-19,16,Asthma,Completed,D02
+A02788,P0291,Gynecology,2025-12-19,9,Asthma,Completed,D06
+A01426,P0557,General Medicine,2025-12-20,9,Skin Allergy,Completed,D01
+A01999,P0313,Dentistry,2025-12-20,13,Checkup,Completed,D08
+A02425,P0239,Pediatrics,2025-12-20,12,Diabetes,Completed,D02
+A00933,P0538,Gynecology,2025-12-20,16,Infection,Completed,D06
+A02729,P0224,General Medicine,2025-12-20,18,Diabetes,Completed,D01
+A01853,P0516,Dermatology,2025-12-20,17,Fever,Completed,D04
+A01042,P0340,General Medicine,2025-12-20,13,Diabetes,Completed,D01
+A02753,P0109,ENT,2025-12-20,10,Skin Allergy,Completed,D07
+A02049,P0504,Cardiology,2025-12-21,15,Checkup,Completed,D03
+A02533,P0595,ENT,2025-12-21,14,Migraine,Completed,D07
+A00779,P0297,Dentistry,2025-12-21,13,Migraine,Completed,D08
+A02482,P0165,Pediatrics,2025-12-21,15,Skin Allergy,Completed,D02
+A00505,P0175,Gynecology,2025-12-21,15,Dental Pain,Completed,D06
+A00607,P0451,Pediatrics,2025-12-21,11,Checkup,Completed,D02
+A00574,P0349,Orthopedics,2025-12-22,14,Migraine,Completed,D05
+A02451,P0181,Pediatrics,2025-12-22,19,Migraine,Completed,D02
+A01746,P0458,Pediatrics,2025-12-22,13,Asthma,Completed,D02
+A01720,P0123,Dentistry,2025-12-22,14,Diabetes,Completed,D08
+A01066,P0039,General Medicine,2025-12-22,9,Infection,Completed,D01
+A01089,P0335,General Medicine,2025-12-22,15,Checkup,Completed,D01
+A01267,P0156,Pediatrics,2025-12-22,13,Skin Allergy,Completed,D02
+A01368,P0046,ENT,2025-12-22,14,Dental Pain,Completed,D07
+A00340,P0249,Pediatrics,2025-12-22,14,Infection,Completed,D02
+A00142,P0406,Cardiology,2025-12-23,10,Fever,Completed,D03
+A01359,P0543,Dentistry,2025-12-23,17,Diabetes,Completed,D08
+A02867,P0517,Dermatology,2025-12-23,16,Fever,No-Show,D04
+A00869,P0008,Pediatrics,2025-12-23,9,Dental Pain,Completed,D02
+A00387,P0261,Pediatrics,2025-12-23,11,Back Pain,Completed,D02
+A00877,P0207,General Medicine,2025-12-23,10,Migraine,Completed,D01
+A01920,P0067,General Medicine,2025-12-23,10,Checkup,Completed,D01
+A02606,P0194,General Medicine,2025-12-23,9,Fever,Completed,D01
+A00234,P0414,Orthopedics,2025-12-23,15,Migraine,Completed,D05
+A01946,P0445,Gynecology,2025-12-23,9,Infection,No-Show,D06
+A01169,P0285,Cardiology,2025-12-23,20,Back Pain,Completed,D03
+A02796,P0519,Dermatology,2025-12-23,16,Fever,Completed,D04
+A02718,P0462,Gynecology,2025-12-23,13,Dental Pain,Completed,D06
+A00430,P0143,Cardiology,2025-12-23,16,Asthma,Completed,D03
+A01690,P0023,General Medicine,2025-12-24,17,Fever,Completed,D01
+A02737,P0098,General Medicine,2025-12-24,11,Infection,Completed,D01
+A01863,P0119,Orthopedics,2025-12-24,18,Fever,Completed,D05
+A00275,P0269,Dentistry,2025-12-24,16,Skin Allergy,Completed,D08
+A01512,P0230,Orthopedics,2025-12-24,11,Skin Allergy,Cancelled,D05
+A00703,P0108,ENT,2025-12-24,10,Skin Allergy,Completed,D07
+A00562,P0294,Orthopedics,2025-12-24,12,Hypertension,Cancelled,D05
+A02834,P0440,Cardiology,2025-12-25,14,Dental Pain,Completed,D03
+A01587,P0053,Gynecology,2025-12-25,16,Infection,Completed,D06
+A02420,P0049,ENT,2025-12-25,9,Infection,Completed,D07
+A01810,P0346,Dermatology,2025-12-25,11,Back Pain,Completed,D04
+A02153,P0390,General Medicine,2025-12-25,9,Diabetes,Completed,D01
+A01148,P0197,Dermatology,2025-12-26,13,Skin Allergy,Completed,D04
+A00364,P0224,Pediatrics,2025-12-26,16,Fever,Completed,D02
+A01074,P0201,General Medicine,2025-12-26,15,Diabetes,Completed,D01
+A00133,P0552,ENT,2025-12-26,15,Dental Pain,No-Show,D07
+A00545,P0426,Cardiology,2025-12-26,15,Infection,Cancelled,D03
+A02512,P0269,Pediatrics,2025-12-26,12,Fever,Completed,D02
+A00917,P0597,Dermatology,2025-12-27,16,Infection,Completed,D04
+A01513,P0540,Gynecology,2025-12-27,11,Back Pain,Completed,D06
+A01905,P0412,General Medicine,2025-12-27,10,Skin Allergy,Completed,D01
+A01387,P0348,Orthopedics,2025-12-27,9,Skin Allergy,Cancelled,D05
+A00894,P0303,Gynecology,2025-12-27,9,Diabetes,Completed,D06
+A01958,P0595,Dermatology,2025-12-27,15,Hypertension,Completed,D04
+A00872,P0529,Dentistry,2025-12-27,9,Fever,Completed,D08
+A00579,P0009,Dermatology,2025-12-27,15,Dental Pain,Completed,D04
+A00305,P0472,General Medicine,2025-12-28,11,Migraine,Completed,D01
+A02544,P0024,Dentistry,2025-12-28,13,Diabetes,Completed,D08
+A00463,P0356,General Medicine,2025-12-28,10,Back Pain,Completed,D01
+A00056,P0295,ENT,2025-12-28,9,Dental Pain,Completed,D07
+A02255,P0010,General Medicine,2025-12-28,11,Fever,Completed,D01
+A01849,P0184,Dentistry,2025-12-28,13,Dental Pain,Cancelled,D08
+A02305,P0310,Dermatology,2025-12-28,18,Hypertension,Completed,D04
+A00842,P0250,Dermatology,2025-12-28,13,Migraine,Completed,D04
+A02687,P0508,Pediatrics,2025-12-28,10,Back Pain,No-Show,D02
+A02105,P0139,Orthopedics,2025-12-29,12,Skin Allergy,Completed,D05
+A01405,P0460,Dentistry,2025-12-29,9,Asthma,Completed,D08
+A01982,P0017,Orthopedics,2025-12-29,9,Diabetes,Completed,D05
+A02020,P0261,Dentistry,2025-12-29,9,Skin Allergy,Completed,D08
+A01181,P0485,Dentistry,2025-12-29,12,Skin Allergy,Completed,D08
+A01712,P0529,General Medicine,2025-12-29,13,Diabetes,Completed,D01
+A01197,P0476,ENT,2025-12-30,13,Diabetes,Completed,D07
+A01887,P0305,General Medicine,2025-12-30,13,Asthma,Completed,D01
+A00692,P0598,Orthopedics,2025-12-30,10,Dental Pain,Completed,D05
+A01178,P0251,Dermatology,2025-12-30,16,Back Pain,Completed,D04
+A02619,P0106,Dentistry,2025-12-30,20,Fever,Completed,D08
+A01337,P0162,Cardiology,2025-12-30,9,Checkup,Cancelled,D03
+A00583,P0513,Dentistry,2025-12-30,15,Hypertension,Completed,D08
+A02027,P0340,ENT,2025-12-30,13,Diabetes,Completed,D07
+A02906,P0451,Pediatrics,2025-12-30,15,Hypertension,Completed,D02
+A01775,P0473,General Medicine,2025-12-30,12,Checkup,No-Show,D01
+A00678,P0357,Dentistry,2025-12-30,18,Dental Pain,Cancelled,D08
+A00863,P0492,Gynecology,2025-12-30,9,Dental Pain,Completed,D06
+A00867,P0154,ENT,2025-12-31,14,Back Pain,Completed,D07
+A00859,P0135,General Medicine,2025-12-31,17,Back Pain,Cancelled,D01
+A02089,P0018,Pediatrics,2025-12-31,13,Dental Pain,Completed,D02
+A00459,P0052,Gynecology,2025-12-31,9,Back Pain,Completed,D06
+A01527,P0146,Gynecology,2025-12-31,13,Back Pain,Completed,D06
+A02198,P0468,Dentistry,2025-12-31,13,Dental Pain,Completed,D08
+A02652,P0003,Pediatrics,2025-12-31,11,Back Pain,Completed,D02
+A01757,P0360,Cardiology,2025-12-31,9,Fever,Completed,D03
+A00179,P0516,Dentistry,2025-12-31,14,Asthma,Cancelled,D08
+A02791,P0595,ENT,2025-12-31,11,Skin Allergy,Completed,D07
+A01825,P0329,General Medicine,2025-12-31,16,Skin Allergy,Completed,D01
+A00944,P0540,General Medicine,2025-12-31,9,Fever,No-Show,D01
+A00735,P0070,Cardiology,2025-12-31,13,Back Pain,Completed,D03
+A00138,P0546,Pediatrics,2025-12-31,13,Dental Pain,Cancelled,D02
+A02711,P0381,General Medicine,2025-12-31,14,Checkup,Completed,D01
+A01723,P0523,Gynecology,2025-12-31,15,Dental Pain,Completed,D06
+A02803,P0011,Orthopedics,2026-01-01,11,Dental Pain,Completed,D05
+A01788,P0297,General Medicine,2026-01-01,10,Infection,Completed,D01
+A01972,P0296,ENT,2026-01-01,10,Back Pain,No-Show,D07
+A02675,P0580,General Medicine,2026-01-01,14,Diabetes,Completed,D01
+A01607,P0517,General Medicine,2026-01-01,20,Checkup,Completed,D01
+A00744,P0043,General Medicine,2026-01-01,9,Skin Allergy,Completed,D01
+A01806,P0124,Orthopedics,2026-01-01,12,Back Pain,Completed,D05
+A00144,P0424,Gynecology,2026-01-02,9,Asthma,Cancelled,D06
+A02380,P0461,General Medicine,2026-01-02,17,Checkup,Completed,D01
+A02400,P0372,General Medicine,2026-01-02,9,Checkup,Completed,D01
+A01963,P0569,Pediatrics,2026-01-02,11,Dental Pain,Cancelled,D02
+A01383,P0121,Orthopedics,2026-01-02,12,Back Pain,Cancelled,D05
+A02098,P0546,Cardiology,2026-01-02,12,Hypertension,Completed,D03
+A02006,P0356,Dentistry,2026-01-02,9,Migraine,Completed,D08
+A02840,P0445,Dermatology,2026-01-02,9,Back Pain,Completed,D04
+A00421,P0120,Cardiology,2026-01-02,12,Dental Pain,Completed,D03
+A01772,P0442,Gynecology,2026-01-03,10,Dental Pain,Completed,D06
+A02650,P0413,Dermatology,2026-01-03,11,Skin Allergy,Completed,D04
+A01685,P0120,Pediatrics,2026-01-03,14,Diabetes,Completed,D02
+A00246,P0490,ENT,2026-01-03,10,Hypertension,Completed,D07
+A00247,P0508,Pediatrics,2026-01-03,11,Fever,Completed,D02
+A01892,P0354,Orthopedics,2026-01-03,16,Hypertension,Completed,D05
+A01031,P0159,General Medicine,2026-01-03,10,Hypertension,Completed,D01
+A00120,P0022,General Medicine,2026-01-03,13,Dental Pain,Completed,D01
+A01795,P0450,ENT,2026-01-04,11,Back Pain,Completed,D07
+A02052,P0375,Gynecology,2026-01-04,13,Diabetes,Completed,D06
+A02387,P0356,Pediatrics,2026-01-04,17,Checkup,Cancelled,D02
+A00372,P0104,Gynecology,2026-01-04,13,Checkup,Completed,D06
+A01290,P0244,General Medicine,2026-01-04,12,Skin Allergy,Cancelled,D01
+A02561,P0419,Orthopedics,2026-01-04,11,Hypertension,Completed,D05
+A00788,P0427,General Medicine,2026-01-04,15,Checkup,Cancelled,D01
+A01525,P0092,Cardiology,2026-01-04,12,Fever,No-Show,D03
+A02536,P0410,Dentistry,2026-01-04,16,Hypertension,Completed,D08
+A02727,P0226,Orthopedics,2026-01-04,20,Skin Allergy,Completed,D05
+A01159,P0255,General Medicine,2026-01-04,12,Infection,No-Show,D01
+A01537,P0552,Gynecology,2026-01-05,11,Fever,Completed,D06
+A00886,P0096,Orthopedics,2026-01-05,11,Back Pain,Completed,D05
+A01733,P0399,General Medicine,2026-01-05,11,Back Pain,Completed,D01
+A01194,P0450,Gynecology,2026-01-05,14,Fever,Completed,D06
+A02591,P0444,Gynecology,2026-01-05,13,Checkup,Completed,D06
+A00835,P0596,Orthopedics,2026-01-05,14,Diabetes,Completed,D05
+A02829,P0285,Orthopedics,2026-01-05,16,Skin Allergy,Completed,D05
+A01815,P0222,Gynecology,2026-01-05,11,Hypertension,Completed,D06
+A01067,P0519,ENT,2026-01-05,14,Asthma,Cancelled,D07
+A02469,P0578,Dentistry,2026-01-05,19,Diabetes,Completed,D08
+A01213,P0455,Pediatrics,2026-01-05,13,Diabetes,Completed,D02
+A00250,P0503,Gynecology,2026-01-06,10,Migraine,Cancelled,D06
+A01444,P0126,Dermatology,2026-01-06,14,Back Pain,Completed,D04
+A01752,P0466,Orthopedics,2026-01-06,12,Diabetes,Cancelled,D05
+A01059,P0188,ENT,2026-01-06,20,Fever,Completed,D07
+A00384,P0182,Cardiology,2026-01-06,11,Infection,Completed,D03
+A00820,P0517,Dentistry,2026-01-06,12,Dental Pain,Completed,D08
+A02272,P0159,Orthopedics,2026-01-06,9,Diabetes,Completed,D05
+A02503,P0414,Gynecology,2026-01-06,16,Migraine,Completed,D06
+A02258,P0414,General Medicine,2026-01-06,9,Diabetes,Completed,D01
+A00035,P0202,Dentistry,2026-01-06,11,Diabetes,Completed,D08
+A01531,P0226,Orthopedics,2026-01-06,14,Skin Allergy,Completed,D05
+A02719,P0374,Cardiology,2026-01-06,14,Diabetes,Completed,D03
+A01238,P0519,Cardiology,2026-01-06,13,Infection,Completed,D03
+A01944,P0027,Gynecology,2026-01-06,13,Skin Allergy,Completed,D06
+A00868,P0429,General Medicine,2026-01-06,17,Fever,Completed,D01
+A02022,P0346,Cardiology,2026-01-06,18,Infection,Completed,D03
+A01984,P0182,General Medicine,2026-01-06,13,Hypertension,Completed,D01
+A02383,P0546,Pediatrics,2026-01-07,13,Migraine,Cancelled,D02
+A00055,P0006,ENT,2026-01-07,11,Asthma,Completed,D07
+A01143,P0470,General Medicine,2026-01-07,9,Diabetes,Completed,D01
+A02845,P0588,General Medicine,2026-01-07,9,Checkup,No-Show,D01
+A02560,P0075,General Medicine,2026-01-07,13,Infection,Completed,D01
+A02899,P0540,Cardiology,2026-01-07,11,Checkup,Completed,D03
+A01859,P0541,Orthopedics,2026-01-07,18,Diabetes,Completed,D05
+A02548,P0085,General Medicine,2026-01-07,14,Skin Allergy,Completed,D01
+A02240,P0394,Orthopedics,2026-01-07,17,Dental Pain,Completed,D05
+A01792,P0248,Dermatology,2026-01-07,9,Diabetes,Completed,D04
+A01456,P0289,Dentistry,2026-01-07,9,Checkup,Completed,D08
+A00715,P0589,ENT,2026-01-07,18,Back Pain,Completed,D07
+A01732,P0489,Dermatology,2026-01-08,12,Diabetes,Completed,D04
+A01198,P0541,ENT,2026-01-08,11,Fever,Cancelled,D07
+A01884,P0507,Cardiology,2026-01-08,13,Hypertension,Completed,D03
+A00710,P0232,General Medicine,2026-01-08,9,Diabetes,Completed,D01
+A02708,P0349,Dermatology,2026-01-08,9,Asthma,Completed,D04
+A02816,P0087,Pediatrics,2026-01-08,13,Fever,Completed,D02
+A01569,P0152,General Medicine,2026-01-08,12,Back Pain,Cancelled,D01
+A02026,P0290,General Medicine,2026-01-08,10,Asthma,Completed,D01
+A01991,P0251,Pediatrics,2026-01-08,10,Hypertension,Completed,D02
+A00833,P0125,Gynecology,2026-01-08,16,Migraine,No-Show,D06
+A02772,P0569,General Medicine,2026-01-08,12,Infection,Cancelled,D01
+A01623,P0403,Gynecology,2026-01-09,14,Skin Allergy,Completed,D06
+A01349,P0226,Gynecology,2026-01-09,12,Checkup,Completed,D06
+A02199,P0420,General Medicine,2026-01-09,11,Hypertension,Completed,D01
+A00529,P0341,General Medicine,2026-01-09,13,Migraine,Completed,D01
+A02636,P0058,Dermatology,2026-01-09,13,Diabetes,Completed,D04
+A02333,P0369,Orthopedics,2026-01-09,11,Hypertension,Completed,D05
+A01338,P0102,Orthopedics,2026-01-09,12,Hypertension,Cancelled,D05
+A00299,P0383,General Medicine,2026-01-09,14,Migraine,Completed,D01
+A01195,P0357,Orthopedics,2026-01-09,13,Hypertension,Completed,D05
+A01866,P0577,ENT,2026-01-09,10,Back Pain,Completed,D07
+A01032,P0047,Gynecology,2026-01-09,10,Checkup,Completed,D06
+A02146,P0195,General Medicine,2026-01-10,9,Back Pain,Completed,D01
+A01516,P0535,Orthopedics,2026-01-10,11,Fever,Completed,D05
+A02291,P0366,General Medicine,2026-01-10,10,Back Pain,Completed,D01
+A02474,P0075,General Medicine,2026-01-10,11,Fever,Completed,D01
+A00348,P0421,ENT,2026-01-10,15,Checkup,Completed,D07
+A01595,P0516,General Medicine,2026-01-10,12,Checkup,Completed,D01
+A01249,P0379,General Medicine,2026-01-10,12,Skin Allergy,Completed,D01
+A01476,P0468,General Medicine,2026-01-10,11,Skin Allergy,Completed,D01
+A00393,P0256,Pediatrics,2026-01-11,19,Back Pain,Completed,D02
+A00184,P0368,Dermatology,2026-01-11,12,Migraine,No-Show,D04
+A02522,P0412,General Medicine,2026-01-11,12,Migraine,Completed,D01
+A01079,P0543,Pediatrics,2026-01-11,12,Skin Allergy,Completed,D02
+A01901,P0472,General Medicine,2026-01-11,17,Skin Allergy,Completed,D01
+A00776,P0544,General Medicine,2026-01-11,12,Migraine,Completed,D01
+A00236,P0383,Pediatrics,2026-01-12,14,Hypertension,No-Show,D02
+A01551,P0545,Gynecology,2026-01-12,14,Hypertension,Completed,D06
+A01730,P0218,Orthopedics,2026-01-12,11,Migraine,Completed,D05
+A02437,P0396,Pediatrics,2026-01-12,11,Asthma,Completed,D02
+A02831,P0224,General Medicine,2026-01-12,9,Diabetes,Completed,D01
+A02252,P0522,General Medicine,2026-01-12,14,Diabetes,Completed,D01
+A01688,P0371,Pediatrics,2026-01-12,17,Back Pain,Completed,D02
+A01601,P0446,General Medicine,2026-01-12,12,Skin Allergy,Completed,D01
+A01040,P0410,Gynecology,2026-01-12,9,Skin Allergy,Completed,D06
+A00052,P0092,Orthopedics,2026-01-12,16,Asthma,Completed,D05
+A02800,P0225,Cardiology,2026-01-12,9,Asthma,Completed,D03
+A01230,P0435,Cardiology,2026-01-12,9,Checkup,Completed,D03
+A02344,P0540,General Medicine,2026-01-13,11,Checkup,Completed,D01
+A00436,P0372,Pediatrics,2026-01-13,13,Skin Allergy,Completed,D02
+A00335,P0014,Pediatrics,2026-01-13,11,Fever,Cancelled,D02
+A00919,P0476,Dentistry,2026-01-13,13,Infection,Cancelled,D08
+A00178,P0132,General Medicine,2026-01-13,14,Infection,Completed,D01
+A00748,P0019,Pediatrics,2026-01-13,13,Fever,Completed,D02
+A01188,P0181,General Medicine,2026-01-13,14,Dental Pain,Cancelled,D01
+A01324,P0121,Cardiology,2026-01-14,9,Skin Allergy,Cancelled,D03
+A00764,P0401,Gynecology,2026-01-14,12,Diabetes,Completed,D06
+A00401,P0303,Dermatology,2026-01-14,19,Diabetes,Completed,D04
+A01225,P0034,General Medicine,2026-01-14,14,Asthma,Completed,D01
+A02592,P0285,Pediatrics,2026-01-14,9,Migraine,Completed,D02
+A02222,P0326,General Medicine,2026-01-14,15,Infection,Completed,D01
+A01318,P0379,Cardiology,2026-01-14,18,Hypertension,Completed,D03
+A00228,P0044,Pediatrics,2026-01-14,13,Dental Pain,Completed,D02
+A00317,P0428,Dentistry,2026-01-14,9,Hypertension,Completed,D08
+A01091,P0245,Orthopedics,2026-01-14,17,Asthma,No-Show,D05
+A00221,P0240,General Medicine,2026-01-14,17,Infection,Completed,D01
+A00826,P0509,Dermatology,2026-01-15,15,Diabetes,Completed,D04
+A01865,P0350,Dermatology,2026-01-15,14,Fever,Completed,D04
+A00469,P0519,Dentistry,2026-01-15,17,Fever,Cancelled,D08
+A02597,P0424,Cardiology,2026-01-15,10,Migraine,No-Show,D03
+A01608,P0231,General Medicine,2026-01-15,9,Migraine,Completed,D01
+A02250,P0397,Pediatrics,2026-01-15,10,Fever,Completed,D02
+A02081,P0351,General Medicine,2026-01-15,13,Dental Pain,Completed,D01
+A00244,P0429,Gynecology,2026-01-15,11,Diabetes,Completed,D06
+A02567,P0068,General Medicine,2026-01-15,13,Dental Pain,Completed,D01
+A00414,P0394,ENT,2026-01-15,9,Back Pain,Completed,D07
+A02878,P0421,ENT,2026-01-15,15,Checkup,Completed,D07
+A02873,P0092,Cardiology,2026-01-15,16,Dental Pain,Completed,D03
+A00566,P0129,General Medicine,2026-01-15,18,Back Pain,Completed,D01
+A02749,P0319,Pediatrics,2026-01-15,18,Checkup,Completed,D02
+A00843,P0288,Pediatrics,2026-01-15,16,Fever,Completed,D02
+A01397,P0415,Gynecology,2026-01-16,17,Checkup,Completed,D06
+A01193,P0480,General Medicine,2026-01-16,9,Diabetes,Completed,D01
+A02621,P0119,Gynecology,2026-01-16,17,Back Pain,Cancelled,D06
+A01902,P0267,Dermatology,2026-01-16,13,Dental Pain,Completed,D04
+A01728,P0508,Pediatrics,2026-01-16,13,Dental Pain,Completed,D02
+A01939,P0566,Pediatrics,2026-01-16,11,Asthma,Completed,D02
+A00329,P0529,ENT,2026-01-16,15,Diabetes,Completed,D07
+A00084,P0425,ENT,2026-01-16,15,Checkup,Completed,D07
+A00290,P0442,Dermatology,2026-01-16,13,Dental Pain,Completed,D04
+A02328,P0417,Orthopedics,2026-01-16,11,Diabetes,No-Show,D05
+A02295,P0281,General Medicine,2026-01-16,10,Infection,Completed,D01
+A02868,P0195,General Medicine,2026-01-16,14,Migraine,Completed,D01
+A00020,P0333,General Medicine,2026-01-17,14,Dental Pain,Completed,D01
+A01605,P0426,General Medicine,2026-01-17,15,Migraine,Completed,D01
+A00697,P0080,Pediatrics,2026-01-17,9,Back Pain,Completed,D02
+A00923,P0440,Pediatrics,2026-01-17,13,Checkup,Completed,D02
+A00205,P0470,Gynecology,2026-01-17,18,Hypertension,Completed,D06
+A00804,P0467,General Medicine,2026-01-17,19,Infection,Completed,D01
+A00679,P0104,ENT,2026-01-18,17,Asthma,Completed,D07
+A02154,P0196,Dentistry,2026-01-18,12,Back Pain,Cancelled,D08
+A02070,P0298,Pediatrics,2026-01-18,19,Migraine,Completed,D02
+A02015,P0041,General Medicine,2026-01-18,10,Skin Allergy,Cancelled,D01
+A00527,P0180,Orthopedics,2026-01-18,12,Skin Allergy,Completed,D05
+A00850,P0043,Gynecology,2026-01-19,15,Infection,Completed,D06
+A01847,P0223,General Medicine,2026-01-19,10,Asthma,Completed,D01
+A01858,P0177,Gynecology,2026-01-19,17,Checkup,Completed,D06
+A00239,P0488,Dermatology,2026-01-19,13,Checkup,Completed,D04
+A01240,P0372,Pediatrics,2026-01-19,9,Back Pain,Cancelled,D02
+A00686,P0335,Pediatrics,2026-01-19,14,Dental Pain,Completed,D02
+A02790,P0477,Gynecology,2026-01-19,15,Diabetes,Completed,D06
+A00363,P0256,ENT,2026-01-19,9,Dental Pain,Completed,D07
+A02919,P0168,ENT,2026-01-20,10,Skin Allergy,Completed,D07
+A02765,P0546,Orthopedics,2026-01-20,11,Fever,Completed,D05
+A02225,P0098,General Medicine,2026-01-20,11,Dental Pain,Cancelled,D01
+A00141,P0398,General Medicine,2026-01-20,16,Skin Allergy,Completed,D01
+A00188,P0374,Gynecology,2026-01-20,14,Hypertension,Completed,D06
+A02435,P0572,Gynecology,2026-01-20,16,Dental Pain,No-Show,D06
+A02001,P0548,General Medicine,2026-01-20,14,Infection,Completed,D01
+A02886,P0333,General Medicine,2026-01-20,15,Checkup,Completed,D01
+A00865,P0272,Orthopedics,2026-01-21,9,Diabetes,Completed,D05
+A00907,P0581,General Medicine,2026-01-21,11,Back Pain,Completed,D01
+A02540,P0404,General Medicine,2026-01-21,10,Fever,Completed,D01
+A00550,P0165,General Medicine,2026-01-21,10,Infection,No-Show,D01
+A01975,P0243,Gynecology,2026-01-21,10,Fever,Completed,D06
+A01086,P0341,Gynecology,2026-01-21,18,Infection,Completed,D06
+A00513,P0460,Gynecology,2026-01-21,9,Checkup,Cancelled,D06
+A01869,P0454,Dentistry,2026-01-21,18,Migraine,Completed,D08
+A02895,P0202,General Medicine,2026-01-21,9,Infection,Completed,D01
+A02073,P0139,Cardiology,2026-01-22,13,Infection,Completed,D03
+A00915,P0372,ENT,2026-01-22,9,Back Pain,Completed,D07
+A00349,P0212,Pediatrics,2026-01-22,14,Asthma,Completed,D02
+A00526,P0381,ENT,2026-01-22,13,Skin Allergy,Completed,D07
+A00140,P0304,General Medicine,2026-01-22,11,Migraine,Completed,D01
+A00851,P0261,Dentistry,2026-01-22,15,Hypertension,Completed,D08
+A01358,P0510,Orthopedics,2026-01-22,13,Migraine,Completed,D05
+A00777,P0135,General Medicine,2026-01-22,11,Diabetes,Completed,D01
+A01315,P0329,General Medicine,2026-01-22,20,Skin Allergy,Completed,D01
+A02171,P0306,ENT,2026-01-22,15,Hypertension,Cancelled,D07
+A01191,P0211,Gynecology,2026-01-22,12,Checkup,Completed,D06
+A01596,P0081,Dentistry,2026-01-22,14,Asthma,Completed,D08
+A01395,P0417,ENT,2026-01-23,12,Dental Pain,Completed,D07
+A01709,P0269,General Medicine,2026-01-23,13,Skin Allergy,Completed,D01
+A00906,P0216,General Medicine,2026-01-23,11,Diabetes,Completed,D01
+A00131,P0013,Dentistry,2026-01-23,14,Skin Allergy,Completed,D08
+A00683,P0242,General Medicine,2026-01-23,13,Fever,Completed,D01
+A01646,P0425,Dermatology,2026-01-23,9,Dental Pain,Completed,D04
+A02499,P0363,General Medicine,2026-01-24,10,Dental Pain,Cancelled,D01
+A01058,P0244,Dentistry,2026-01-24,13,Migraine,Cancelled,D08
+A02882,P0247,Orthopedics,2026-01-24,19,Infection,Completed,D05
+A01700,P0231,Cardiology,2026-01-24,14,Hypertension,Completed,D03
+A02265,P0588,ENT,2026-01-24,9,Migraine,Completed,D07
+A02639,P0388,General Medicine,2026-01-24,14,Checkup,Completed,D01
+A02759,P0046,Pediatrics,2026-01-24,9,Diabetes,Completed,D02
+A01472,P0163,Gynecology,2026-01-24,16,Hypertension,Cancelled,D06
+A00031,P0493,General Medicine,2026-01-24,10,Checkup,Completed,D01
+A02196,P0310,Dentistry,2026-01-25,18,Hypertension,Completed,D08
+A00496,P0380,Pediatrics,2026-01-25,12,Skin Allergy,Completed,D02
+A02130,P0014,Gynecology,2026-01-25,10,Back Pain,Cancelled,D06
+A00086,P0561,Cardiology,2026-01-25,13,Dental Pain,Completed,D03
+A01179,P0445,Pediatrics,2026-01-25,12,Fever,Completed,D02
+A02326,P0115,General Medicine,2026-01-25,12,Back Pain,Completed,D01
+A01674,P0306,Orthopedics,2026-01-25,14,Hypertension,Completed,D05
+A02446,P0580,ENT,2026-01-25,19,Checkup,Completed,D07
+A01632,P0148,Pediatrics,2026-01-25,20,Skin Allergy,Completed,D02
+A00606,P0389,General Medicine,2026-01-26,17,Checkup,Completed,D01
+A00523,P0412,General Medicine,2026-01-26,14,Dental Pain,Completed,D01
+A02363,P0304,Orthopedics,2026-01-26,11,Diabetes,Completed,D05
+A02106,P0064,General Medicine,2026-01-26,12,Asthma,No-Show,D01
+A02477,P0044,Gynecology,2026-01-26,11,Checkup,Completed,D06
+A01598,P0512,Gynecology,2026-01-26,12,Migraine,Completed,D06
+A00797,P0308,Gynecology,2026-01-26,18,Infection,Completed,D06
+A02192,P0355,Pediatrics,2026-01-27,10,Migraine,Completed,D02
+A02745,P0475,Orthopedics,2026-01-27,10,Skin Allergy,Completed,D05
+A00572,P0234,General Medicine,2026-01-27,9,Skin Allergy,Completed,D01
+A00135,P0449,Orthopedics,2026-01-27,10,Checkup,No-Show,D05
+A00282,P0344,General Medicine,2026-01-27,9,Dental Pain,Completed,D01
+A01496,P0248,General Medicine,2026-01-27,11,Infection,Completed,D01
+A01800,P0482,Orthopedics,2026-01-27,13,Migraine,Cancelled,D05
+A02433,P0361,General Medicine,2026-01-27,14,Hypertension,Completed,D01
+A00269,P0194,General Medicine,2026-01-27,11,Asthma,Completed,D01
+A02422,P0214,Gynecology,2026-01-28,13,Back Pain,Completed,D06
+A02744,P0054,General Medicine,2026-01-28,13,Fever,Cancelled,D01
+A01970,P0565,Dentistry,2026-01-28,9,Skin Allergy,Completed,D08
+A01573,P0163,General Medicine,2026-01-28,11,Infection,Completed,D01
+A02055,P0076,General Medicine,2026-01-28,12,Skin Allergy,Completed,D01
+A02094,P0321,Cardiology,2026-01-28,12,Fever,Completed,D03
+A01219,P0292,Orthopedics,2026-01-28,13,Infection,Completed,D05
+A01814,P0349,General Medicine,2026-01-28,11,Fever,No-Show,D01
+A02819,P0541,General Medicine,2026-01-28,9,Fever,Completed,D01
+A02310,P0185,Orthopedics,2026-01-28,12,Diabetes,Completed,D05
+A00169,P0364,ENT,2026-01-28,13,Dental Pain,Completed,D07
+A02456,P0106,General Medicine,2026-01-28,10,Hypertension,Completed,D01
+A00231,P0514,Cardiology,2026-01-29,15,Checkup,Completed,D03
+A00511,P0140,Dentistry,2026-01-29,15,Fever,Completed,D08
+A01196,P0529,Dermatology,2026-01-29,16,Dental Pain,Completed,D04
+A02415,P0139,General Medicine,2026-01-29,12,Dental Pain,Completed,D01
+A02752,P0311,General Medicine,2026-01-29,10,Back Pain,Completed,D01
+A00681,P0133,Pediatrics,2026-01-30,12,Checkup,Completed,D02
+A02599,P0050,Cardiology,2026-01-30,13,Asthma,Completed,D03
+A00241,P0063,Dermatology,2026-01-30,9,Fever,Completed,D04
+A00568,P0553,Pediatrics,2026-01-30,13,Dental Pain,Cancelled,D02
+A00713,P0227,Gynecology,2026-01-30,9,Checkup,Completed,D06
+A01749,P0340,Dermatology,2026-01-30,12,Infection,No-Show,D04
+A00699,P0247,General Medicine,2026-01-30,13,Dental Pain,Cancelled,D01
+A02092,P0204,Cardiology,2026-01-30,10,Dental Pain,Completed,D03
+A01189,P0205,Gynecology,2026-01-30,15,Diabetes,Completed,D06
+A02221,P0113,Orthopedics,2026-01-30,9,Dental Pain,Completed,D05
+A01093,P0537,Gynecology,2026-01-30,13,Skin Allergy,Completed,D06
+A01549,P0437,Pediatrics,2026-01-30,13,Migraine,Completed,D02
+A01796,P0050,General Medicine,2026-01-30,11,Diabetes,Completed,D01
+A01083,P0036,Pediatrics,2026-01-30,10,Checkup,Completed,D02
+A02427,P0195,Dentistry,2026-01-30,15,Hypertension,Completed,D08
+A00754,P0107,Dermatology,2026-01-30,9,Hypertension,Completed,D04
+A02532,P0227,Cardiology,2026-01-30,10,Asthma,Completed,D03
+A00700,P0433,Orthopedics,2026-01-31,10,Checkup,Completed,D05
+A02418,P0455,ENT,2026-01-31,11,Diabetes,Completed,D07
+A01540,P0039,Orthopedics,2026-01-31,11,Migraine,Completed,D05
+A00947,P0069,Dermatology,2026-01-31,12,Hypertension,Completed,D04
+A02832,P0218,Gynecology,2026-01-31,10,Dental Pain,Completed,D06
+A01457,P0342,Dentistry,2026-01-31,9,Hypertension,Completed,D08
+A02904,P0364,Cardiology,2026-01-31,12,Checkup,Completed,D03
+A02701,P0213,ENT,2026-02-01,14,Hypertension,Cancelled,D07
+A02838,P0475,General Medicine,2026-02-01,17,Back Pain,Cancelled,D01
+A00660,P0132,General Medicine,2026-02-01,14,Checkup,Completed,D01
+A00666,P0558,General Medicine,2026-02-01,10,Infection,Completed,D01
+A02399,P0303,Pediatrics,2026-02-01,9,Hypertension,Completed,D02
+A00636,P0571,Pediatrics,2026-02-01,13,Hypertension,Completed,D02
+A01484,P0068,General Medicine,2026-02-01,12,Fever,Completed,D01
+A02914,P0248,Orthopedics,2026-02-01,18,Dental Pain,Completed,D05
+A02025,P0353,Pediatrics,2026-02-01,9,Skin Allergy,Completed,D02
+A02346,P0332,General Medicine,2026-02-01,14,Hypertension,Completed,D01
+A02065,P0129,General Medicine,2026-02-01,12,Migraine,No-Show,D01
+A02535,P0291,Cardiology,2026-02-02,9,Dental Pain,Completed,D03
+A00358,P0515,Cardiology,2026-02-02,14,Diabetes,Completed,D03
+A01175,P0050,General Medicine,2026-02-02,9,Skin Allergy,Completed,D01
+A01855,P0509,General Medicine,2026-02-02,13,Diabetes,Completed,D01
+A01846,P0294,Cardiology,2026-02-02,12,Infection,Completed,D03
+A02946,P0167,Dentistry,2026-02-02,15,Diabetes,Completed,D08
+A00151,P0058,Dermatology,2026-02-02,10,Migraine,Completed,D04
+A01246,P0342,Dermatology,2026-02-02,13,Hypertension,Completed,D04
+A02160,P0554,Pediatrics,2026-02-02,12,Fever,Completed,D02
+A02114,P0600,Gynecology,2026-02-02,16,Asthma,Cancelled,D06
+A00936,P0493,Gynecology,2026-02-03,15,Checkup,Completed,D06
+A01960,P0499,Dermatology,2026-02-03,12,Skin Allergy,Completed,D04
+A00585,P0179,Orthopedics,2026-02-03,10,Fever,Completed,D05
+A01332,P0290,Gynecology,2026-02-03,13,Asthma,Completed,D06
+A02147,P0551,ENT,2026-02-03,13,Skin Allergy,Completed,D07
+A00586,P0383,Orthopedics,2026-02-03,11,Infection,Completed,D05
+A00242,P0368,Dermatology,2026-02-03,16,Back Pain,Completed,D04
+A00199,P0577,General Medicine,2026-02-04,13,Dental Pain,Completed,D01
+A01776,P0186,ENT,2026-02-04,14,Infection,Completed,D07
+A00478,P0498,Dermatology,2026-02-04,13,Checkup,Cancelled,D04
+A01257,P0411,Cardiology,2026-02-04,13,Infection,Completed,D03
+A02409,P0356,Dentistry,2026-02-04,14,Infection,Completed,D08
+A02275,P0006,Gynecology,2026-02-05,13,Dental Pain,No-Show,D06
+A00232,P0116,Cardiology,2026-02-05,11,Back Pain,Completed,D03
+A01578,P0276,General Medicine,2026-02-05,10,Migraine,Cancelled,D01
+A02915,P0489,General Medicine,2026-02-05,9,Hypertension,Completed,D01
+A02307,P0214,Pediatrics,2026-02-05,12,Checkup,Completed,D02
+A01572,P0395,Cardiology,2026-02-05,15,Infection,Completed,D03
+A00920,P0218,General Medicine,2026-02-05,10,Diabetes,Cancelled,D01
+A02449,P0461,Dentistry,2026-02-05,9,Back Pain,Completed,D08
+A01121,P0508,General Medicine,2026-02-05,16,Migraine,Completed,D01
+A01492,P0055,Gynecology,2026-02-05,9,Skin Allergy,Completed,D06
+A02782,P0478,General Medicine,2026-02-05,11,Infection,Cancelled,D01
+A01508,P0352,General Medicine,2026-02-05,11,Back Pain,Completed,D01
+A01980,P0216,ENT,2026-02-05,16,Asthma,Completed,D07
+A02390,P0472,General Medicine,2026-02-05,11,Dental Pain,Completed,D01
+A02917,P0291,General Medicine,2026-02-06,9,Migraine,Completed,D01
+A00006,P0145,General Medicine,2026-02-06,10,Dental Pain,Completed,D01
+A00059,P0404,Dermatology,2026-02-06,16,Hypertension,Completed,D04
+A02938,P0370,General Medicine,2026-02-06,13,Infection,Completed,D01
+A02131,P0423,Pediatrics,2026-02-06,10,Fever,Completed,D02
+A00682,P0373,Dentistry,2026-02-06,11,Migraine,No-Show,D08
+A01953,P0123,General Medicine,2026-02-06,10,Skin Allergy,Completed,D01
+A00597,P0123,General Medicine,2026-02-06,12,Checkup,Completed,D01
+A01924,P0363,Dermatology,2026-02-06,9,Dental Pain,Completed,D04
+A01370,P0202,Pediatrics,2026-02-06,11,Back Pain,Completed,D02
+A00424,P0421,Pediatrics,2026-02-06,10,Asthma,Completed,D02
+A02288,P0592,General Medicine,2026-02-07,20,Diabetes,Completed,D01
+A02436,P0558,ENT,2026-02-07,15,Dental Pain,No-Show,D07
+A02135,P0380,Dermatology,2026-02-07,16,Diabetes,Completed,D04
+A00593,P0449,Orthopedics,2026-02-08,11,Fever,Completed,D05
+A00027,P0499,General Medicine,2026-02-08,10,Fever,Completed,D01
+A00170,P0026,Cardiology,2026-02-08,9,Infection,Completed,D03
+A00973,P0261,Cardiology,2026-02-08,10,Diabetes,Completed,D03
+A01396,P0416,General Medicine,2026-02-08,9,Hypertension,Cancelled,D01
+A01945,P0402,Dentistry,2026-02-08,14,Infection,Completed,D08
+A01904,P0305,Orthopedics,2026-02-08,14,Back Pain,Completed,D05
+A02598,P0018,General Medicine,2026-02-08,13,Dental Pain,Completed,D01
+A01756,P0429,Cardiology,2026-02-08,11,Back Pain,Cancelled,D03
+A00783,P0096,General Medicine,2026-02-08,9,Back Pain,Completed,D01
+A01850,P0198,Pediatrics,2026-02-08,12,Skin Allergy,Completed,D02
+A01228,P0323,Gynecology,2026-02-08,9,Hypertension,Completed,D06
+A02230,P0403,General Medicine,2026-02-08,12,Skin Allergy,Completed,D01
+A02846,P0566,Pediatrics,2026-02-08,9,Skin Allergy,Cancelled,D02
+A01103,P0137,ENT,2026-02-08,10,Skin Allergy,Completed,D07
+A00400,P0049,Cardiology,2026-02-09,13,Dental Pain,Completed,D03
+A01271,P0362,General Medicine,2026-02-09,15,Checkup,Completed,D01
+A02183,P0256,Orthopedics,2026-02-09,15,Infection,Completed,D05
+A02493,P0299,General Medicine,2026-02-09,11,Infection,Completed,D01
+A01584,P0531,Orthopedics,2026-02-09,13,Checkup,Completed,D05
+A02617,P0590,Cardiology,2026-02-09,10,Skin Allergy,Completed,D03
+A02269,P0080,General Medicine,2026-02-09,10,Fever,Completed,D01
+A00154,P0533,Gynecology,2026-02-10,9,Checkup,Completed,D06
+A00552,P0034,Gynecology,2026-02-10,16,Fever,Completed,D06
+A01794,P0195,General Medicine,2026-02-10,10,Checkup,Completed,D01
+A00248,P0199,Orthopedics,2026-02-10,18,Skin Allergy,Completed,D05
+A01604,P0574,ENT,2026-02-10,14,Dental Pain,Completed,D07
+A02224,P0237,Dentistry,2026-02-10,10,Asthma,Completed,D08
+A01726,P0127,Cardiology,2026-02-10,12,Fever,Completed,D03
+A00614,P0452,Dentistry,2026-02-10,10,Asthma,Cancelled,D08
+A02248,P0566,Gynecology,2026-02-10,12,Dental Pain,Completed,D06
+A00608,P0174,General Medicine,2026-02-11,17,Asthma,Completed,D01
+A00117,P0093,Pediatrics,2026-02-11,12,Skin Allergy,Completed,D02
+A02232,P0558,General Medicine,2026-02-11,12,Checkup,Completed,D01
+A00951,P0313,Gynecology,2026-02-11,10,Asthma,Completed,D06
+A02595,P0577,Orthopedics,2026-02-11,11,Asthma,Completed,D05
+A01069,P0216,Cardiology,2026-02-11,14,Fever,Completed,D03
+A01171,P0358,Orthopedics,2026-02-11,16,Skin Allergy,Completed,D05
+A01615,P0206,Orthopedics,2026-02-11,18,Diabetes,Completed,D05
+A01153,P0240,Dermatology,2026-02-12,20,Hypertension,Cancelled,D04
+A02359,P0574,Gynecology,2026-02-12,16,Diabetes,Completed,D06
+A00033,P0427,Gynecology,2026-02-12,12,Fever,No-Show,D06
+A00209,P0514,Dermatology,2026-02-12,16,Skin Allergy,Completed,D04
+A01028,P0071,General Medicine,2026-02-12,9,Diabetes,Completed,D01
+A02104,P0106,Pediatrics,2026-02-12,12,Skin Allergy,Completed,D02
+A01036,P0190,Dermatology,2026-02-12,10,Diabetes,Completed,D04
+A00891,P0514,Pediatrics,2026-02-12,14,Infection,Completed,D02
+A02038,P0541,Dentistry,2026-02-13,12,Migraine,Completed,D08
+A01458,P0230,Pediatrics,2026-02-13,11,Migraine,Completed,D02
+A00439,P0442,Pediatrics,2026-02-13,14,Hypertension,Completed,D02
+A00755,P0021,Pediatrics,2026-02-13,10,Checkup,Completed,D02
+A02368,P0052,Gynecology,2026-02-13,13,Migraine,Completed,D06
+A01413,P0178,General Medicine,2026-02-13,12,Infection,Cancelled,D01
+A02509,P0415,Pediatrics,2026-02-13,14,Migraine,Completed,D02
+A00093,P0305,General Medicine,2026-02-13,10,Infection,Completed,D01
+A01273,P0307,Dentistry,2026-02-13,18,Skin Allergy,Completed,D08
+A02431,P0145,Dentistry,2026-02-13,16,Diabetes,Cancelled,D08
+A00443,P0377,Dermatology,2026-02-14,16,Checkup,Completed,D04
+A02308,P0465,Gynecology,2026-02-14,12,Diabetes,Cancelled,D06
+A01132,P0287,Pediatrics,2026-02-14,11,Back Pain,Completed,D02
+A01809,P0553,General Medicine,2026-02-14,10,Hypertension,Completed,D01
+A00882,P0198,General Medicine,2026-02-14,14,Infection,Cancelled,D01
+A01520,P0516,Gynecology,2026-02-14,15,Back Pain,Completed,D06
+A00046,P0556,Cardiology,2026-02-15,15,Checkup,Completed,D03
+A01342,P0073,General Medicine,2026-02-15,11,Dental Pain,Completed,D01
+A00711,P0231,Pediatrics,2026-02-15,9,Back Pain,Completed,D02
+A00202,P0041,ENT,2026-02-15,16,Hypertension,Cancelled,D07
+A00955,P0430,Dentistry,2026-02-15,9,Asthma,Completed,D08
+A02775,P0503,Gynecology,2026-02-15,9,Hypertension,Completed,D06
+A02040,P0299,Pediatrics,2026-02-15,11,Migraine,Completed,D02
+A00383,P0514,Dermatology,2026-02-15,11,Infection,Completed,D04
+A02929,P0495,Gynecology,2026-02-15,9,Migraine,No-Show,D06
+A02188,P0359,Orthopedics,2026-02-16,9,Asthma,Completed,D05
+A00785,P0464,Gynecology,2026-02-16,13,Diabetes,Completed,D06
+A01536,P0208,Pediatrics,2026-02-16,13,Migraine,Cancelled,D02
+A02444,P0379,Pediatrics,2026-02-16,19,Fever,Completed,D02
+A02583,P0428,Orthopedics,2026-02-16,11,Infection,Completed,D05
+A01992,P0080,General Medicine,2026-02-16,9,Checkup,Completed,D01
+A02292,P0479,Orthopedics,2026-02-16,12,Infection,Completed,D05
+A00989,P0427,Orthopedics,2026-02-16,13,Dental Pain,Completed,D05
+A01514,P0476,General Medicine,2026-02-16,9,Back Pain,Completed,D01
+A00544,P0431,General Medicine,2026-02-16,18,Checkup,Completed,D01
+A01388,P0067,Orthopedics,2026-02-16,15,Checkup,No-Show,D05
+A00565,P0188,Dentistry,2026-02-17,18,Checkup,Completed,D08
+A02569,P0531,Gynecology,2026-02-17,11,Fever,Completed,D06
+A02743,P0206,ENT,2026-02-17,13,Checkup,Completed,D07
+A02774,P0250,Pediatrics,2026-02-17,10,Dental Pain,Completed,D02
+A02175,P0362,General Medicine,2026-02-17,9,Hypertension,Cancelled,D01
+A01333,P0402,Orthopedics,2026-02-17,10,Hypertension,Completed,D05
+A00618,P0284,Cardiology,2026-02-17,12,Fever,Completed,D03
+A01137,P0417,General Medicine,2026-02-17,11,Skin Allergy,Completed,D01
+A01157,P0011,Cardiology,2026-02-17,11,Diabetes,Completed,D03
+A02864,P0265,ENT,2026-02-17,12,Fever,Completed,D07
+A01912,P0033,Orthopedics,2026-02-17,13,Dental Pain,Completed,D05
+A02691,P0245,Pediatrics,2026-02-17,15,Migraine,Completed,D02
+A02758,P0068,General Medicine,2026-02-17,12,Checkup,Completed,D01
+A02284,P0250,Dermatology,2026-02-18,10,Migraine,Completed,D04
+A01589,P0499,Dentistry,2026-02-18,16,Diabetes,Completed,D08
+A00280,P0143,Gynecology,2026-02-18,10,Asthma,Completed,D06
+A02293,P0503,General Medicine,2026-02-18,20,Diabetes,Cancelled,D01
+A02057,P0079,Orthopedics,2026-02-18,12,Asthma,Completed,D05
+A00008,P0191,General Medicine,2026-02-18,14,Infection,Completed,D01
+A00438,P0410,ENT,2026-02-18,9,Checkup,Completed,D07
+A00924,P0503,Gynecology,2026-02-18,14,Fever,Completed,D06
+A00925,P0538,General Medicine,2026-02-19,14,Checkup,Cancelled,D01
+A00787,P0581,ENT,2026-02-19,15,Fever,Cancelled,D07
+A00992,P0431,Dentistry,2026-02-19,11,Checkup,Completed,D08
+A01322,P0032,Gynecology,2026-02-19,13,Skin Allergy,Completed,D06
+A01279,P0494,Dentistry,2026-02-19,12,Hypertension,Completed,D08
+A02820,P0224,General Medicine,2026-02-19,11,Infection,Cancelled,D01
+A01706,P0458,ENT,2026-02-19,18,Fever,Completed,D07
+A01054,P0221,Dentistry,2026-02-19,14,Skin Allergy,Completed,D08
+A01441,P0375,General Medicine,2026-02-20,14,Infection,Completed,D01
+A01446,P0147,General Medicine,2026-02-20,16,Fever,Completed,D01
+A02660,P0236,General Medicine,2026-02-20,20,Dental Pain,Completed,D01
+A00379,P0087,Gynecology,2026-02-20,16,Skin Allergy,Completed,D06
+A02407,P0097,General Medicine,2026-02-20,12,Dental Pain,Completed,D01
+A02195,P0122,Dermatology,2026-02-20,12,Hypertension,Completed,D04
+A02805,P0505,General Medicine,2026-02-21,10,Migraine,Completed,D01
+A01566,P0032,Orthopedics,2026-02-21,13,Diabetes,Completed,D05
+A01626,P0584,Gynecology,2026-02-21,12,Diabetes,Completed,D06
+A01056,P0212,Pediatrics,2026-02-21,14,Skin Allergy,Completed,D02
+A00874,P0513,Gynecology,2026-02-21,17,Dental Pain,Completed,D06
+A02186,P0387,ENT,2026-02-21,13,Infection,Completed,D07
+A01263,P0492,Pediatrics,2026-02-21,13,Skin Allergy,Completed,D02
+A01432,P0566,General Medicine,2026-02-21,10,Fever,Completed,D01
+A02220,P0400,Dentistry,2026-02-21,12,Hypertension,No-Show,D08
+A02189,P0541,Gynecology,2026-02-21,13,Hypertension,Completed,D06
+A02273,P0522,Dentistry,2026-02-21,9,Fever,Completed,D08
+A02286,P0222,Cardiology,2026-02-22,19,Migraine,Completed,D03
+A01217,P0009,General Medicine,2026-02-22,9,Back Pain,Completed,D01
+A02793,P0048,General Medicine,2026-02-22,13,Diabetes,Completed,D01
+A00649,P0283,Cardiology,2026-02-22,16,Hypertension,Completed,D03
+A01323,P0054,Gynecology,2026-02-22,14,Back Pain,Completed,D06
+A02685,P0020,Gynecology,2026-02-22,18,Skin Allergy,Completed,D06
+A01691,P0436,General Medicine,2026-02-22,9,Dental Pain,Completed,D01
+A01261,P0037,Orthopedics,2026-02-22,12,Dental Pain,Completed,D05
+A00115,P0036,General Medicine,2026-02-22,17,Hypertension,Completed,D01
+A02602,P0194,General Medicine,2026-02-22,10,Migraine,Completed,D01
+A02464,P0480,Cardiology,2026-02-23,14,Asthma,Completed,D03
+A02798,P0302,Cardiology,2026-02-23,12,Checkup,Completed,D03
+A02871,P0242,Pediatrics,2026-02-23,9,Migraine,Completed,D02
+A02664,P0505,Orthopedics,2026-02-23,9,Back Pain,Cancelled,D05
+A01763,P0341,General Medicine,2026-02-24,12,Back Pain,Completed,D01
+A00158,P0274,ENT,2026-02-24,12,Diabetes,Completed,D07
+A00501,P0255,Gynecology,2026-02-24,13,Dental Pain,Completed,D06
+A02384,P0336,Orthopedics,2026-02-24,10,Skin Allergy,Completed,D05
+A02907,P0202,General Medicine,2026-02-24,10,Dental Pain,Completed,D01
+A02734,P0550,Orthopedics,2026-02-25,15,Dental Pain,No-Show,D05
+A01985,P0281,General Medicine,2026-02-25,12,Checkup,Completed,D01
+A01345,P0281,General Medicine,2026-02-25,9,Back Pain,Cancelled,D01
+A00954,P0027,General Medicine,2026-02-25,11,Skin Allergy,Completed,D01
+A01045,P0385,General Medicine,2026-02-25,9,Skin Allergy,Completed,D01
+A00058,P0203,General Medicine,2026-02-25,11,Checkup,Completed,D01
+A02414,P0341,Dermatology,2026-02-26,10,Fever,Completed,D04
+A02179,P0360,Dentistry,2026-02-26,20,Fever,Completed,D08
+A02766,P0263,Gynecology,2026-02-26,13,Dental Pain,Completed,D06
+A01973,P0504,Orthopedics,2026-02-26,12,Checkup,Completed,D05
+A02492,P0222,Cardiology,2026-02-27,15,Migraine,Completed,D03
+A00684,P0371,General Medicine,2026-02-27,14,Migraine,Completed,D01
+A00559,P0332,Cardiology,2026-02-27,13,Skin Allergy,Completed,D03
+A02016,P0327,Dermatology,2026-02-28,13,Skin Allergy,Completed,D04
+A00591,P0457,General Medicine,2026-02-28,16,Migraine,No-Show,D01
+A01683,P0553,Pediatrics,2026-02-28,13,Checkup,Cancelled,D02
+A00524,P0510,Pediatrics,2026-02-28,9,Dental Pain,Completed,D02
+A00127,P0117,ENT,2026-02-28,15,Hypertension,Cancelled,D07
+A01697,P0032,General Medicine,2026-02-28,11,Diabetes,Completed,D01
+A00200,P0248,Dentistry,2026-02-28,11,Skin Allergy,Completed,D08
+A02005,P0528,Gynecology,2026-02-28,13,Asthma,Completed,D06
+A02253,P0307,Orthopedics,2026-02-28,14,Dental Pain,Completed,D05
+A00295,P0360,Pediatrics,2026-02-28,13,Back Pain,Completed,D02
+A01304,P0273,Gynecology,2026-03-01,13,Dental Pain,Completed,D06
+A00651,P0098,Pediatrics,2026-03-01,11,Diabetes,Completed,D02
+A00309,P0178,Cardiology,2026-03-01,9,Hypertension,Cancelled,D03
+A00371,P0202,General Medicine,2026-03-02,9,Asthma,Completed,D01
+A02746,P0271,Cardiology,2026-03-02,12,Asthma,Completed,D03
+A00412,P0081,ENT,2026-03-02,10,Dental Pain,Completed,D07
+A01628,P0074,Cardiology,2026-03-02,16,Infection,Completed,D03
+A02945,P0465,Pediatrics,2026-03-02,13,Infection,Completed,D02
+A02190,P0181,General Medicine,2026-03-02,13,Asthma,Completed,D01
+A02091,P0318,Dermatology,2026-03-02,14,Migraine,Completed,D04
+A01574,P0077,General Medicine,2026-03-03,11,Hypertension,Completed,D01
+A00449,P0025,Gynecology,2026-03-03,9,Dental Pain,Completed,D06
+A00904,P0243,General Medicine,2026-03-03,13,Dental Pain,Completed,D01
+A02529,P0595,Dermatology,2026-03-03,14,Infection,Cancelled,D04
+A01373,P0327,General Medicine,2026-03-03,11,Skin Allergy,Completed,D01
+A02515,P0391,Dermatology,2026-03-03,12,Hypertension,Completed,D04
+A00365,P0440,General Medicine,2026-03-03,9,Fever,Completed,D01
+A00368,P0468,General Medicine,2026-03-03,11,Fever,Completed,D01
+A01027,P0568,Gynecology,2026-03-04,10,Skin Allergy,Completed,D06
+A02893,P0528,Gynecology,2026-03-04,12,Asthma,Completed,D06
+A01439,P0269,Cardiology,2026-03-04,13,Skin Allergy,Completed,D03
+A01867,P0340,General Medicine,2026-03-04,9,Diabetes,Completed,D01
+A02339,P0515,Cardiology,2026-03-04,13,Infection,Completed,D03
+A02007,P0590,General Medicine,2026-03-04,14,Hypertension,Completed,D01
+A01231,P0292,Gynecology,2026-03-04,14,Diabetes,Completed,D06
+A02903,P0340,General Medicine,2026-03-04,16,Infection,Completed,D01
+A01773,P0023,General Medicine,2026-03-04,15,Diabetes,Completed,D01
+A02193,P0039,ENT,2026-03-04,12,Asthma,Cancelled,D07
+A01096,P0500,ENT,2026-03-04,10,Asthma,Completed,D07
+A02090,P0569,General Medicine,2026-03-04,18,Diabetes,Completed,D01
+A01313,P0430,Gynecology,2026-03-04,12,Infection,No-Show,D06
+A00032,P0254,Orthopedics,2026-03-05,13,Fever,Completed,D05
+A02468,P0406,ENT,2026-03-05,17,Back Pain,Completed,D07
+A01044,P0286,Orthopedics,2026-03-05,9,Dental Pain,Completed,D05
+A00296,P0189,General Medicine,2026-03-05,14,Fever,Completed,D01
+A02783,P0417,Dentistry,2026-03-05,11,Migraine,Cancelled,D08
+A02942,P0215,General Medicine,2026-03-05,13,Migraine,Completed,D01
+A00736,P0291,General Medicine,2026-03-05,9,Checkup,Completed,D01
+A02587,P0162,Dentistry,2026-03-06,13,Back Pain,Completed,D08
+A02755,P0159,Orthopedics,2026-03-06,9,Hypertension,Completed,D05
+A00180,P0437,Pediatrics,2026-03-06,16,Infection,Completed,D02
+A02030,P0330,ENT,2026-03-06,10,Asthma,Cancelled,D07
+A01538,P0034,General Medicine,2026-03-06,20,Hypertension,Completed,D01
+A01146,P0457,Dermatology,2026-03-06,13,Back Pain,No-Show,D04
+A01394,P0322,Pediatrics,2026-03-06,13,Checkup,No-Show,D02
+A01265,P0437,Pediatrics,2026-03-06,11,Diabetes,No-Show,D02
+A02888,P0479,Cardiology,2026-03-07,15,Hypertension,Completed,D03
+A01586,P0469,General Medicine,2026-03-07,9,Infection,Cancelled,D01
+A01275,P0473,Gynecology,2026-03-07,10,Infection,Completed,D06
+A01062,P0226,Pediatrics,2026-03-07,14,Dental Pain,Completed,D02
+A00578,P0145,Orthopedics,2026-03-07,12,Skin Allergy,Completed,D05
+A01666,P0545,General Medicine,2026-03-08,15,Checkup,Completed,D01
+A01477,P0466,Orthopedics,2026-03-08,13,Checkup,Completed,D05
+A02110,P0318,Orthopedics,2026-03-08,17,Dental Pain,Completed,D05
+A01360,P0416,ENT,2026-03-08,17,Infection,Completed,D07
+A00392,P0509,Pediatrics,2026-03-08,12,Hypertension,Cancelled,D02
+A00216,P0422,Pediatrics,2026-03-08,9,Migraine,Completed,D02
+A01974,P0047,General Medicine,2026-03-08,9,Skin Allergy,Completed,D01
+A00075,P0392,Orthopedics,2026-03-08,11,Fever,Completed,D05
+A01567,P0220,General Medicine,2026-03-08,9,Dental Pain,Completed,D01
+A01060,P0412,General Medicine,2026-03-08,15,Asthma,Completed,D01
+A01344,P0451,ENT,2026-03-09,10,Dental Pain,Completed,D07
+A02239,P0361,General Medicine,2026-03-09,12,Diabetes,Completed,D01
+A02447,P0191,General Medicine,2026-03-09,14,Dental Pain,Cancelled,D01
+A01529,P0088,Cardiology,2026-03-09,14,Diabetes,No-Show,D03
+A00337,P0103,Gynecology,2026-03-09,16,Back Pain,No-Show,D06
+A02245,P0507,General Medicine,2026-03-09,20,Dental Pain,Completed,D01
+A01913,P0022,General Medicine,2026-03-09,14,Hypertension,Completed,D01
+A02510,P0573,General Medicine,2026-03-09,9,Migraine,Cancelled,D01
+A01929,P0301,Pediatrics,2026-03-09,9,Dental Pain,Completed,D02
+A00771,P0064,Dermatology,2026-03-10,11,Infection,No-Show,D04
+A02472,P0305,Orthopedics,2026-03-10,11,Hypertension,Completed,D05
+A02853,P0196,ENT,2026-03-10,20,Migraine,Completed,D07
+A00341,P0107,Orthopedics,2026-03-10,13,Fever,Cancelled,D05
+A01369,P0364,General Medicine,2026-03-10,10,Fever,Cancelled,D01
+A00177,P0595,ENT,2026-03-11,12,Fever,Cancelled,D07
+A01805,P0331,Orthopedics,2026-03-11,9,Hypertension,Completed,D05
+A00028,P0340,Dermatology,2026-03-11,15,Fever,Completed,D04
+A01949,P0395,Pediatrics,2026-03-11,15,Checkup,Completed,D02
+A01699,P0409,General Medicine,2026-03-11,13,Skin Allergy,Completed,D01
+A02767,P0347,ENT,2026-03-11,15,Checkup,Completed,D07
+A00347,P0033,Pediatrics,2026-03-11,15,Hypertension,Completed,D02
+A00062,P0166,ENT,2026-03-12,12,Dental Pain,No-Show,D07
+A01346,P0267,ENT,2026-03-12,12,Fever,Completed,D07
+A00741,P0063,Orthopedics,2026-03-12,20,Dental Pain,Completed,D05
+A01003,P0475,General Medicine,2026-03-12,9,Migraine,Completed,D01
+A00397,P0456,General Medicine,2026-03-12,9,Fever,Completed,D01
+A01205,P0514,ENT,2026-03-12,9,Skin Allergy,Completed,D07
+A01873,P0515,Dentistry,2026-03-13,12,Dental Pain,Completed,D08
+A01489,P0235,General Medicine,2026-03-13,12,Infection,Completed,D01
+A00808,P0345,Cardiology,2026-03-13,14,Diabetes,Completed,D03
+A00489,P0445,General Medicine,2026-03-13,9,Back Pain,Completed,D01
+A02939,P0239,General Medicine,2026-03-13,12,Back Pain,Completed,D01
+A00287,P0590,Dentistry,2026-03-13,10,Fever,Completed,D08
+A02933,P0444,Orthopedics,2026-03-14,9,Infection,No-Show,D05
+A01235,P0044,Orthopedics,2026-03-14,13,Checkup,Completed,D05
+A02051,P0422,Dermatology,2026-03-14,16,Asthma,Completed,D04
+A02184,P0549,Dentistry,2026-03-14,11,Infection,Completed,D08
+A00181,P0369,Cardiology,2026-03-14,9,Migraine,Cancelled,D03
+A00107,P0123,Pediatrics,2026-03-14,9,Back Pain,Completed,D02
+A00319,P0332,Orthopedics,2026-03-14,9,Infection,Completed,D05
+A01550,P0491,Dermatology,2026-03-14,13,Hypertension,Completed,D04
+A01410,P0240,Orthopedics,2026-03-14,14,Hypertension,Completed,D05
+A02137,P0455,ENT,2026-03-14,13,Fever,Completed,D07
+A01528,P0148,General Medicine,2026-03-14,10,Hypertension,Completed,D01
+A01673,P0511,ENT,2026-03-14,11,Dental Pain,Completed,D07
+A01408,P0477,ENT,2026-03-14,14,Skin Allergy,Completed,D07
+A01922,P0297,Cardiology,2026-03-15,15,Skin Allergy,Completed,D03
+A00162,P0187,General Medicine,2026-03-15,11,Skin Allergy,Completed,D01
+A02302,P0394,General Medicine,2026-03-15,18,Fever,No-Show,D01
+A00204,P0286,General Medicine,2026-03-15,9,Diabetes,Completed,D01
+A01046,P0413,Gynecology,2026-03-15,9,Diabetes,Cancelled,D06
+A00226,P0004,General Medicine,2026-03-15,14,Diabetes,Completed,D01
+A02670,P0248,General Medicine,2026-03-15,14,Checkup,Completed,D01
+A02797,P0257,Dentistry,2026-03-15,11,Fever,Cancelled,D08
+A01030,P0213,ENT,2026-03-16,19,Migraine,Completed,D07
+A01659,P0332,Pediatrics,2026-03-16,18,Migraine,Completed,D02
+A02736,P0574,Pediatrics,2026-03-16,16,Checkup,Completed,D02
+A00976,P0208,General Medicine,2026-03-16,14,Fever,Completed,D01
+A00003,P0354,General Medicine,2026-03-16,16,Fever,Completed,D01
+A02120,P0473,Orthopedics,2026-03-16,14,Checkup,Completed,D05
+A02144,P0468,General Medicine,2026-03-16,9,Skin Allergy,No-Show,D01
+A01593,P0347,Gynecology,2026-03-17,9,Hypertension,Completed,D06
+A02161,P0547,General Medicine,2026-03-17,16,Infection,No-Show,D01
+A01790,P0406,General Medicine,2026-03-17,9,Checkup,No-Show,D01
+A02883,P0369,General Medicine,2026-03-17,15,Asthma,Completed,D01
+A01308,P0518,Pediatrics,2026-03-17,9,Asthma,Cancelled,D02
+A01255,P0493,Cardiology,2026-03-17,12,Dental Pain,No-Show,D03
+A01541,P0533,ENT,2026-03-17,9,Infection,Cancelled,D07
+A02136,P0565,Cardiology,2026-03-17,11,Fever,Completed,D03
+A00896,P0451,Gynecology,2026-03-17,9,Back Pain,Completed,D06
+A01447,P0392,General Medicine,2026-03-17,12,Skin Allergy,No-Show,D01
+A01424,P0180,General Medicine,2026-03-18,16,Asthma,Completed,D01
+A01361,P0088,ENT,2026-03-18,9,Fever,Cancelled,D07
+A01610,P0316,General Medicine,2026-03-18,15,Checkup,Completed,D01
+A02794,P0447,Dentistry,2026-03-18,18,Hypertension,Cancelled,D08
+A00136,P0345,Pediatrics,2026-03-18,15,Asthma,Completed,D02
+A02211,P0522,Pediatrics,2026-03-18,18,Infection,No-Show,D02
+A01780,P0496,General Medicine,2026-03-19,12,Diabetes,Completed,D01
+A01212,P0204,General Medicine,2026-03-19,9,Migraine,Completed,D01
+A01009,P0478,Dermatology,2026-03-19,15,Diabetes,Completed,D04
+A02434,P0599,Dermatology,2026-03-19,14,Checkup,No-Show,D04
+A00819,P0343,Dentistry,2026-03-19,13,Checkup,Completed,D08
+A02530,P0172,General Medicine,2026-03-19,11,Checkup,Completed,D01
+A00633,P0189,Pediatrics,2026-03-19,16,Skin Allergy,Completed,D02
+A00090,P0469,Pediatrics,2026-03-19,11,Checkup,Completed,D02
+A01876,P0277,Gynecology,2026-03-19,10,Checkup,Completed,D06
+A01638,P0143,Dermatology,2026-03-19,11,Back Pain,Completed,D04
+A01393,P0042,Gynecology,2026-03-19,20,Migraine,Completed,D06
+A02278,P0017,General Medicine,2026-03-19,9,Asthma,Completed,D01
+A02413,P0065,Pediatrics,2026-03-19,15,Migraine,Completed,D02
+A00845,P0039,Dermatology,2026-03-19,15,Migraine,Completed,D04
+A01532,P0507,Orthopedics,2026-03-19,14,Dental Pain,Completed,D05
+A02365,P0009,Dentistry,2026-03-19,9,Skin Allergy,No-Show,D08
+A00167,P0403,Pediatrics,2026-03-20,9,Dental Pain,Completed,D02
+A01693,P0512,ENT,2026-03-20,11,Hypertension,Completed,D07
+A00963,P0267,Dermatology,2026-03-20,14,Fever,Completed,D04
+A00278,P0232,General Medicine,2026-03-20,15,Dental Pain,Completed,D01
+A01840,P0467,Dentistry,2026-03-21,14,Checkup,Completed,D08
+A00745,P0222,Gynecology,2026-03-21,12,Infection,No-Show,D06
+A00757,P0443,Orthopedics,2026-03-21,15,Skin Allergy,Completed,D05
+A00589,P0326,Cardiology,2026-03-21,14,Migraine,Completed,D03
+A01419,P0426,ENT,2026-03-21,12,Asthma,Completed,D07
+A01738,P0217,General Medicine,2026-03-22,9,Diabetes,Completed,D01
+A01807,P0350,Pediatrics,2026-03-22,11,Dental Pain,Cancelled,D02
+A01165,P0293,Dermatology,2026-03-22,15,Infection,Completed,D04
+A00691,P0371,Cardiology,2026-03-22,12,Back Pain,Completed,D03
+A01923,P0258,General Medicine,2026-03-22,9,Skin Allergy,Completed,D01
+A02476,P0426,Dermatology,2026-03-23,14,Infection,Completed,D04
+A02270,P0007,Gynecology,2026-03-23,13,Migraine,Completed,D06
+A00157,P0539,General Medicine,2026-03-23,14,Diabetes,Completed,D01
+A00928,P0085,Pediatrics,2026-03-23,14,Infection,Completed,D02
+A00313,P0494,General Medicine,2026-03-23,20,Migraine,Cancelled,D01
+A00326,P0224,Pediatrics,2026-03-23,9,Asthma,Cancelled,D02
+A00054,P0492,Dermatology,2026-03-23,11,Diabetes,Completed,D04
+A00853,P0312,ENT,2026-03-24,11,Back Pain,Completed,D07
+A00039,P0464,ENT,2026-03-24,17,Diabetes,Completed,D07
+A01961,P0467,Gynecology,2026-03-24,10,Skin Allergy,Completed,D06
+A01158,P0455,General Medicine,2026-03-24,13,Checkup,Completed,D01
+A02500,P0048,General Medicine,2026-03-24,10,Dental Pain,Cancelled,D01
+A02440,P0121,General Medicine,2026-03-24,10,Fever,Completed,D01
+A00770,P0133,Orthopedics,2026-03-24,9,Fever,Completed,D05
+A02590,P0130,Dentistry,2026-03-24,13,Migraine,Completed,D08
+A00208,P0080,Pediatrics,2026-03-25,9,Infection,Completed,D02
+A02109,P0487,Dentistry,2026-03-25,16,Fever,Completed,D08
+A02156,P0273,Pediatrics,2026-03-25,18,Migraine,No-Show,D02
+A02244,P0396,Pediatrics,2026-03-25,12,Hypertension,Completed,D02
+A02148,P0057,Dentistry,2026-03-25,13,Hypertension,Completed,D08
+A00961,P0388,General Medicine,2026-03-26,14,Fever,Completed,D01
+A01774,P0582,Gynecology,2026-03-26,20,Infection,Completed,D06
+A02703,P0589,Dentistry,2026-03-26,12,Skin Allergy,Completed,D08
+A01403,P0509,Gynecology,2026-03-26,17,Checkup,Completed,D06
+A00958,P0013,ENT,2026-03-26,10,Diabetes,Completed,D07
+A02748,P0205,Cardiology,2026-03-27,12,Hypertension,Cancelled,D03
+A01087,P0245,General Medicine,2026-03-27,15,Asthma,Completed,D01
+A01356,P0162,General Medicine,2026-03-27,14,Infection,Completed,D01
+A02325,P0366,General Medicine,2026-03-27,10,Hypertension,Completed,D01
+A00537,P0307,Pediatrics,2026-03-28,13,Migraine,Completed,D02
+A00292,P0370,Gynecology,2026-03-28,16,Skin Allergy,Completed,D06
+A01330,P0255,ENT,2026-03-28,12,Migraine,Completed,D07
+A00010,P0270,ENT,2026-03-28,16,Dental Pain,Completed,D07
+A01364,P0046,ENT,2026-03-28,11,Diabetes,Completed,D07
+A02364,P0501,Cardiology,2026-03-28,9,Back Pain,No-Show,D03
+A01667,P0237,Pediatrics,2026-03-28,11,Checkup,Completed,D02
+A01316,P0061,Pediatrics,2026-03-29,15,Infection,Completed,D02
+A01118,P0491,Dermatology,2026-03-29,10,Asthma,Completed,D04
+A00784,P0426,Pediatrics,2026-03-29,13,Migraine,Completed,D02
+A00674,P0524,General Medicine,2026-03-29,11,Back Pain,Completed,D01
+A02329,P0576,Dentistry,2026-03-29,9,Fever,Completed,D08
+A02125,P0310,Gynecology,2026-03-30,12,Back Pain,Completed,D06
+A01558,P0112,Dermatology,2026-03-30,9,Back Pain,Completed,D04
+A02376,P0481,General Medicine,2026-03-30,11,Asthma,Completed,D01
+A00577,P0235,ENT,2026-03-30,19,Migraine,Completed,D07
+A02564,P0122,General Medicine,2026-03-30,13,Migraine,Completed,D01
+A00780,P0099,Pediatrics,2026-03-30,11,Infection,Completed,D02
+A01715,P0343,ENT,2026-03-30,10,Fever,Completed,D07
+A00913,P0205,Dentistry,2026-03-31,13,Back Pain,Completed,D08
+A01314,P0099,Cardiology,2026-03-31,17,Back Pain,Completed,D03
+A00130,P0003,Dentistry,2026-04-01,9,Skin Allergy,Completed,D08
+A02452,P0407,General Medicine,2026-04-01,17,Infection,Completed,D01
+A01460,P0562,General Medicine,2026-04-01,12,Dental Pain,Completed,D01
+A01480,P0546,Pediatrics,2026-04-01,16,Diabetes,Completed,D02
+A02722,P0328,Orthopedics,2026-04-01,15,Fever,Completed,D05
+A00266,P0549,General Medicine,2026-04-01,9,Checkup,Cancelled,D01
+A01571,P0405,Dentistry,2026-04-01,9,Migraine,Completed,D08
+A01170,P0232,General Medicine,2026-04-01,16,Checkup,Cancelled,D01
+A00941,P0211,General Medicine,2026-04-01,14,Infection,Completed,D01
+A01872,P0558,Dermatology,2026-04-01,16,Migraine,No-Show,D04
+A02003,P0178,Gynecology,2026-04-01,10,Infection,Completed,D06
+A02289,P0083,Dentistry,2026-04-02,10,Diabetes,No-Show,D08
+A00312,P0227,Orthopedics,2026-04-02,12,Hypertension,Completed,D05
+A02350,P0054,Dentistry,2026-04-02,16,Diabetes,Completed,D08
+A01934,P0310,General Medicine,2026-04-02,11,Infection,Completed,D01
+A02079,P0410,Orthopedics,2026-04-02,12,Dental Pain,Completed,D05
+A01557,P0542,Pediatrics,2026-04-02,15,Back Pain,Completed,D02
+A01453,P0434,Cardiology,2026-04-03,19,Checkup,Completed,D03
+A01505,P0557,Gynecology,2026-04-03,20,Infection,No-Show,D06
+A00147,P0184,Pediatrics,2026-04-03,18,Skin Allergy,Completed,D02
+A02300,P0161,General Medicine,2026-04-03,9,Checkup,Cancelled,D01
+A00037,P0249,Orthopedics,2026-04-03,13,Asthma,Completed,D05
+A01312,P0486,Pediatrics,2026-04-03,11,Checkup,Cancelled,D02
+A01881,P0560,Dentistry,2026-04-03,20,Back Pain,Completed,D08
+A00554,P0305,Pediatrics,2026-04-03,18,Diabetes,Completed,D02
+A01382,P0076,General Medicine,2026-04-03,10,Hypertension,Completed,D01
+A00685,P0265,Cardiology,2026-04-03,15,Back Pain,No-Show,D03
+A01707,P0050,General Medicine,2026-04-04,13,Migraine,Completed,D01
+A00659,P0394,ENT,2026-04-04,16,Infection,Completed,D07
+A01874,P0098,Dermatology,2026-04-04,13,Back Pain,Completed,D04
+A02690,P0072,Dentistry,2026-04-04,10,Dental Pain,Completed,D08
+A01576,P0133,Pediatrics,2026-04-04,12,Infection,Completed,D02
+A01180,P0326,Dermatology,2026-04-04,13,Checkup,Completed,D04
+A00895,P0199,Pediatrics,2026-04-04,12,Diabetes,Completed,D02
+A02565,P0402,General Medicine,2026-04-04,9,Diabetes,Completed,D01
+A02008,P0027,Dermatology,2026-04-04,16,Migraine,Completed,D04
+A00975,P0471,Cardiology,2026-04-04,13,Fever,Completed,D03
+A02747,P0014,Dentistry,2026-04-05,13,Checkup,Completed,D08
+A01742,P0417,Dentistry,2026-04-05,11,Fever,Cancelled,D08
+A02395,P0065,Dermatology,2026-04-05,14,Checkup,Completed,D04
+A00982,P0593,Dermatology,2026-04-05,12,Back Pain,Completed,D04
+A01236,P0548,Cardiology,2026-04-05,13,Dental Pain,Completed,D03
+A02108,P0094,General Medicine,2026-04-05,14,Diabetes,Cancelled,D01
+A02697,P0387,Pediatrics,2026-04-05,9,Infection,Completed,D02
+A01005,P0598,Orthopedics,2026-04-06,14,Hypertension,Completed,D05
+A00066,P0246,Dentistry,2026-04-06,13,Checkup,Completed,D08
+A01611,P0346,General Medicine,2026-04-06,15,Hypertension,Cancelled,D01
+A00503,P0516,ENT,2026-04-06,9,Asthma,Cancelled,D07
+A01971,P0143,Dermatology,2026-04-06,15,Fever,No-Show,D04
+A01862,P0171,Dermatology,2026-04-06,13,Fever,Completed,D04
+A00740,P0434,Pediatrics,2026-04-06,12,Asthma,Completed,D02
+A01011,P0139,Orthopedics,2026-04-07,14,Asthma,Completed,D05
+A02537,P0331,ENT,2026-04-07,12,Checkup,Cancelled,D07
+A01156,P0249,General Medicine,2026-04-07,14,Asthma,Completed,D01
+A00798,P0311,Pediatrics,2026-04-07,10,Hypertension,Cancelled,D02
+A00431,P0153,Pediatrics,2026-04-07,20,Asthma,Completed,D02
+A02282,P0390,Orthopedics,2026-04-07,12,Asthma,Completed,D05
+A02438,P0449,Pediatrics,2026-04-07,10,Migraine,Completed,D02
+A00646,P0126,Cardiology,2026-04-08,11,Migraine,Completed,D03
+A01890,P0597,General Medicine,2026-04-08,16,Asthma,Completed,D01
+A00643,P0298,General Medicine,2026-04-08,13,Dental Pain,Completed,D01
+A00625,P0570,General Medicine,2026-04-08,12,Back Pain,Completed,D01
+A01580,P0406,Pediatrics,2026-04-08,12,Back Pain,Completed,D02
+A01622,P0599,Pediatrics,2026-04-08,14,Asthma,Completed,D02
+A02780,P0593,Pediatrics,2026-04-09,9,Back Pain,Completed,D02
+A01482,P0492,Pediatrics,2026-04-09,20,Skin Allergy,Completed,D02
+A01117,P0106,General Medicine,2026-04-09,9,Fever,Completed,D01
+A02037,P0600,Orthopedics,2026-04-09,15,Checkup,No-Show,D05
+A02490,P0557,Dentistry,2026-04-09,9,Asthma,Completed,D08
+A02707,P0462,Dermatology,2026-04-09,11,Checkup,Completed,D04
+A02610,P0405,General Medicine,2026-04-10,15,Checkup,Completed,D01
+A01651,P0558,Dentistry,2026-04-10,9,Checkup,Completed,D08
+A00108,P0223,General Medicine,2026-04-10,13,Hypertension,Completed,D01
+A00442,P0423,ENT,2026-04-10,10,Hypertension,Completed,D07
+A02234,P0584,Orthopedics,2026-04-10,14,Asthma,Completed,D05
+A02181,P0255,Dentistry,2026-04-10,9,Back Pain,Completed,D08
+A00693,P0150,General Medicine,2026-04-10,10,Fever,Completed,D01
+A00675,P0494,Gynecology,2026-04-10,13,Diabetes,Completed,D06
+A02080,P0322,Dentistry,2026-04-10,15,Fever,Completed,D08
+A00413,P0229,Dentistry,2026-04-10,11,Skin Allergy,Completed,D08
+A00415,P0003,Pediatrics,2026-04-11,12,Skin Allergy,Completed,D02
+A01544,P0111,General Medicine,2026-04-11,10,Hypertension,Completed,D01
+A00605,P0456,ENT,2026-04-11,11,Diabetes,Completed,D07
+A01665,P0036,Pediatrics,2026-04-11,12,Diabetes,Completed,D02
+A01681,P0149,General Medicine,2026-04-11,12,Dental Pain,Completed,D01
+A02495,P0189,General Medicine,2026-04-11,9,Asthma,Completed,D01
+A02283,P0056,Cardiology,2026-04-11,13,Checkup,Cancelled,D03
+A02678,P0228,Pediatrics,2026-04-11,11,Dental Pain,Completed,D02
+A01269,P0396,Pediatrics,2026-04-11,14,Checkup,Completed,D02
+A01278,P0522,Gynecology,2026-04-11,13,Diabetes,Completed,D06
+A01053,P0543,Dermatology,2026-04-11,12,Fever,Completed,D04
+A02692,P0476,ENT,2026-04-11,17,Diabetes,No-Show,D07
+A02659,P0491,Pediatrics,2026-04-11,13,Migraine,Completed,D02
+A00831,P0541,Pediatrics,2026-04-12,16,Hypertension,Completed,D02
+A02858,P0157,General Medicine,2026-04-12,16,Infection,Completed,D01
+A00153,P0434,Dermatology,2026-04-12,13,Infection,Completed,D04
+A00801,P0443,Orthopedics,2026-04-12,16,Migraine,Completed,D05
+A00890,P0169,Gynecology,2026-04-12,14,Skin Allergy,Cancelled,D06
+A00072,P0382,General Medicine,2026-04-12,9,Diabetes,Completed,D01
+A01507,P0584,General Medicine,2026-04-12,12,Fever,Completed,D01
+A00809,P0343,Dentistry,2026-04-12,9,Asthma,Completed,D08
+A00844,P0383,Dentistry,2026-04-13,12,Dental Pain,Completed,D08
+A02720,P0527,General Medicine,2026-04-13,9,Hypertension,Completed,D01
+A00315,P0400,ENT,2026-04-13,9,Infection,No-Show,D07
+A01817,P0009,Orthopedics,2026-04-13,13,Migraine,Cancelled,D05
+A01941,P0268,Dermatology,2026-04-13,13,Infection,Cancelled,D04
+A00321,P0038,Cardiology,2026-04-13,12,Infection,Completed,D03
+A01300,P0148,Dentistry,2026-04-14,9,Fever,Completed,D08
+A00464,P0172,Pediatrics,2026-04-14,12,Skin Allergy,Completed,D02
+A01185,P0405,Orthopedics,2026-04-14,9,Infection,Completed,D05
+A01669,P0033,Pediatrics,2026-04-14,9,Skin Allergy,Completed,D02
+A00799,P0341,General Medicine,2026-04-14,10,Dental Pain,Completed,D01
+A02823,P0535,Gynecology,2026-04-14,13,Back Pain,Completed,D06
+A01642,P0550,General Medicine,2026-04-15,16,Back Pain,Completed,D01
+A01134,P0240,Cardiology,2026-04-15,10,Infection,Completed,D03
+A00889,P0407,General Medicine,2026-04-15,16,Migraine,No-Show,D01
+A00943,P0363,Gynecology,2026-04-15,13,Back Pain,Completed,D06
+A02607,P0589,Dentistry,2026-04-15,16,Checkup,Completed,D08
+A00060,P0195,Orthopedics,2026-04-15,13,Infection,Completed,D05
+A02679,P0063,General Medicine,2026-04-15,12,Checkup,Completed,D01
+A00165,P0328,Dermatology,2026-04-15,15,Skin Allergy,Completed,D04
+A02087,P0431,Dentistry,2026-04-16,9,Fever,Completed,D08
+A00813,P0266,ENT,2026-04-16,12,Diabetes,Completed,D07
+A01063,P0124,ENT,2026-04-17,10,Back Pain,Completed,D07
+A02206,P0195,General Medicine,2026-04-17,14,Asthma,Completed,D01
+A02129,P0039,Gynecology,2026-04-17,11,Checkup,Completed,D06
+A00350,P0331,Dermatology,2026-04-17,15,Fever,Completed,D04
+A00279,P0250,Gynecology,2026-04-17,18,Checkup,Completed,D06
+A00465,P0066,Gynecology,2026-04-17,12,Checkup,Cancelled,D06
+A00901,P0362,Dentistry,2026-04-18,9,Infection,Completed,D08
+A02000,P0419,General Medicine,2026-04-18,9,Checkup,Completed,D01
+A00460,P0421,General Medicine,2026-04-18,11,Hypertension,Completed,D01
+A02287,P0338,ENT,2026-04-18,13,Dental Pain,Completed,D07
+A02205,P0115,ENT,2026-04-18,13,Diabetes,Completed,D07
+A02531,P0257,Cardiology,2026-04-19,11,Fever,Cancelled,D03
+A00214,P0558,General Medicine,2026-04-19,13,Fever,Completed,D01
+A02566,P0009,Dermatology,2026-04-19,11,Hypertension,Completed,D04
+A01234,P0085,General Medicine,2026-04-19,10,Fever,Cancelled,D01
+A00322,P0382,Gynecology,2026-04-19,13,Fever,Completed,D06
+A00613,P0375,General Medicine,2026-04-19,20,Migraine,Completed,D01
+A00219,P0278,Pediatrics,2026-04-19,17,Checkup,Completed,D02
+A02594,P0184,Gynecology,2026-04-19,9,Infection,Completed,D06
+A00702,P0590,Cardiology,2026-04-19,12,Dental Pain,Completed,D03
+A01988,P0052,Gynecology,2026-04-19,10,Asthma,Completed,D06
+A00495,P0600,General Medicine,2026-04-19,9,Hypertension,No-Show,D01
+A01590,P0276,Gynecology,2026-04-20,13,Back Pain,Completed,D06
+A00328,P0166,Pediatrics,2026-04-20,9,Skin Allergy,Completed,D02
+A01139,P0476,ENT,2026-04-20,11,Checkup,Completed,D07
+A00830,P0085,Pediatrics,2026-04-20,11,Back Pain,Completed,D02
+A00832,P0445,General Medicine,2026-04-20,14,Dental Pain,Completed,D01
+A02696,P0487,General Medicine,2026-04-20,16,Dental Pain,Completed,D01
+A00870,P0368,Cardiology,2026-04-20,19,Back Pain,Completed,D03
+A02317,P0587,General Medicine,2026-04-21,10,Infection,Completed,D01
+A01754,P0342,ENT,2026-04-21,9,Diabetes,Completed,D07
+A02322,P0599,Orthopedics,2026-04-21,17,Back Pain,Completed,D05
+A00742,P0572,Gynecology,2026-04-21,10,Checkup,Completed,D06
+A00980,P0092,Cardiology,2026-04-21,9,Fever,Completed,D03
+A02369,P0535,Cardiology,2026-04-22,11,Diabetes,Cancelled,D03
+A00763,P0445,Dermatology,2026-04-22,12,Skin Allergy,Cancelled,D04
+A00323,P0271,Dentistry,2026-04-22,15,Skin Allergy,Cancelled,D08
+A01162,P0459,Orthopedics,2026-04-22,9,Asthma,Completed,D05
+A00836,P0025,Dentistry,2026-04-22,9,Back Pain,Completed,D08
+A00822,P0488,Orthopedics,2026-04-22,13,Fever,Completed,D05
+A01641,P0009,Orthopedics,2026-04-22,9,Infection,Completed,D05
+A02921,P0154,Pediatrics,2026-04-22,12,Hypertension,Completed,D02
+A00240,P0236,ENT,2026-04-23,13,Back Pain,Completed,D07
+A02622,P0372,ENT,2026-04-23,10,Asthma,Completed,D07
+A00852,P0265,Dermatology,2026-04-23,10,Hypertension,Completed,D04
+A01898,P0194,General Medicine,2026-04-23,9,Dental Pain,Completed,D01
+A01539,P0035,Gynecology,2026-04-23,13,Fever,Completed,D06
+A00657,P0195,ENT,2026-04-24,13,Checkup,Completed,D07
+A02442,P0594,Pediatrics,2026-04-24,9,Hypertension,Completed,D02
+A01244,P0582,ENT,2026-04-24,9,Migraine,Completed,D07
+A02556,P0070,Dermatology,2026-04-24,14,Asthma,Cancelled,D04
+A00377,P0164,Gynecology,2026-04-24,10,Dental Pain,Cancelled,D06
+A01262,P0242,Cardiology,2026-04-24,9,Skin Allergy,Completed,D03
+A02911,P0322,General Medicine,2026-04-24,16,Infection,Completed,D01
+A01352,P0473,General Medicine,2026-04-25,11,Back Pain,Cancelled,D01
+A01376,P0002,ENT,2026-04-25,17,Back Pain,Completed,D07
+A02605,P0276,Cardiology,2026-04-25,9,Back Pain,Completed,D03
+A02897,P0001,Dentistry,2026-04-25,12,Skin Allergy,No-Show,D08
+A01964,P0355,General Medicine,2026-04-25,11,Checkup,Completed,D01
+A02613,P0339,Pediatrics,2026-04-26,15,Migraine,Completed,D02
+A00304,P0384,Pediatrics,2026-04-26,10,Checkup,Completed,D02
+A00717,P0307,Orthopedics,2026-04-26,12,Migraine,Completed,D05
+A01023,P0097,General Medicine,2026-04-26,17,Checkup,Completed,D01
+A02851,P0368,Cardiology,2026-04-26,11,Checkup,Completed,D03
+A02445,P0066,Orthopedics,2026-04-26,10,Infection,Completed,D05
+A00873,P0222,Gynecology,2026-04-26,11,Diabetes,Completed,D06
+A00979,P0376,General Medicine,2026-04-26,13,Back Pain,Cancelled,D01
+A00648,P0577,Pediatrics,2026-04-27,19,Migraine,Completed,D02
+A00952,P0494,Orthopedics,2026-04-27,9,Dental Pain,Completed,D05
+A02151,P0485,Dermatology,2026-04-27,14,Diabetes,No-Show,D04
+A01248,P0147,Gynecology,2026-04-27,16,Hypertension,Completed,D06
+A00966,P0407,Dentistry,2026-04-27,16,Fever,Completed,D08
+A02941,P0309,General Medicine,2026-04-27,9,Fever,Completed,D01
+A00746,P0128,General Medicine,2026-04-27,9,Diabetes,Completed,D01
+A01073,P0290,General Medicine,2026-04-27,11,Skin Allergy,No-Show,D01
+A02635,P0508,Cardiology,2026-04-27,10,Migraine,Completed,D03
+A02842,P0139,Gynecology,2026-04-27,11,Migraine,Completed,D06
+A00176,P0541,Dermatology,2026-04-27,13,Infection,Completed,D04
+A02647,P0416,ENT,2026-04-27,12,Hypertension,Completed,D07
+A01110,P0299,General Medicine,2026-04-28,14,Back Pain,Completed,D01
+A02677,P0305,Cardiology,2026-04-28,9,Infection,Completed,D03
+A00301,P0118,General Medicine,2026-04-28,16,Infection,Cancelled,D01
+A00311,P0463,Orthopedics,2026-04-28,9,Fever,Completed,D05
+A02822,P0399,Pediatrics,2026-04-28,10,Hypertension,Completed,D02
+A00065,P0107,ENT,2026-04-28,18,Checkup,Completed,D07
+A01057,P0505,Cardiology,2026-04-28,13,Skin Allergy,Completed,D03
+A02547,P0433,Cardiology,2026-04-28,14,Asthma,Cancelled,D03
+A00109,P0470,Dermatology,2026-04-28,9,Asthma,Completed,D04
+A00291,P0328,General Medicine,2026-04-28,11,Back Pain,Completed,D01
+A01713,P0378,Orthopedics,2026-04-28,11,Diabetes,Completed,D05
+A01932,P0058,Pediatrics,2026-04-28,9,Infection,Completed,D02
+A02202,P0202,Pediatrics,2026-04-29,19,Fever,Completed,D02
+A01829,P0315,Gynecology,2026-04-29,10,Asthma,Completed,D06
+A02601,P0288,Pediatrics,2026-04-29,14,Migraine,Completed,D02
+A02875,P0421,Orthopedics,2026-04-29,12,Infection,Completed,D05
+A00435,P0148,Dentistry,2026-04-29,15,Checkup,Completed,D08
+A00220,P0463,Orthopedics,2026-04-29,13,Checkup,Completed,D05
+A02411,P0203,Cardiology,2026-04-29,15,Infection,Completed,D03
+A00765,P0272,General Medicine,2026-04-29,12,Fever,Completed,D01
+A02297,P0504,Dermatology,2026-04-29,16,Skin Allergy,Completed,D04
+A01524,P0365,General Medicine,2026-04-30,13,Diabetes,Completed,D01
+A01399,P0207,Dermatology,2026-04-30,14,Skin Allergy,Completed,D04
+A02925,P0076,ENT,2026-04-30,13,Diabetes,Completed,D07
+A00825,P0497,Dermatology,2026-04-30,9,Asthma,No-Show,D04
+A00753,P0023,General Medicine,2026-04-30,15,Asthma,Completed,D01
+A02048,P0040,General Medicine,2026-04-30,15,Hypertension,Completed,D01
+A01798,P0227,Pediatrics,2026-04-30,11,Back Pain,Completed,D02
+A00968,P0270,Pediatrics,2026-04-30,16,Migraine,Completed,D02
+A01816,P0218,Dentistry,2026-04-30,15,Dental Pain,Cancelled,D08
+A00428,P0361,Orthopedics,2026-05-01,13,Checkup,Completed,D05
+A02313,P0371,General Medicine,2026-05-01,9,Diabetes,Cancelled,D01
+A02405,P0288,Pediatrics,2026-05-01,15,Back Pain,Completed,D02
+A02377,P0324,ENT,2026-05-01,9,Fever,Completed,D07
+A00739,P0271,Orthopedics,2026-05-01,15,Checkup,Cancelled,D05
+A02023,P0298,Orthopedics,2026-05-01,15,Hypertension,Completed,D05
+A02076,P0368,General Medicine,2026-05-01,11,Back Pain,Completed,D01
+A01917,P0439,Dermatology,2026-05-02,12,Fever,Cancelled,D04
+A00300,P0379,Gynecology,2026-05-02,15,Skin Allergy,Completed,D06
+A02164,P0595,Dentistry,2026-05-02,14,Checkup,Completed,D08
+A00472,P0555,ENT,2026-05-02,13,Asthma,Completed,D07
+A02354,P0539,Gynecology,2026-05-02,11,Checkup,Completed,D06
+A01543,P0565,Cardiology,2026-05-02,11,Skin Allergy,Completed,D03
+A02856,P0522,Pediatrics,2026-05-02,11,Infection,Completed,D02
+A02764,P0361,General Medicine,2026-05-02,12,Fever,Cancelled,D01
+A02863,P0043,Dentistry,2026-05-02,14,Infection,Cancelled,D08
+A00447,P0375,Dentistry,2026-05-02,9,Skin Allergy,Cancelled,D08
+A02121,P0169,Orthopedics,2026-05-03,15,Checkup,Completed,D05
+A00796,P0412,General Medicine,2026-05-03,18,Migraine,Completed,D01
+A01811,P0244,Dentistry,2026-05-03,16,Fever,Completed,D08
+A02528,P0095,Orthopedics,2026-05-03,9,Asthma,Completed,D05
+A02937,P0198,Dermatology,2026-05-03,9,Infection,Cancelled,D04
+A01879,P0492,General Medicine,2026-05-03,14,Skin Allergy,Completed,D01
+A00476,P0037,Dermatology,2026-05-04,11,Hypertension,Completed,D04
+A02683,P0395,Orthopedics,2026-05-04,13,Hypertension,Completed,D05
+A00398,P0159,Cardiology,2026-05-04,16,Skin Allergy,Completed,D03
+A02259,P0469,Gynecology,2026-05-04,12,Skin Allergy,Completed,D06
+A01270,P0566,General Medicine,2026-05-04,17,Hypertension,Completed,D01
+A01702,P0303,ENT,2026-05-05,14,Checkup,Completed,D07
+A00530,P0431,Cardiology,2026-05-05,15,Asthma,Completed,D03
+A02126,P0456,Cardiology,2026-05-05,10,Migraine,Completed,D03
+A02062,P0139,Cardiology,2026-05-05,15,Hypertension,Completed,D03
+A01698,P0535,Dermatology,2026-05-05,15,Diabetes,Completed,D04
+A01428,P0600,Cardiology,2026-05-05,13,Back Pain,Completed,D03
+A02260,P0466,Dermatology,2026-05-05,17,Dental Pain,Cancelled,D04
+A00281,P0549,Pediatrics,2026-05-05,9,Migraine,Completed,D02
+A02217,P0383,General Medicine,2026-05-06,12,Migraine,Completed,D01
+A00978,P0195,General Medicine,2026-05-06,10,Migraine,Completed,D01
+A02861,P0285,Orthopedics,2026-05-06,9,Infection,Completed,D05
+A02704,P0102,General Medicine,2026-05-06,15,Asthma,Completed,D01
+A00837,P0016,ENT,2026-05-06,11,Infection,Completed,D07
+A00273,P0449,Cardiology,2026-05-06,17,Hypertension,Completed,D03
+A00217,P0189,Cardiology,2026-05-07,18,Hypertension,Completed,D03
+A01704,P0518,General Medicine,2026-05-07,12,Fever,Completed,D01
+A02667,P0355,Pediatrics,2026-05-07,15,Checkup,No-Show,D02
+A00215,P0053,Dentistry,2026-05-07,10,Skin Allergy,Completed,D08
+A02709,P0518,Dermatology,2026-05-07,12,Checkup,Completed,D04
+A02084,P0046,Cardiology,2026-05-07,12,Asthma,Completed,D03
+A00866,P0240,General Medicine,2026-05-07,16,Checkup,Completed,D01
+A02423,P0435,Dentistry,2026-05-07,9,Skin Allergy,Completed,D08
+A01928,P0419,General Medicine,2026-05-07,11,Diabetes,Completed,D01
+A01519,P0170,Gynecology,2026-05-07,17,Checkup,Completed,D06
+A00327,P0010,Pediatrics,2026-05-07,9,Hypertension,Completed,D02
+A00422,P0109,Cardiology,2026-05-07,17,Dental Pain,Completed,D03
+A02642,P0033,Dentistry,2026-05-07,12,Migraine,Completed,D08
+A02611,P0021,Orthopedics,2026-05-07,11,Infection,Completed,D05
+A01335,P0082,Orthopedics,2026-05-07,12,Fever,Completed,D05
+A02717,P0405,Pediatrics,2026-05-08,14,Checkup,No-Show,D02
+A02403,P0430,General Medicine,2026-05-08,9,Diabetes,Completed,D01
+A01956,P0324,Cardiology,2026-05-08,16,Infection,Completed,D03
+A02902,P0054,Pediatrics,2026-05-08,13,Checkup,Completed,D02
+A01253,P0240,General Medicine,2026-05-08,17,Diabetes,Completed,D01
+A00025,P0342,General Medicine,2026-05-08,15,Checkup,Completed,D01
+A02401,P0075,Dentistry,2026-05-08,12,Fever,Completed,D08
+A02513,P0422,Gynecology,2026-05-09,9,Skin Allergy,Completed,D06
+A00676,P0499,ENT,2026-05-09,13,Checkup,Cancelled,D07
+A00331,P0279,General Medicine,2026-05-09,9,Dental Pain,Completed,D01
+A00653,P0591,Pediatrics,2026-05-09,17,Asthma,Completed,D02
+A00097,P0149,General Medicine,2026-05-09,13,Dental Pain,Completed,D01
+A01129,P0556,Pediatrics,2026-05-10,15,Fever,Completed,D02
+A00922,P0364,Pediatrics,2026-05-10,9,Diabetes,Completed,D02
+A00344,P0073,Dermatology,2026-05-10,14,Asthma,Completed,D04
+A01305,P0215,ENT,2026-05-10,9,Infection,Completed,D07
+A00357,P0016,Dentistry,2026-05-10,9,Asthma,Completed,D08
+A00644,P0372,General Medicine,2026-05-10,10,Dental Pain,No-Show,D01
+A02524,P0401,Orthopedics,2026-05-10,10,Fever,Completed,D05
+A00207,P0504,Pediatrics,2026-05-10,12,Asthma,Completed,D02
+A00762,P0389,General Medicine,2026-05-10,14,Skin Allergy,Completed,D01
+A01518,P0148,Pediatrics,2026-05-11,13,Asthma,Completed,D02
+A01957,P0013,Gynecology,2026-05-11,15,Back Pain,Completed,D06
+A01996,P0085,Dentistry,2026-05-11,11,Hypertension,Completed,D08
+A02043,P0530,Orthopedics,2026-05-11,20,Checkup,No-Show,D05
+A02471,P0241,General Medicine,2026-05-11,12,Asthma,Cancelled,D01
+A00573,P0242,General Medicine,2026-05-11,14,Checkup,Completed,D01
+A02213,P0524,Dentistry,2026-05-12,19,Hypertension,Completed,D08
+A01214,P0411,Pediatrics,2026-05-12,16,Infection,Completed,D02
+A00297,P0283,Dentistry,2026-05-12,14,Hypertension,Completed,D08
+A02789,P0291,Pediatrics,2026-05-12,10,Fever,Completed,D02
+A00148,P0208,Cardiology,2026-05-12,9,Back Pain,Completed,D03
+A01618,P0374,Orthopedics,2026-05-12,9,Skin Allergy,Completed,D05
+A00714,P0412,Dentistry,2026-05-12,11,Checkup,Completed,D08
+A00946,P0586,Gynecology,2026-05-12,9,Checkup,Completed,D06
+A02713,P0484,Dermatology,2026-05-12,13,Hypertension,Completed,D04
+A01678,P0144,Pediatrics,2026-05-13,16,Back Pain,Completed,D02
+A01127,P0400,Dentistry,2026-05-13,15,Diabetes,Completed,D08
+A00353,P0458,ENT,2026-05-13,12,Skin Allergy,Completed,D07
+A00294,P0132,Dentistry,2026-05-13,14,Back Pain,Completed,D08
+A00255,P0101,Gynecology,2026-05-13,9,Asthma,Completed,D06
+A01386,P0111,Dermatology,2026-05-13,13,Dental Pain,Completed,D04
+A00427,P0239,General Medicine,2026-05-13,13,Dental Pain,Cancelled,D01
+A00595,P0168,General Medicine,2026-05-13,12,Fever,Cancelled,D01
+A00658,P0492,Dentistry,2026-05-13,14,Skin Allergy,No-Show,D08
+A02031,P0107,General Medicine,2026-05-14,10,Infection,Completed,D01
+A02830,P0157,ENT,2026-05-14,15,Hypertension,No-Show,D07
+A02378,P0545,Pediatrics,2026-05-14,9,Dental Pain,Completed,D02
+A00985,P0324,General Medicine,2026-05-14,12,Diabetes,Completed,D01
+A02294,P0173,General Medicine,2026-05-14,12,Diabetes,Completed,D01
+A01281,P0403,Orthopedics,2026-05-14,18,Back Pain,Completed,D05
+A01936,P0308,Cardiology,2026-05-14,13,Diabetes,Completed,D03
+A01427,P0236,Dentistry,2026-05-14,9,Asthma,Completed,D08
+A01155,P0023,General Medicine,2026-05-14,13,Diabetes,Completed,D01
+A02168,P0189,Orthopedics,2026-05-14,15,Migraine,Completed,D05
+A00492,P0390,Dermatology,2026-05-15,18,Migraine,Completed,D04
+A00921,P0502,Pediatrics,2026-05-15,12,Hypertension,Completed,D02
+A00173,P0574,Cardiology,2026-05-15,14,Checkup,Cancelled,D03
+A02372,P0047,Dermatology,2026-05-15,14,Back Pain,Completed,D04
+A00224,P0402,Dentistry,2026-05-15,13,Migraine,Cancelled,D08
+A02155,P0011,Pediatrics,2026-05-16,14,Diabetes,Completed,D02
+A01935,P0497,Dermatology,2026-05-16,13,Diabetes,Completed,D04
+A01372,P0451,Dermatology,2026-05-16,11,Fever,Completed,D04
+A01562,P0496,ENT,2026-05-16,9,Checkup,Completed,D07
+A00737,P0060,General Medicine,2026-05-16,11,Fever,Completed,D01
+A02475,P0141,General Medicine,2026-05-16,12,Skin Allergy,Completed,D01
+A01292,P0070,Dentistry,2026-05-16,20,Checkup,Completed,D08
+A00385,P0258,Pediatrics,2026-05-16,9,Hypertension,Completed,D02
+A00948,P0401,Pediatrics,2026-05-16,11,Diabetes,No-Show,D02
+A02177,P0518,General Medicine,2026-05-17,10,Checkup,Completed,D01
+A02723,P0483,Dentistry,2026-05-17,12,Diabetes,Cancelled,D08
+A00834,P0598,Dentistry,2026-05-17,14,Hypertension,Completed,D08
+A02174,P0010,Orthopedics,2026-05-17,12,Migraine,Completed,D05
+A00338,P0542,Gynecology,2026-05-17,9,Hypertension,Completed,D06
+A01630,P0323,Gynecology,2026-05-17,9,Fever,Completed,D06
+A00879,P0160,Dentistry,2026-05-17,16,Asthma,Completed,D08
+A02045,P0592,Gynecology,2026-05-17,12,Infection,Completed,D06
+A00126,P0189,Cardiology,2026-05-17,16,Hypertension,Completed,D03
+A00150,P0068,General Medicine,2026-05-17,16,Skin Allergy,Completed,D01
+A01947,P0394,General Medicine,2026-05-17,11,Asthma,Completed,D01
+A02631,P0054,Orthopedics,2026-05-17,13,Hypertension,Completed,D05
+A00998,P0139,Gynecology,2026-05-17,13,Diabetes,Completed,D06
+A02182,P0402,General Medicine,2026-05-17,14,Hypertension,Completed,D01
+A01585,P0018,ENT,2026-05-17,10,Dental Pain,Completed,D07
+A02473,P0356,General Medicine,2026-05-18,13,Hypertension,Completed,D01
+A00128,P0258,General Medicine,2026-05-18,9,Infection,No-Show,D01
+A02343,P0410,Pediatrics,2026-05-19,12,Dental Pain,Completed,D02
+A00094,P0587,ENT,2026-05-19,9,Infection,Completed,D07
+A02315,P0205,Dentistry,2026-05-19,9,Migraine,Cancelled,D08
+A02586,P0557,General Medicine,2026-05-19,15,Back Pain,Completed,D01
+A00346,P0153,Dentistry,2026-05-19,14,Checkup,Completed,D08
+A02810,P0069,ENT,2026-05-19,13,Hypertension,Completed,D07
+A00080,P0002,Dentistry,2026-05-19,14,Hypertension,Completed,D08
+A01334,P0554,Gynecology,2026-05-19,15,Diabetes,Completed,D06
+A00381,P0287,Orthopedics,2026-05-19,11,Hypertension,Completed,D05
+A01077,P0133,Cardiology,2026-05-20,12,Migraine,Completed,D03
+A00306,P0573,General Medicine,2026-05-20,13,Hypertension,No-Show,D01
+A02353,P0285,General Medicine,2026-05-20,17,Back Pain,Completed,D01
+A00823,P0077,Orthopedics,2026-05-20,12,Fever,Completed,D05
+A01553,P0467,Dentistry,2026-05-21,16,Skin Allergy,No-Show,D08
+A01136,P0517,ENT,2026-05-21,16,Infection,Completed,D07
+A02389,P0419,General Medicine,2026-05-21,9,Migraine,Completed,D01
+A01655,P0385,Dentistry,2026-05-21,20,Hypertension,Cancelled,D08
+A01841,P0340,Dentistry,2026-05-21,13,Fever,Completed,D08
+A02107,P0494,Orthopedics,2026-05-22,13,Infection,Completed,D05
+A00548,P0542,Orthopedics,2026-05-22,10,Migraine,Completed,D05
+A01252,P0549,Orthopedics,2026-05-22,18,Back Pain,Completed,D05
+A01579,P0388,General Medicine,2026-05-22,9,Diabetes,Completed,D01
+A00862,P0135,Cardiology,2026-05-22,12,Skin Allergy,Completed,D03
+A00078,P0061,Pediatrics,2026-05-22,19,Hypertension,Completed,D02
+A02266,P0462,Orthopedics,2026-05-23,15,Asthma,Cancelled,D05
+A01014,P0449,General Medicine,2026-05-23,12,Checkup,Completed,D01
+A01705,P0060,Dentistry,2026-05-23,13,Migraine,Completed,D08
+A00716,P0071,Pediatrics,2026-05-23,9,Diabetes,Completed,D02
+A01602,P0562,Gynecology,2026-05-23,15,Fever,Completed,D06
+A00351,P0331,ENT,2026-05-23,15,Skin Allergy,Completed,D07
+A01190,P0447,General Medicine,2026-05-23,9,Checkup,Completed,D01
+A01510,P0038,General Medicine,2026-05-23,15,Diabetes,Cancelled,D01
+A02849,P0565,General Medicine,2026-05-23,13,Migraine,Completed,D01
+A02036,P0001,Pediatrics,2026-05-23,9,Asthma,Completed,D02
+A01468,P0315,Orthopedics,2026-05-23,13,Infection,Completed,D05
+A02111,P0071,Dermatology,2026-05-23,14,Asthma,Completed,D04
+A00596,P0019,Dermatology,2026-05-23,13,Skin Allergy,Completed,D04
+A02872,P0402,General Medicine,2026-05-23,11,Fever,Completed,D01
+A00454,P0581,Dermatology,2026-05-23,9,Back Pain,Cancelled,D04
+A00959,P0414,Orthopedics,2026-05-24,17,Asthma,Completed,D05
+A00095,P0109,Orthopedics,2026-05-24,9,Fever,Completed,D05
+A00749,P0428,Orthopedics,2026-05-24,12,Diabetes,Completed,D05
+A00838,P0147,General Medicine,2026-05-24,12,Checkup,Completed,D01
+A00671,P0419,General Medicine,2026-05-24,11,Diabetes,Cancelled,D01
+A00022,P0513,Dentistry,2026-05-24,9,Checkup,Completed,D08
+A01474,P0521,Cardiology,2026-05-24,10,Back Pain,No-Show,D03
+A01943,P0236,ENT,2026-05-24,15,Back Pain,Completed,D07
+A02550,P0039,Dermatology,2026-05-24,12,Migraine,Completed,D04
+A02557,P0543,General Medicine,2026-05-24,11,Asthma,No-Show,D01
+A00017,P0320,Cardiology,2026-05-24,10,Fever,Completed,D03
+A02117,P0189,General Medicine,2026-05-25,13,Skin Allergy,Completed,D01
+A01660,P0150,General Medicine,2026-05-25,11,Back Pain,Completed,D01
+A02441,P0424,ENT,2026-05-25,9,Fever,Completed,D07
+A02501,P0345,General Medicine,2026-05-25,9,Dental Pain,Completed,D01
+A02047,P0512,Dentistry,2026-05-25,9,Diabetes,Cancelled,D08
+A01216,P0397,Orthopedics,2026-05-26,12,Migraine,Completed,D05
+A02869,P0127,General Medicine,2026-05-26,15,Infection,Completed,D01
+A00521,P0458,Dermatology,2026-05-26,20,Migraine,No-Show,D04
+A02058,P0167,Cardiology,2026-05-26,15,Diabetes,Completed,D03
+A01844,P0097,Gynecology,2026-05-26,10,Hypertension,Completed,D06
+A01353,P0099,Cardiology,2026-05-27,11,Checkup,Completed,D03
+A00701,P0592,Cardiology,2026-05-27,14,Skin Allergy,Completed,D03
+A01251,P0588,Dentistry,2026-05-27,15,Checkup,Cancelled,D08
+A01200,P0070,Dentistry,2026-05-27,13,Asthma,Completed,D08
+A02463,P0292,Cardiology,2026-05-27,13,Checkup,Completed,D03
+A01102,P0135,ENT,2026-05-27,15,Dental Pain,Completed,D07
+A00986,P0389,Dermatology,2026-05-28,9,Dental Pain,Completed,D04
+A02298,P0495,General Medicine,2026-05-28,16,Hypertension,Completed,D01
+A01436,P0300,ENT,2026-05-28,16,Checkup,Completed,D07
+A01804,P0586,Pediatrics,2026-05-28,12,Dental Pain,Completed,D02
+A00875,P0143,Dermatology,2026-05-28,13,Hypertension,Completed,D04
+A00110,P0415,Pediatrics,2026-05-29,16,Hypertension,No-Show,D02
+A00030,P0290,Dermatology,2026-05-29,12,Asthma,Completed,D04
+A02360,P0073,Orthopedics,2026-05-29,15,Fever,Completed,D05
+A01072,P0514,Dermatology,2026-05-29,13,Skin Allergy,Completed,D04
+A01789,P0101,Pediatrics,2026-05-29,10,Dental Pain,No-Show,D02
+A02732,P0591,Dermatology,2026-05-29,10,Fever,Completed,D04
+A01616,P0085,Pediatrics,2026-05-29,12,Hypertension,Completed,D02
+A02264,P0245,Cardiology,2026-05-29,17,Asthma,Completed,D03
+A00647,P0542,ENT,2026-05-29,9,Migraine,Cancelled,D07
+A01282,P0498,Cardiology,2026-05-30,9,Checkup,Completed,D03
+A02122,P0039,Pediatrics,2026-05-30,12,Skin Allergy,Completed,D02
+A00256,P0367,Gynecology,2026-05-30,13,Skin Allergy,Completed,D06
+A01434,P0424,Cardiology,2026-05-30,10,Dental Pain,No-Show,D03
+A02075,P0002,Pediatrics,2026-05-30,13,Back Pain,Completed,D02
+A02041,P0163,Dermatology,2026-05-30,10,Dental Pain,Completed,D04
+A00235,P0400,Cardiology,2026-05-30,17,Dental Pain,Completed,D03
+A00642,P0595,General Medicine,2026-05-30,20,Checkup,Completed,D01
+A01111,P0583,Orthopedics,2026-05-30,11,Diabetes,Completed,D05
+A01259,P0073,Cardiology,2026-05-30,15,Infection,No-Show,D03
+A01919,P0328,Dermatology,2026-05-30,17,Hypertension,Completed,D04
+A01340,P0005,ENT,2026-05-31,16,Dental Pain,No-Show,D07
+A02889,P0419,General Medicine,2026-05-31,15,Fever,Completed,D01
+A00486,P0112,Dermatology,2026-05-31,16,Hypertension,No-Show,D04
+A02203,P0031,Orthopedics,2026-05-31,9,Migraine,Completed,D05
+A02712,P0484,Gynecology,2026-05-31,15,Migraine,Completed,D06
+A02327,P0015,Orthopedics,2026-05-31,13,Migraine,Completed,D05
+A02786,P0365,ENT,2026-05-31,16,Hypertension,No-Show,D07
+A00061,P0225,Dermatology,2026-05-31,13,Dental Pain,Completed,D04
+A00474,P0103,General Medicine,2026-06-01,13,Asthma,Completed,D01
+A00164,P0562,General Medicine,2026-06-01,17,Fever,Completed,D01
+A00939,P0170,Cardiology,2026-06-01,9,Checkup,Cancelled,D03
+A00905,P0525,Orthopedics,2026-06-01,15,Dental Pain,Completed,D05
+A00949,P0390,ENT,2026-06-01,9,Migraine,Cancelled,D07
+A00612,P0327,Orthopedics,2026-06-01,15,Hypertension,Completed,D05
+A01891,P0024,General Medicine,2026-06-01,14,Fever,Completed,D01
+A01166,P0107,Dermatology,2026-06-01,9,Fever,Completed,D04
+A02514,P0054,Dermatology,2026-06-01,9,Skin Allergy,Completed,D04
+A01734,P0285,Cardiology,2026-06-01,9,Infection,Completed,D03
+A00243,P0569,Cardiology,2026-06-02,9,Checkup,Completed,D03
+A00695,P0045,Orthopedics,2026-06-02,13,Fever,Completed,D05
+A02078,P0411,Cardiology,2026-06-02,9,Skin Allergy,Cancelled,D03
+A00515,P0062,General Medicine,2026-06-03,9,Infection,Completed,D01
+A00182,P0101,ENT,2026-06-03,13,Fever,Completed,D07
+A01812,P0106,Pediatrics,2026-06-03,16,Skin Allergy,Completed,D02
+A00752,P0417,General Medicine,2026-06-03,14,Migraine,No-Show,D01
+A02827,P0574,Dermatology,2026-06-04,11,Hypertension,Completed,D04
+A02042,P0365,General Medicine,2026-06-05,13,Migraine,Completed,D01
+A02896,P0041,Gynecology,2026-06-05,13,Asthma,Completed,D06
+A02263,P0153,General Medicine,2026-06-05,13,Migraine,Completed,D01
+A02458,P0191,General Medicine,2026-06-05,18,Migraine,Completed,D01
+A00950,P0591,Orthopedics,2026-06-05,10,Dental Pain,Completed,D05
+A01321,P0432,Pediatrics,2026-06-05,15,Skin Allergy,Completed,D02
+A00934,P0387,Dentistry,2026-06-05,9,Infection,Completed,D08
+A00672,P0045,Dentistry,2026-06-05,12,Asthma,Cancelled,D08
+A00307,P0541,Cardiology,2026-06-05,12,Hypertension,No-Show,D03
+A00274,P0482,ENT,2026-06-05,12,Checkup,Completed,D07
+A00532,P0382,ENT,2026-06-06,16,Fever,Completed,D07
+A00553,P0161,General Medicine,2026-06-06,17,Checkup,Completed,D01
+A00581,P0162,Gynecology,2026-06-06,10,Skin Allergy,Completed,D06
+A01827,P0438,Dermatology,2026-06-06,16,Diabetes,Completed,D04
+A00728,P0202,Pediatrics,2026-06-06,9,Diabetes,Completed,D02
+A00932,P0176,Dentistry,2026-06-06,9,Checkup,Completed,D08
+A02338,P0373,Orthopedics,2026-06-06,15,Checkup,Completed,D05
+A02443,P0545,General Medicine,2026-06-06,9,Dental Pain,Completed,D01
+A00102,P0492,General Medicine,2026-06-07,14,Migraine,Completed,D01
+A00590,P0387,Cardiology,2026-06-07,14,Fever,Completed,D03
+A01725,P0064,General Medicine,2026-06-07,16,Hypertension,Completed,D01
+A01283,P0242,ENT,2026-06-08,15,Skin Allergy,Completed,D07
+A00499,P0269,ENT,2026-06-08,16,Hypertension,Completed,D07
+A00265,P0288,Orthopedics,2026-06-08,15,Dental Pain,Completed,D05
+A00654,P0259,Pediatrics,2026-06-08,13,Infection,Completed,D02
+A00079,P0294,Pediatrics,2026-06-08,9,Skin Allergy,Completed,D02
+A01115,P0500,Gynecology,2026-06-08,19,Hypertension,No-Show,D06
+A01173,P0528,General Medicine,2026-06-08,10,Fever,Cancelled,D01
+A01215,P0423,Orthopedics,2026-06-09,15,Diabetes,Completed,D05
+A01242,P0472,ENT,2026-06-09,11,Asthma,Completed,D07
+A02865,P0167,General Medicine,2026-06-09,15,Migraine,Completed,D01
+A01559,P0283,General Medicine,2026-06-09,9,Checkup,Completed,D01
+A01503,P0566,Pediatrics,2026-06-10,13,Asthma,Completed,D02
+A01679,P0507,Pediatrics,2026-06-10,10,Dental Pain,Completed,D02
+A01488,P0480,Dermatology,2026-06-10,12,Diabetes,Completed,D04
+A00425,P0080,General Medicine,2026-06-10,9,Asthma,Completed,D01
+A00878,P0011,General Medicine,2026-06-10,9,Dental Pain,Completed,D01
+A00610,P0086,Dentistry,2026-06-10,10,Hypertension,Completed,D08
+A02237,P0577,Orthopedics,2026-06-10,9,Checkup,Completed,D05
+A01206,P0288,General Medicine,2026-06-10,12,Fever,Completed,D01
+A01777,P0304,General Medicine,2026-06-11,11,Dental Pain,Completed,D01
+A01341,P0232,Cardiology,2026-06-11,10,Migraine,Cancelled,D03
+A02497,P0464,Gynecology,2026-06-11,16,Fever,Completed,D06
+A01682,P0390,Dentistry,2026-06-11,9,Dental Pain,Completed,D08
+A00419,P0058,Orthopedics,2026-06-12,10,Asthma,Cancelled,D05
+A02549,P0375,Dentistry,2026-06-12,9,Back Pain,No-Show,D08
+A01443,P0061,Cardiology,2026-06-12,15,Skin Allergy,Cancelled,D03
+A01940,P0101,Orthopedics,2026-06-13,13,Diabetes,Completed,D05
+A01716,P0270,General Medicine,2026-06-13,13,Skin Allergy,Completed,D01
+A01915,P0175,Cardiology,2026-06-13,9,Back Pain,Completed,D03
+A00803,P0262,ENT,2026-06-13,9,Fever,Completed,D07
+A02543,P0492,Cardiology,2026-06-13,9,Skin Allergy,Completed,D03
+A00815,P0574,Orthopedics,2026-06-14,12,Diabetes,No-Show,D05
+A01007,P0237,ENT,2026-06-14,15,Checkup,Completed,D07
+A02857,P0523,Cardiology,2026-06-14,9,Diabetes,No-Show,D03
+A01751,P0041,Dentistry,2026-06-14,9,Hypertension,Completed,D08
+A01599,P0229,Pediatrics,2026-06-14,9,Diabetes,Completed,D02
+A00995,P0096,Dentistry,2026-06-14,16,Migraine,Completed,D08
+A02523,P0372,General Medicine,2026-06-14,12,Migraine,Completed,D01
+A01592,P0372,Dentistry,2026-06-14,12,Hypertension,Completed,D08
+A02618,P0514,Dentistry,2026-06-14,12,Asthma,Completed,D08
+A00721,P0389,General Medicine,2026-06-15,12,Skin Allergy,Completed,D01
+A02624,P0294,General Medicine,2026-06-15,10,Asthma,Completed,D01
+A01411,P0218,Pediatrics,2026-06-15,9,Fever,Completed,D02
+A01612,P0324,Gynecology,2026-06-15,14,Back Pain,Completed,D06
+A02552,P0192,ENT,2026-06-15,12,Fever,Completed,D07
+A00404,P0239,General Medicine,2026-06-15,14,Diabetes,Completed,D01
+A01291,P0489,Gynecology,2026-06-16,9,Back Pain,Completed,D06
+A00724,P0404,General Medicine,2026-06-16,11,Hypertension,Completed,D01
+A02562,P0162,Cardiology,2026-06-16,17,Infection,Completed,D03
+A02060,P0202,General Medicine,2026-06-16,14,Migraine,Completed,D01
+A01494,P0135,Dentistry,2026-06-16,13,Migraine,Completed,D08
+A00223,P0293,General Medicine,2026-06-16,13,Back Pain,Completed,D01
+A00611,P0138,Orthopedics,2026-06-16,14,Migraine,Completed,D05
+A00330,P0453,Orthopedics,2026-06-16,11,Hypertension,Completed,D05
+A02412,P0408,Pediatrics,2026-06-16,10,Hypertension,Completed,D02
+A02785,P0097,Gynecology,2026-06-16,16,Hypertension,Cancelled,D06
+A02581,P0146,Dentistry,2026-06-17,13,Checkup,No-Show,D08
+A02900,P0390,ENT,2026-06-17,12,Checkup,Completed,D07
+A00374,P0044,Cardiology,2026-06-17,18,Checkup,Completed,D03
+A00333,P0591,Pediatrics,2026-06-17,9,Checkup,Completed,D02
+A01744,P0547,General Medicine,2026-06-18,9,Back Pain,Completed,D01
+A01404,P0501,Dermatology,2026-06-18,12,Diabetes,Cancelled,D04
+A00774,P0504,Gynecology,2026-06-18,11,Diabetes,No-Show,D06
+A02821,P0095,General Medicine,2026-06-18,9,Diabetes,Completed,D01
+A02312,P0291,General Medicine,2026-06-18,9,Infection,Completed,D01
+A02905,P0094,Pediatrics,2026-06-18,9,Skin Allergy,Completed,D02
+A02575,P0205,General Medicine,2026-06-18,16,Checkup,No-Show,D01
+A01061,P0030,General Medicine,2026-06-19,9,Checkup,Completed,D01
+A02588,P0428,Orthopedics,2026-06-19,15,Back Pain,Completed,D05
+A01750,P0518,Pediatrics,2026-06-19,15,Skin Allergy,Completed,D02
+A02496,P0100,Dermatology,2026-06-19,11,Back Pain,Completed,D04
+A00758,P0574,Orthopedics,2026-06-19,17,Diabetes,Cancelled,D05
+A00673,P0009,Dermatology,2026-06-19,9,Asthma,Completed,D04
+A00286,P0192,General Medicine,2026-06-19,9,Diabetes,Completed,D01
+A00284,P0396,General Medicine,2026-06-19,16,Dental Pain,Completed,D01
+A02577,P0412,General Medicine,2026-06-19,12,Infection,Completed,D01
+A02099,P0400,Gynecology,2026-06-19,15,Fever,Completed,D06
+A02004,P0093,ENT,2026-06-19,13,Migraine,Completed,D07
+A02303,P0153,Dermatology,2026-06-20,15,Infection,Completed,D04
+A01000,P0591,Dentistry,2026-06-20,14,Dental Pain,Completed,D08
+A01288,P0178,ENT,2026-06-20,14,Migraine,Completed,D07
+A01412,P0494,Gynecology,2026-06-20,15,Skin Allergy,Completed,D06
+A01461,P0496,Dentistry,2026-06-20,9,Checkup,Completed,D08
+A00546,P0451,Dentistry,2026-06-20,12,Fever,Completed,D08
+A02947,P0315,Gynecology,2026-06-20,13,Infection,Completed,D06
+A02779,P0362,General Medicine,2026-06-20,9,Checkup,Completed,D01
+A01931,P0595,Pediatrics,2026-06-20,12,Dental Pain,Completed,D02
+A01226,P0042,Gynecology,2026-06-21,13,Fever,Completed,D06
+A02150,P0407,Dermatology,2026-06-21,13,Fever,Completed,D04
+A02397,P0401,General Medicine,2026-06-21,10,Migraine,No-Show,D01
+A01485,P0319,ENT,2026-06-21,14,Back Pain,Completed,D07
+A02545,P0215,General Medicine,2026-06-21,10,Migraine,Completed,D01
+A02290,P0287,General Medicine,2026-06-21,9,Skin Allergy,Completed,D01
+A01899,P0433,Gynecology,2026-06-21,16,Dental Pain,Completed,D06
+A02013,P0221,ENT,2026-06-21,9,Infection,Completed,D07
+A01145,P0053,Pediatrics,2026-06-22,14,Diabetes,Completed,D02
+A00615,P0579,Cardiology,2026-06-22,17,Checkup,No-Show,D03
+A01192,P0084,General Medicine,2026-06-22,18,Fever,Completed,D01
+A01654,P0065,Cardiology,2026-06-22,15,Dental Pain,Completed,D03
+A02457,P0486,General Medicine,2026-06-22,17,Infection,Completed,D01
+A02573,P0188,General Medicine,2026-06-22,16,Hypertension,Completed,D01
+A01131,P0127,Dermatology,2026-06-22,12,Dental Pain,Completed,D04
+A01740,P0095,Gynecology,2026-06-22,9,Dental Pain,Completed,D06
+A02912,P0326,General Medicine,2026-06-22,15,Migraine,Completed,D01
+A01556,P0544,Gynecology,2026-06-23,12,Back Pain,Completed,D06
+A00661,P0004,Gynecology,2026-06-23,15,Checkup,Completed,D06
+A01021,P0209,Dermatology,2026-06-23,9,Migraine,Completed,D04
+A02918,P0102,General Medicine,2026-06-23,15,Asthma,Completed,D01
+A02371,P0235,General Medicine,2026-06-23,10,Hypertension,Completed,D01
+A01433,P0303,Gynecology,2026-06-23,13,Skin Allergy,Completed,D06
+A02349,P0244,General Medicine,2026-06-23,9,Checkup,Completed,D01
+A01286,P0477,Pediatrics,2026-06-23,10,Fever,Completed,D02
+A02394,P0345,Gynecology,2026-06-23,14,Dental Pain,Completed,D06
+A00195,P0285,Dermatology,2026-06-24,15,Diabetes,Completed,D04
+A02811,P0260,General Medicine,2026-06-24,14,Checkup,No-Show,D01
+A00856,P0218,Cardiology,2026-06-24,18,Back Pain,Completed,D03
+A01123,P0213,General Medicine,2026-06-24,16,Asthma,Completed,D01
+A01222,P0424,Dermatology,2026-06-25,10,Asthma,Completed,D04
+A00168,P0439,Cardiology,2026-06-25,11,Asthma,Cancelled,D03
+A00034,P0591,ENT,2026-06-25,12,Dental Pain,Cancelled,D07
+A01842,P0448,General Medicine,2026-06-25,13,Asthma,Completed,D01
+A01993,P0431,Gynecology,2026-06-25,12,Dental Pain,Completed,D06
+A00258,P0146,Dentistry,2026-06-26,16,Back Pain,Completed,D08
+A00750,P0521,General Medicine,2026-06-26,16,Back Pain,Completed,D01
+A02658,P0476,Dentistry,2026-06-26,17,Checkup,Completed,D08
+A01254,P0415,Gynecology,2026-06-26,12,Diabetes,Completed,D06
+A02066,P0562,General Medicine,2026-06-26,15,Fever,Completed,D01
+A01785,P0012,Dermatology,2026-06-26,17,Diabetes,Completed,D04
+A00656,P0145,General Medicine,2026-06-26,20,Hypertension,Completed,D01
+A00359,P0462,General Medicine,2026-06-26,12,Skin Allergy,No-Show,D01
+A02614,P0147,ENT,2026-06-26,13,Fever,Completed,D07
+A01737,P0408,Gynecology,2026-06-27,10,Asthma,Completed,D06
+A00051,P0540,Dermatology,2026-06-27,14,Checkup,Completed,D04
+A00927,P0435,Orthopedics,2026-06-27,11,Dental Pain,Completed,D05
+A01748,P0468,Dentistry,2026-06-27,10,Dental Pain,Completed,D08
+A00285,P0212,Gynecology,2026-06-27,11,Diabetes,Completed,D06
+A02726,P0455,Cardiology,2026-06-27,9,Fever,Completed,D03
+A02516,P0139,Dentistry,2026-06-28,14,Checkup,Completed,D08
+A00411,P0049,General Medicine,2026-06-28,9,Diabetes,Completed,D01
+A02663,P0413,ENT,2026-06-28,19,Checkup,Completed,D07
+A01041,P0014,General Medicine,2026-06-28,16,Migraine,Completed,D01
+A00790,P0202,Gynecology,2026-06-28,13,Infection,Completed,D06
+A02074,P0368,Pediatrics,2026-06-28,11,Fever,Completed,D02
+A02178,P0007,Pediatrics,2026-06-28,12,Checkup,Cancelled,D02
+A01006,P0099,General Medicine,2026-06-29,10,Dental Pain,Cancelled,D01
+A02665,P0387,Pediatrics,2026-06-29,9,Hypertension,Cancelled,D02
+A00210,P0267,Pediatrics,2026-06-29,14,Migraine,Completed,D02
+A02928,P0093,Orthopedics,2026-06-29,10,Fever,Completed,D05
+A02374,P0158,Pediatrics,2026-06-29,14,Dental Pain,Completed,D02
+A01883,P0207,Gynecology,2026-06-29,18,Skin Allergy,Completed,D06
+A01962,P0083,ENT,2026-06-29,13,Migraine,Completed,D07
+A01736,P0043,ENT,2026-06-30,12,Skin Allergy,Completed,D07
+A00410,P0288,General Medicine,2026-06-30,11,Hypertension,Cancelled,D01
+A02504,P0478,Cardiology,2026-06-30,11,Hypertension,No-Show,D03
+A02814,P0530,Cardiology,2026-06-30,14,Fever,Completed,D03
+A02511,P0016,Dermatology,2026-06-30,10,Infection,Completed,D04
+A01714,P0472,Dermatology,2026-06-30,12,Migraine,Completed,D04
+A01534,P0295,Dermatology,2026-06-30,14,Back Pain,Completed,D04
+A00848,P0473,Dentistry,2026-06-30,9,Migraine,Completed,D08
+A00067,P0136,Cardiology,2026-06-30,16,Dental Pain,Completed,D03
+A00446,P0407,Dermatology,2026-06-30,15,Hypertension,No-Show,D04
+A00599,P0114,Pediatrics,2026-06-30,16,Migraine,Completed,D02
+A01140,P0437,Cardiology,2026-06-30,17,Checkup,Completed,D03
+A00129,P0577,Gynecology,2026-06-30,9,Back Pain,Completed,D06
+A00467,P0269,ENT,2026-07-01,9,Skin Allergy,Completed,D07
+A01438,P0573,General Medicine,2026-07-01,13,Back Pain,Completed,D01
+A02686,P0333,General Medicine,2026-07-01,13,Infection,Completed,D01
+A00535,P0103,Dentistry,2026-07-01,18,Infection,Completed,D08
+A01331,P0502,ENT,2026-07-01,13,Dental Pain,Completed,D07
+A02518,P0395,Orthopedics,2026-07-01,15,Fever,Cancelled,D05
+A02375,P0437,Dentistry,2026-07-01,14,Hypertension,Completed,D08
+A02064,P0299,Cardiology,2026-07-01,9,Fever,Completed,D03
+A00576,P0471,ENT,2026-07-01,18,Dental Pain,No-Show,D07
+A00569,P0266,ENT,2026-07-02,9,Checkup,Cancelled,D07
+A00203,P0065,Cardiology,2026-07-02,15,Hypertension,Completed,D03
+A01208,P0410,General Medicine,2026-07-02,9,Hypertension,Completed,D01
+A01937,P0131,Orthopedics,2026-07-02,14,Asthma,Completed,D05
+A01836,P0071,Cardiology,2026-07-02,11,Skin Allergy,Completed,D03
+A02200,P0042,Pediatrics,2026-07-02,14,Infection,Completed,D02
+A00083,P0047,Dermatology,2026-07-02,12,Migraine,Completed,D04
+A01048,P0412,Pediatrics,2026-07-02,9,Diabetes,Completed,D02
+A00277,P0295,Orthopedics,2026-07-02,13,Hypertension,Completed,D05
+A01617,P0340,ENT,2026-07-02,16,Checkup,Cancelled,D07
+A02525,P0473,Orthopedics,2026-07-02,9,Checkup,Completed,D05
+A00437,P0556,Dermatology,2026-07-03,15,Fever,Completed,D04
+A00254,P0005,General Medicine,2026-07-03,12,Asthma,Completed,D01
+A00935,P0138,General Medicine,2026-07-03,15,Migraine,Completed,D01
+A00667,P0387,Dentistry,2026-07-03,10,Infection,Cancelled,D08
+A02628,P0377,Pediatrics,2026-07-04,12,Fever,Cancelled,D02
+A00634,P0238,Cardiology,2026-07-04,17,Skin Allergy,Completed,D03
+A02480,P0292,Gynecology,2026-07-04,11,Dental Pain,Completed,D06
+A01778,P0548,General Medicine,2026-07-04,13,Skin Allergy,Completed,D01
+A01445,P0595,Dermatology,2026-07-04,12,Back Pain,No-Show,D04
+A02304,P0410,Cardiology,2026-07-04,13,Checkup,Completed,D03
+A00485,P0197,Cardiology,2026-07-04,10,Fever,Completed,D03
+A01664,P0496,General Medicine,2026-07-04,11,Hypertension,Completed,D01
+A00452,P0233,Orthopedics,2026-07-04,12,Back Pain,Completed,D05
+A00564,P0519,ENT,2026-07-04,9,Dental Pain,Completed,D07
+A01845,P0091,General Medicine,2026-07-04,14,Skin Allergy,Completed,D01
+A02812,P0130,General Medicine,2026-07-04,15,Checkup,No-Show,D01
+A00567,P0073,Cardiology,2026-07-05,12,Hypertension,Completed,D03
+A01636,P0023,General Medicine,2026-07-05,15,Migraine,Completed,D01
+A02207,P0086,General Medicine,2026-07-05,17,Back Pain,Completed,D01
+A01727,P0094,ENT,2026-07-05,9,Hypertension,Completed,D07
+A00043,P0394,Gynecology,2026-07-05,14,Back Pain,Completed,D06
+A02341,P0244,ENT,2026-07-05,10,Fever,Completed,D07
+A00993,P0533,Gynecology,2026-07-05,10,Diabetes,Completed,D06
+A02801,P0149,General Medicine,2026-07-05,17,Fever,Completed,D01
+A01830,P0157,General Medicine,2026-07-05,15,Asthma,Completed,D01
+A00655,P0401,Pediatrics,2026-07-05,9,Hypertension,No-Show,D02
+A00112,P0159,General Medicine,2026-07-05,18,Migraine,Completed,D01
+A02335,P0303,Dentistry,2026-07-06,11,Hypertension,Completed,D08
+A02870,P0175,Gynecology,2026-07-06,9,Back Pain,Completed,D06
+A02651,P0115,Orthopedics,2026-07-06,13,Infection,Completed,D05
+A01565,P0039,General Medicine,2026-07-06,12,Infection,Completed,D01
+A01933,P0050,Gynecology,2026-07-06,13,Migraine,Completed,D06
+A02916,P0526,Dentistry,2026-07-06,9,Diabetes,Completed,D08
+A00510,P0195,Dermatology,2026-07-06,14,Fever,Completed,D04
+A02227,P0458,General Medicine,2026-07-06,13,Migraine,Completed,D01
+A01164,P0022,ENT,2026-07-06,15,Migraine,Cancelled,D07
+A01475,P0359,General Medicine,2026-07-06,12,Diabetes,Completed,D01
+A01223,P0365,Pediatrics,2026-07-07,9,Skin Allergy,Cancelled,D02
+A02637,P0396,Orthopedics,2026-07-07,13,Skin Allergy,Completed,D05
+A00533,P0051,Dentistry,2026-07-07,16,Skin Allergy,Completed,D08
+A01765,P0162,Dentistry,2026-07-07,14,Migraine,Completed,D08
+A00827,P0145,General Medicine,2026-07-07,9,Migraine,Completed,D01
+A00967,P0427,Pediatrics,2026-07-07,10,Asthma,Completed,D02
+A01870,P0412,General Medicine,2026-07-08,10,Asthma,Completed,D01
+A00457,P0437,Dentistry,2026-07-08,18,Infection,Cancelled,D08
+A00360,P0255,Pediatrics,2026-07-08,9,Back Pain,Completed,D02
+A02367,P0123,Gynecology,2026-07-08,12,Migraine,Completed,D06
+A02825,P0268,Dermatology,2026-07-08,16,Fever,Completed,D04
+A00388,P0059,Cardiology,2026-07-08,10,Back Pain,Completed,D03
+A01442,P0357,Gynecology,2026-07-08,13,Diabetes,No-Show,D06
+A01301,P0517,General Medicine,2026-07-08,11,Diabetes,Completed,D01
+A01065,P0270,Gynecology,2026-07-09,9,Skin Allergy,Completed,D06
+A00663,P0049,General Medicine,2026-07-09,9,Diabetes,Completed,D01
+A00640,P0325,General Medicine,2026-07-09,9,Dental Pain,Completed,D01
+A02352,P0065,General Medicine,2026-07-09,19,Hypertension,Completed,D01
+A00493,P0163,Pediatrics,2026-07-09,14,Back Pain,No-Show,D02
+A00892,P0107,Cardiology,2026-07-09,10,Back Pain,Completed,D03
+A01979,P0479,Pediatrics,2026-07-09,13,Hypertension,Completed,D02
+A01561,P0369,General Medicine,2026-07-09,17,Back Pain,Cancelled,D01
+A02235,P0519,ENT,2026-07-09,12,Fever,Completed,D07
+A02615,P0462,Gynecology,2026-07-10,20,Hypertension,Completed,D06
+A02570,P0598,General Medicine,2026-07-10,14,Dental Pain,Completed,D01
+A02334,P0590,Dentistry,2026-07-10,10,Asthma,Completed,D08
+A01820,P0154,General Medicine,2026-07-10,11,Diabetes,Completed,D01
+A01218,P0350,Cardiology,2026-07-10,15,Skin Allergy,Completed,D03
+A02318,P0089,Dermatology,2026-07-10,18,Diabetes,Completed,D04
+A02138,P0384,Orthopedics,2026-07-10,14,Hypertension,Completed,D05
+A02571,P0369,ENT,2026-07-10,17,Checkup,Completed,D07
+A02653,P0459,General Medicine,2026-07-10,17,Dental Pain,Completed,D01
+A00122,P0403,Orthopedics,2026-07-10,12,Infection,Cancelled,D05
+A00519,P0081,General Medicine,2026-07-10,19,Skin Allergy,Completed,D01
+A00840,P0359,General Medicine,2026-07-11,11,Skin Allergy,Completed,D01
+A02242,P0504,General Medicine,2026-07-11,12,Diabetes,Completed,D01
+A00491,P0442,ENT,2026-07-11,14,Dental Pain,Completed,D07
+A02859,P0308,Cardiology,2026-07-11,15,Back Pain,Completed,D03
+A01049,P0533,Gynecology,2026-07-12,10,Dental Pain,Completed,D06
+A00669,P0551,Cardiology,2026-07-12,11,Diabetes,Completed,D03
+A02600,P0398,Pediatrics,2026-07-12,10,Diabetes,Completed,D02
+A01833,P0046,General Medicine,2026-07-12,14,Checkup,Completed,D01
+A02494,P0065,General Medicine,2026-07-12,14,Dental Pain,Cancelled,D01
+A01452,P0020,General Medicine,2026-07-12,18,Diabetes,Completed,D01
+A01052,P0545,Gynecology,2026-07-13,12,Hypertension,Completed,D06
+A01568,P0580,General Medicine,2026-07-13,9,Fever,Completed,D01
+A01210,P0291,ENT,2026-07-13,10,Checkup,Completed,D07
+A02835,P0516,Cardiology,2026-07-13,9,Skin Allergy,Completed,D03
+A01684,P0480,Gynecology,2026-07-13,13,Asthma,Completed,D06
+A01293,P0439,Orthopedics,2026-07-13,13,Diabetes,Completed,D05
+A00816,P0401,Gynecology,2026-07-13,11,Checkup,Completed,D06
+A00409,P0351,Dermatology,2026-07-13,11,Fever,Completed,D04
+A01760,P0043,Pediatrics,2026-07-13,9,Migraine,Completed,D02
+A00990,P0040,ENT,2026-07-13,9,Asthma,Cancelled,D07
+A02787,P0209,Cardiology,2026-07-13,19,Asthma,Completed,D03
+A01981,P0295,General Medicine,2026-07-13,15,Infection,Completed,D01
+A00781,P0431,General Medicine,2026-07-14,11,Infection,Completed,D01
+A02629,P0285,Pediatrics,2026-07-14,15,Skin Allergy,No-Show,D02
+A00382,P0097,Cardiology,2026-07-14,11,Hypertension,Completed,D03
+A02085,P0586,ENT,2026-07-14,10,Checkup,Cancelled,D07
+A00160,P0126,Cardiology,2026-07-14,14,Migraine,Completed,D03
+A01264,P0593,Gynecology,2026-07-14,9,Migraine,Completed,D06
+A01266,P0434,General Medicine,2026-07-14,11,Infection,Completed,D01
+A00011,P0213,Pediatrics,2026-07-14,13,Back Pain,Cancelled,D02
+A00334,P0444,Dermatology,2026-07-14,18,Back Pain,No-Show,D04
+A00727,P0021,Gynecology,2026-07-14,13,Back Pain,Completed,D06
+A02088,P0448,Dermatology,2026-07-15,12,Diabetes,Completed,D04
+A01831,P0453,Orthopedics,2026-07-15,10,Diabetes,Cancelled,D05
+A02309,P0280,Cardiology,2026-07-15,11,Diabetes,Completed,D03
+A00099,P0238,Orthopedics,2026-07-15,16,Skin Allergy,Completed,D05
+A01020,P0106,General Medicine,2026-07-15,14,Hypertension,Completed,D01
+A00631,P0597,Orthopedics,2026-07-15,11,Diabetes,Completed,D05
+A02340,P0364,Dentistry,2026-07-15,13,Skin Allergy,Cancelled,D08
+A02100,P0173,Orthopedics,2026-07-16,9,Dental Pain,Completed,D05
+A00298,P0575,ENT,2026-07-16,10,Migraine,Completed,D07
+A02527,P0045,Cardiology,2026-07-16,14,Hypertension,Completed,D03
+A01379,P0195,Cardiology,2026-07-16,14,Infection,Cancelled,D03
+A01771,P0330,Dermatology,2026-07-16,14,Back Pain,Completed,D04
+A02219,P0188,Cardiology,2026-07-17,11,Dental Pain,Completed,D03
+A00677,P0292,Dentistry,2026-07-17,16,Fever,Completed,D08
+A00694,P0313,General Medicine,2026-07-17,10,Asthma,Completed,D01
+A01782,P0447,Orthopedics,2026-07-17,18,Diabetes,Completed,D05
+A01088,P0025,Dentistry,2026-07-17,11,Fever,Completed,D08
+A01637,P0035,General Medicine,2026-07-17,12,Migraine,Completed,D01
+A02381,P0048,Cardiology,2026-07-17,17,Dental Pain,Completed,D03
+A02050,P0568,Dermatology,2026-07-17,11,Checkup,Completed,D04
+A02909,P0418,Orthopedics,2026-07-17,9,Skin Allergy,Completed,D05
+A00089,P0295,Dermatology,2026-07-18,15,Diabetes,Cancelled,D04
+A02210,P0312,General Medicine,2026-07-18,14,Asthma,Cancelled,D01
+A00380,P0007,Orthopedics,2026-07-18,13,Checkup,Completed,D05
+A00406,P0543,Gynecology,2026-07-18,16,Skin Allergy,Completed,D06
+A02470,P0527,General Medicine,2026-07-18,13,Migraine,Completed,D01
+A02419,P0088,ENT,2026-07-18,12,Hypertension,Completed,D07
+A00841,P0308,General Medicine,2026-07-18,13,Dental Pain,Completed,D01
+A02792,P0599,Dermatology,2026-07-18,15,Dental Pain,No-Show,D04
+A02806,P0137,Gynecology,2026-07-18,9,Migraine,Completed,D06
+A01471,P0516,General Medicine,2026-07-18,11,Dental Pain,Completed,D01
+A02654,P0433,Orthopedics,2026-07-18,11,Hypertension,Cancelled,D05
+A01762,P0424,ENT,2026-07-19,14,Back Pain,Completed,D07
+A01047,P0380,Cardiology,2026-07-19,9,Checkup,Completed,D03
+A02844,P0174,Pediatrics,2026-07-19,12,Dental Pain,Completed,D02
+A00839,P0477,General Medicine,2026-07-19,16,Diabetes,Completed,D01
+A00652,P0029,Cardiology,2026-07-19,12,Skin Allergy,Completed,D03
+A02943,P0159,General Medicine,2026-07-19,13,Hypertension,Completed,D01
+A00407,P0504,General Medicine,2026-07-19,10,Asthma,Completed,D01
+A02249,P0217,General Medicine,2026-07-19,12,Infection,Completed,D01
+A00880,P0513,Dentistry,2026-07-19,15,Infection,Completed,D08
+A00817,P0069,General Medicine,2026-07-19,9,Infection,Completed,D01
+A01116,P0341,Cardiology,2026-07-20,13,Infection,Completed,D03
+A01418,P0049,Cardiology,2026-07-20,9,Infection,Completed,D03
+A00900,P0434,Dentistry,2026-07-20,9,Hypertension,Completed,D08
+A00601,P0319,Pediatrics,2026-07-20,13,Diabetes,Completed,D02
+A01718,P0328,Pediatrics,2026-07-20,12,Asthma,Completed,D02
+A02643,P0107,Gynecology,2026-07-20,11,Migraine,Completed,D06
+A00518,P0318,General Medicine,2026-07-20,14,Checkup,Completed,D01
+A02901,P0433,Orthopedics,2026-07-21,19,Infection,Completed,D05
+A01473,P0370,Pediatrics,2026-07-21,16,Skin Allergy,Completed,D02
+A01976,P0288,Orthopedics,2026-07-21,9,Asthma,Cancelled,D05
+A01224,P0242,General Medicine,2026-07-21,9,Diabetes,Completed,D01
+A02839,P0384,General Medicine,2026-07-22,14,Skin Allergy,Completed,D01
+A02700,P0281,ENT,2026-07-22,14,Fever,No-Show,D07
+A02507,P0290,General Medicine,2026-07-22,9,Dental Pain,Completed,D01
+A02204,P0576,Gynecology,2026-07-22,18,Fever,Completed,D06
+A00487,P0143,Gynecology,2026-07-22,13,Skin Allergy,Completed,D06
+A02860,P0531,General Medicine,2026-07-22,11,Back Pain,Cancelled,D01
+A02725,P0147,Orthopedics,2026-07-22,16,Migraine,Completed,D05
+A01741,P0059,Orthopedics,2026-07-23,13,Back Pain,Cancelled,D05
+A02506,P0330,Dermatology,2026-07-23,9,Skin Allergy,Completed,D04
+A02715,P0232,Pediatrics,2026-07-23,11,Infection,Completed,D02
+A02777,P0457,Dentistry,2026-07-23,10,Hypertension,Completed,D08
+A02927,P0416,ENT,2026-07-23,12,Dental Pain,Completed,D07
+A02802,P0386,Dermatology,2026-07-23,15,Skin Allergy,Completed,D04
+A02612,P0358,Cardiology,2026-07-23,15,Back Pain,Completed,D03
+A02024,P0552,Dermatology,2026-07-23,9,Migraine,Completed,D04
+A01100,P0450,Gynecology,2026-07-23,12,Skin Allergy,Completed,D06
+A00194,P0532,Cardiology,2026-07-23,14,Migraine,Completed,D03
+A00087,P0174,ENT,2026-07-23,16,Skin Allergy,Completed,D07
+A01643,P0417,Dermatology,2026-07-24,12,Infection,Completed,D04
+A02672,P0358,ENT,2026-07-24,16,Fever,Completed,D07
+A00047,P0341,Pediatrics,2026-07-24,13,Infection,Completed,D02
+A02519,P0256,General Medicine,2026-07-24,9,Migraine,Completed,D01
+A00627,P0368,Orthopedics,2026-07-24,13,Back Pain,Completed,D05
+A01280,P0528,Gynecology,2026-07-24,11,Skin Allergy,Completed,D06
+A00263,P0391,ENT,2026-07-24,15,Infection,Completed,D07
+A00029,P0125,General Medicine,2026-07-24,16,Checkup,Completed,D01
+A02795,P0436,Dentistry,2026-07-25,16,Checkup,Completed,D08
+A00600,P0193,ENT,2026-07-25,16,Asthma,Completed,D07
+A00630,P0175,Dermatology,2026-07-25,9,Back Pain,Completed,D04
+A00883,P0188,General Medicine,2026-07-25,9,Back Pain,Completed,D01
+A00970,P0026,Orthopedics,2026-07-25,13,Infection,Completed,D05
+A00668,P0026,General Medicine,2026-07-25,16,Skin Allergy,Cancelled,D01
+A01423,P0319,Dentistry,2026-07-25,17,Back Pain,Completed,D08
+A00197,P0175,ENT,2026-07-25,10,Hypertension,Cancelled,D07
+A01366,P0466,Gynecology,2026-07-26,9,Fever,Completed,D06
+A02143,P0587,Dermatology,2026-07-26,13,Infection,Completed,D04
+A00049,P0392,Orthopedics,2026-07-26,12,Hypertension,No-Show,D05
+A02502,P0432,Dentistry,2026-07-26,9,Hypertension,Completed,D08
+A02061,P0253,Gynecology,2026-07-26,9,Diabetes,Completed,D06
+A00021,P0553,Dermatology,2026-07-26,18,Diabetes,Completed,D04
+A00857,P0436,General Medicine,2026-07-26,15,Infection,Completed,D01
+A00974,P0596,General Medicine,2026-07-26,13,Checkup,Completed,D01
+A01221,P0128,Pediatrics,2026-07-26,19,Hypertension,Completed,D02
+A01429,P0054,Pediatrics,2026-07-27,10,Skin Allergy,Completed,D02
+A00855,P0420,Dermatology,2026-07-27,17,Migraine,Completed,D04
+A01050,P0007,Dermatology,2026-07-27,11,Asthma,Completed,D04
+A00635,P0419,Orthopedics,2026-07-27,18,Migraine,Completed,D05
+A01954,P0498,ENT,2026-07-27,10,Checkup,Completed,D07
+A01609,P0170,Dentistry,2026-07-27,11,Asthma,Completed,D08
+A02625,P0575,Dentistry,2026-07-27,10,Diabetes,Completed,D08
+A00386,P0177,General Medicine,2026-07-27,12,Infection,Completed,D01
+A00588,P0086,Orthopedics,2026-07-27,10,Dental Pain,Completed,D05
+A00124,P0526,Cardiology,2026-07-27,12,Hypertension,Completed,D03
+A02271,P0345,Dermatology,2026-07-27,12,Fever,Completed,D04
+A01367,P0054,Gynecology,2026-07-27,17,Infection,Cancelled,D06
+A01004,P0582,Gynecology,2026-07-28,13,Back Pain,No-Show,D06
+A00849,P0118,Gynecology,2026-07-28,15,Hypertension,Completed,D06
+A02128,P0318,General Medicine,2026-07-28,11,Fever,Completed,D01
+A00389,P0561,Dermatology,2026-07-28,13,Checkup,Cancelled,D04
+A01043,P0593,Gynecology,2026-07-28,9,Fever,Cancelled,D06
+A02688,P0278,General Medicine,2026-07-28,9,Migraine,Completed,D01
+A00818,P0123,Orthopedics,2026-07-28,9,Skin Allergy,Cancelled,D05
+A00698,P0081,Pediatrics,2026-07-28,11,Infection,Cancelled,D02
+A00479,P0583,Gynecology,2026-07-28,10,Hypertension,Completed,D06
+A00756,P0585,Orthopedics,2026-07-29,13,Diabetes,Completed,D05
+A01402,P0201,General Medicine,2026-07-29,9,Migraine,Completed,D01
+A02095,P0217,General Medicine,2026-07-29,15,Checkup,Cancelled,D01
+A01374,P0427,Cardiology,2026-07-29,9,Diabetes,Cancelled,D03
+A01055,P0350,Gynecology,2026-07-29,12,Asthma,No-Show,D06
+A00504,P0561,ENT,2026-07-29,18,Checkup,Completed,D07
+A00057,P0304,Cardiology,2026-07-29,18,Back Pain,Cancelled,D03
+A00945,P0334,Orthopedics,2026-07-29,12,Dental Pain,Completed,D05
+A00038,P0338,General Medicine,2026-07-30,16,Back Pain,Cancelled,D01
+A01082,P0569,Cardiology,2026-07-30,12,Fever,Completed,D03
+A02841,P0181,General Medicine,2026-07-30,11,Skin Allergy,Completed,D01
+A02285,P0462,Orthopedics,2026-07-31,18,Checkup,Cancelled,D05
+A02429,P0153,Gynecology,2026-07-31,16,Hypertension,Completed,D06
+A00598,P0293,Pediatrics,2026-07-31,16,Hypertension,Completed,D02
+A02486,P0493,Orthopedics,2026-07-31,14,Checkup,Completed,D05
+A00897,P0251,Pediatrics,2026-07-31,9,Asthma,Completed,D02
+A02505,P0069,Dermatology,2026-07-31,11,Migraine,Completed,D04
+A02268,P0596,Pediatrics,2026-07-31,15,Hypertension,Cancelled,D02
+A00450,P0288,Cardiology,2026-07-31,11,Infection,Completed,D03
+A00664,P0022,Dentistry,2026-07-31,13,Dental Pain,Completed,D08
+A00937,P0431,Dermatology,2026-08-01,11,Skin Allergy,Completed,D04
+A00812,P0322,Cardiology,2026-08-01,9,Asthma,Completed,D03
+A01390,P0502,Pediatrics,2026-08-01,20,Back Pain,Completed,D02
+A02410,P0236,Orthopedics,2026-08-01,9,Skin Allergy,Completed,D05
+A01577,P0052,General Medicine,2026-08-01,15,Fever,Cancelled,D01
+A00482,P0350,Dermatology,2026-08-01,10,Asthma,Completed,D04
+A01144,P0075,ENT,2026-08-01,11,Migraine,Cancelled,D07
+A02656,P0279,Cardiology,2026-08-02,9,Skin Allergy,Completed,D03
+A02671,P0320,Pediatrics,2026-08-02,19,Diabetes,Completed,D02
+A00876,P0145,Orthopedics,2026-08-02,12,Back Pain,Completed,D05
+A00343,P0164,Cardiology,2026-08-02,9,Asthma,Cancelled,D03
+A02578,P0138,Gynecology,2026-08-02,12,Hypertension,Cancelled,D06
+A00594,P0183,Dermatology,2026-08-02,17,Migraine,Cancelled,D04
+A00134,P0169,General Medicine,2026-08-02,11,Fever,No-Show,D01
+A02837,P0286,General Medicine,2026-08-02,10,Migraine,Completed,D01
+A02824,P0547,General Medicine,2026-08-02,11,Migraine,Completed,D01
+A01375,P0076,Orthopedics,2026-08-02,15,Dental Pain,Completed,D05
+A00198,P0128,Orthopedics,2026-08-02,17,Skin Allergy,Completed,D05
+A01717,P0011,General Medicine,2026-08-02,14,Skin Allergy,Completed,D01
+A00201,P0573,ENT,2026-08-03,12,Dental Pain,Completed,D07
+A01295,P0403,ENT,2026-08-03,11,Hypertension,Completed,D07
+A00807,P0277,General Medicine,2026-08-03,12,Checkup,Completed,D01
+A01907,P0544,Pediatrics,2026-08-03,19,Skin Allergy,Completed,D02
+A02804,P0450,General Medicine,2026-08-03,17,Dental Pain,Completed,D01
+A00490,P0521,Cardiology,2026-08-03,11,Migraine,Completed,D03
+A02924,P0269,Pediatrics,2026-08-03,9,Migraine,Completed,D02
+A02176,P0597,Cardiology,2026-08-03,12,Hypertension,Completed,D03
+A02185,P0545,Orthopedics,2026-08-03,13,Checkup,Cancelled,D05
+A01450,P0130,Dermatology,2026-08-03,14,Infection,Cancelled,D04
+A01414,P0378,Cardiology,2026-08-03,11,Asthma,Completed,D03
+A02180,P0319,General Medicine,2026-08-03,18,Asthma,Completed,D01
+A02498,P0297,Dentistry,2026-08-03,12,Diabetes,Completed,D08
+A00440,P0042,ENT,2026-08-03,13,Asthma,Completed,D07
+A01017,P0006,Pediatrics,2026-08-03,12,Migraine,Completed,D02
+A01486,P0364,General Medicine,2026-08-04,11,Infection,Completed,D01
+A00791,P0585,Orthopedics,2026-08-04,15,Skin Allergy,Completed,D05
+A00604,P0186,Cardiology,2026-08-04,15,Diabetes,Completed,D03
+A01320,P0437,General Medicine,2026-08-04,18,Diabetes,No-Show,D01
+A01600,P0294,Gynecology,2026-08-04,13,Fever,Completed,D06
+A00196,P0342,Dentistry,2026-08-04,9,Hypertension,Cancelled,D08
+A02246,P0069,ENT,2026-08-04,11,Diabetes,Completed,D07
+A00738,P0596,Pediatrics,2026-08-04,20,Diabetes,Completed,D02
+A01481,P0203,Orthopedics,2026-08-05,13,Diabetes,Completed,D05
+A01523,P0478,Orthopedics,2026-08-05,12,Dental Pain,Completed,D05
+A02306,P0266,Dentistry,2026-08-05,19,Infection,Completed,D08
+A01142,P0498,ENT,2026-08-05,12,Back Pain,Completed,D07
+A01497,P0169,Gynecology,2026-08-05,12,Diabetes,No-Show,D06
+A02102,P0417,Dentistry,2026-08-05,9,Checkup,Completed,D08
+A02330,P0456,General Medicine,2026-08-05,11,Asthma,Completed,D01
+A02884,P0450,ENT,2026-08-05,9,Checkup,No-Show,D07
+A01894,P0178,Gynecology,2026-08-05,10,Dental Pain,Cancelled,D06
+A01533,P0520,Cardiology,2026-08-05,12,Diabetes,Completed,D03
+A01328,P0038,General Medicine,2026-08-05,13,Infection,Completed,D01
+A01989,P0461,Gynecology,2026-08-05,12,Skin Allergy,Completed,D06
+A00687,P0571,Dermatology,2026-08-05,12,Back Pain,Completed,D04
+A01797,P0529,Dermatology,2026-08-06,12,Back Pain,Cancelled,D04
+A00795,P0406,Orthopedics,2026-08-06,9,Checkup,Completed,D05
+A00800,P0386,Gynecology,2026-08-06,11,Diabetes,Completed,D06
+A00145,P0395,Gynecology,2026-08-06,11,Checkup,Completed,D06
+A01490,P0486,Cardiology,2026-08-06,9,Asthma,Completed,D03
+A01064,P0225,Dentistry,2026-08-06,14,Asthma,No-Show,D08
+A00268,P0578,Gynecology,2026-08-06,9,Asthma,Completed,D06
+A01250,P0384,Dermatology,2026-08-06,12,Hypertension,Completed,D04
+A01801,P0018,General Medicine,2026-08-06,16,Diabetes,Completed,D01
+A00730,P0542,Dentistry,2026-08-06,10,Fever,Completed,D08
+A01120,P0042,Dentistry,2026-08-07,18,Diabetes,Cancelled,D08
+A02885,P0269,Pediatrics,2026-08-07,13,Back Pain,Completed,D02
+A01968,P0392,Orthopedics,2026-08-07,18,Hypertension,Completed,D05
+A01522,P0536,Orthopedics,2026-08-07,19,Fever,Completed,D05
+A02608,P0219,General Medicine,2026-08-07,11,Hypertension,Completed,D01
+A02843,P0109,ENT,2026-08-07,13,Skin Allergy,Completed,D07
+A02096,P0194,Dentistry,2026-08-07,12,Dental Pain,Cancelled,D08
+A02910,P0261,Pediatrics,2026-08-07,13,Infection,Completed,D02
+A02018,P0597,Pediatrics,2026-08-07,11,Infection,Completed,D02
+A00276,P0191,Cardiology,2026-08-07,14,Dental Pain,Completed,D03
+A02572,P0202,Dentistry,2026-08-07,13,Diabetes,No-Show,D08
+A00448,P0075,General Medicine,2026-08-08,15,Hypertension,Completed,D01
+A00475,P0389,Pediatrics,2026-08-08,16,Migraine,Completed,D02
+A02208,P0374,General Medicine,2026-08-08,15,Fever,Completed,D01
+A00864,P0279,Dermatology,2026-08-08,12,Checkup,No-Show,D04
+A00988,P0026,General Medicine,2026-08-08,16,Hypertension,Completed,D01
+A00185,P0268,General Medicine,2026-08-08,15,Back Pain,Completed,D01
+A01711,P0083,Pediatrics,2026-08-08,11,Checkup,Completed,D02
+A01719,P0463,General Medicine,2026-08-08,9,Back Pain,Completed,D01
+A01914,P0223,Dermatology,2026-08-08,15,Asthma,Completed,D04
+A01355,P0172,ENT,2026-08-08,9,Migraine,Completed,D07
+A02930,P0118,Orthopedics,2026-08-09,16,Back Pain,Completed,D05
+A00991,P0206,Gynecology,2026-08-09,14,Diabetes,No-Show,D06
+A00466,P0228,Gynecology,2026-08-09,11,Diabetes,No-Show,D06
+A01106,P0033,Cardiology,2026-08-09,17,Asthma,Cancelled,D03
+A02760,P0439,Gynecology,2026-08-09,10,Hypertension,Completed,D06
+A01464,P0534,Dermatology,2026-08-09,17,Migraine,Completed,D04
+A01755,P0324,Pediatrics,2026-08-09,13,Checkup,Completed,D02
+A02169,P0275,Dentistry,2026-08-09,17,Dental Pain,Completed,D08
+A00908,P0088,Dermatology,2026-08-10,13,Fever,Completed,D04
+A01758,P0250,Dentistry,2026-08-10,17,Dental Pain,Cancelled,D08
+A00620,P0427,General Medicine,2026-08-11,9,Hypertension,Completed,D01
+A00137,P0120,Orthopedics,2026-08-11,11,Infection,Completed,D05
+A00972,P0136,Gynecology,2026-08-11,11,Fever,Completed,D06
+A00267,P0118,Pediatrics,2026-08-11,11,Migraine,Completed,D02
+A02370,P0483,Cardiology,2026-08-11,11,Migraine,Completed,D03
+A00549,P0544,General Medicine,2026-08-12,19,Dental Pain,Completed,D01
+A01903,P0220,Cardiology,2026-08-12,15,Checkup,Completed,D03
+A02931,P0248,Cardiology,2026-08-12,10,Diabetes,No-Show,D03
+A00444,P0093,Gynecology,2026-08-12,19,Migraine,Completed,D06
+A01515,P0519,Orthopedics,2026-08-12,9,Checkup,Completed,D05
+A00731,P0588,Dermatology,2026-08-12,16,Infection,Completed,D04
+A01168,P0339,General Medicine,2026-08-12,17,Asthma,No-Show,D01
+A02662,P0211,General Medicine,2026-08-12,13,Back Pain,Cancelled,D01
+A01969,P0193,Gynecology,2026-08-12,10,Hypertension,Completed,D06
+A02489,P0469,Dentistry,2026-08-12,10,Diabetes,Completed,D08
+A02876,P0079,General Medicine,2026-08-13,11,Fever,Cancelled,D01
+A01997,P0433,Pediatrics,2026-08-13,17,Dental Pain,Cancelled,D02
+A02769,P0172,Pediatrics,2026-08-13,15,Migraine,Cancelled,D02
+A01535,P0189,Pediatrics,2026-08-13,9,Diabetes,Cancelled,D02
+A02657,P0549,ENT,2026-08-13,12,Back Pain,Completed,D07
+A01202,P0498,General Medicine,2026-08-13,9,Migraine,Completed,D01
+A00441,P0542,Dentistry,2026-08-13,13,Back Pain,Cancelled,D08
+A01761,P0435,Orthopedics,2026-08-13,9,Fever,Cancelled,D05
+A00624,P0404,Dentistry,2026-08-13,11,Fever,Completed,D08
+A00257,P0159,General Medicine,2026-08-14,14,Infection,Completed,D01
+A02626,P0372,Orthopedics,2026-08-14,17,Checkup,Completed,D05
+A01019,P0001,Orthopedics,2026-08-14,15,Migraine,Completed,D05
+A01781,P0591,Pediatrics,2026-08-14,13,Asthma,Completed,D02
+A00238,P0039,Orthopedics,2026-08-14,14,Hypertension,Completed,D05
+A01708,P0227,Dentistry,2026-08-14,13,Skin Allergy,Completed,D08
+A01085,P0087,General Medicine,2026-08-14,12,Asthma,Completed,D01
+A01582,P0176,General Medicine,2026-08-14,9,Asthma,Completed,D01
+A00429,P0595,General Medicine,2026-08-14,17,Checkup,Completed,D01
+A00339,P0573,Gynecology,2026-08-15,13,Hypertension,Completed,D06
+A01710,P0014,Pediatrics,2026-08-15,12,Migraine,Completed,D02
+A00159,P0285,General Medicine,2026-08-15,13,Dental Pain,Completed,D01
+A00616,P0499,General Medicine,2026-08-15,13,Checkup,Completed,D01
+A01614,P0494,General Medicine,2026-08-15,9,Dental Pain,Completed,D01
+A00723,P0338,Gynecology,2026-08-16,18,Dental Pain,No-Show,D06
+A00705,P0259,General Medicine,2026-08-16,14,Dental Pain,Completed,D01
+A01918,P0475,General Medicine,2026-08-16,11,Migraine,Cancelled,D01
+A01037,P0432,General Medicine,2026-08-16,17,Skin Allergy,Completed,D01
+A00603,P0526,ENT,2026-08-16,19,Fever,Completed,D07
+A00152,P0265,Gynecology,2026-08-16,11,Checkup,Completed,D06
+A02559,P0299,Gynecology,2026-08-16,9,Asthma,Completed,D06
+A01606,P0019,General Medicine,2026-08-16,11,Hypertension,Completed,D01
+A01644,P0351,General Medicine,2026-08-17,10,Asthma,Completed,D01
+A02881,P0025,Gynecology,2026-08-17,10,Migraine,No-Show,D06
+A00662,P0492,Dermatology,2026-08-17,11,Asthma,Completed,D04
+A00628,P0036,Orthopedics,2026-08-17,16,Migraine,Completed,D05
+A00858,P0303,General Medicine,2026-08-17,14,Diabetes,Completed,D01
+A01298,P0368,Cardiology,2026-08-17,9,Infection,Completed,D03
+A01015,P0228,General Medicine,2026-08-17,16,Migraine,Completed,D01
+A01621,P0361,ENT,2026-08-17,14,Asthma,Completed,D07
+A02462,P0600,Pediatrics,2026-08-17,9,Back Pain,Completed,D02
+A01677,P0319,Dermatology,2026-08-17,13,Hypertension,Completed,D04
+A01552,P0012,General Medicine,2026-08-17,14,Infection,Cancelled,D01
+A00260,P0075,ENT,2026-08-17,11,Diabetes,No-Show,D07
+A01818,P0566,General Medicine,2026-08-17,13,Skin Allergy,No-Show,D01
+A00356,P0342,Dentistry,2026-08-17,11,Infection,Completed,D08
+A00237,P0330,Pediatrics,2026-08-17,19,Diabetes,Completed,D02
+A02555,P0228,Pediatrics,2026-08-18,16,Skin Allergy,Completed,D02
+A01078,P0411,General Medicine,2026-08-18,18,Back Pain,Completed,D01
+A00520,P0574,Gynecology,2026-08-18,9,Infection,Cancelled,D06
+A00123,P0133,Orthopedics,2026-08-18,14,Infection,Cancelled,D05
+A01594,P0439,General Medicine,2026-08-18,9,Diabetes,Completed,D01
+A02807,P0129,Gynecology,2026-08-18,16,Migraine,Completed,D06
+A02046,P0157,Pediatrics,2026-08-18,10,Asthma,Completed,D02
+A01509,P0447,Dermatology,2026-08-18,9,Infection,Completed,D04
+A00821,P0292,Dentistry,2026-08-18,9,Checkup,Completed,D08
+A01548,P0169,Gynecology,2026-08-18,13,Migraine,Completed,D06
+A02585,P0321,General Medicine,2026-08-19,16,Diabetes,Completed,D01
+A00119,P0213,Dentistry,2026-08-19,10,Asthma,Completed,D08
+A02142,P0294,Dentistry,2026-08-19,16,Dental Pain,Completed,D08
+A00193,P0549,Pediatrics,2026-08-19,11,Back Pain,Completed,D02
+A01570,P0243,Pediatrics,2026-08-19,12,Skin Allergy,Cancelled,D02
+A01407,P0586,Dermatology,2026-08-19,11,Dental Pain,Cancelled,D04
+A00696,P0056,Dermatology,2026-08-19,14,Checkup,Cancelled,D04
+A02778,P0226,Pediatrics,2026-08-19,14,Checkup,Completed,D02
+A02170,P0229,Pediatrics,2026-08-19,11,Fever,Completed,D02
+A00707,P0024,General Medicine,2026-08-19,12,Infection,Completed,D01
+A02093,P0402,General Medicine,2026-08-19,9,Diabetes,Cancelled,D01
+A00395,P0042,Pediatrics,2026-08-19,9,Diabetes,Completed,D02
+A02520,P0244,Gynecology,2026-08-20,13,Checkup,Completed,D06
+A02728,P0064,Cardiology,2026-08-20,11,Diabetes,Cancelled,D03
+A02332,P0317,Dentistry,2026-08-20,12,Diabetes,Completed,D08
+A00706,P0059,Orthopedics,2026-08-20,10,Hypertension,Completed,D05
+A02134,P0222,Pediatrics,2026-08-20,15,Skin Allergy,Completed,D02
+A01076,P0577,General Medicine,2026-08-20,12,Asthma,Completed,D01
+A02866,P0511,General Medicine,2026-08-20,13,Infection,No-Show,D01
+A02251,P0337,Orthopedics,2026-08-20,20,Diabetes,Completed,D05
+A00531,P0383,Pediatrics,2026-08-20,12,Diabetes,Completed,D02
+A02467,P0293,ENT,2026-08-20,10,Infection,Completed,D07
+A01500,P0066,General Medicine,2026-08-20,13,Dental Pain,No-Show,D01
+A02579,P0022,ENT,2026-08-21,14,Dental Pain,Cancelled,D07
+A01104,P0004,Pediatrics,2026-08-21,16,Hypertension,Completed,D02
+A01786,P0393,Pediatrics,2026-08-21,12,Checkup,Completed,D02
+A00227,P0342,Dermatology,2026-08-21,10,Checkup,Cancelled,D04
+A02124,P0486,General Medicine,2026-08-21,18,Diabetes,Completed,D01
+A00494,P0563,Dentistry,2026-08-21,16,Infection,Completed,D08
+A00720,P0030,Pediatrics,2026-08-21,11,Fever,Completed,D02
+A00516,P0587,Gynecology,2026-08-21,11,Hypertension,Completed,D06
+A01828,P0129,General Medicine,2026-08-21,10,Checkup,Completed,D01
+A02669,P0366,Dentistry,2026-08-21,14,Back Pain,Completed,D08
+A02661,P0073,Cardiology,2026-08-21,12,Fever,Completed,D03
+A02141,P0088,Pediatrics,2026-08-22,15,Migraine,Completed,D02
+A02616,P0027,Cardiology,2026-08-22,9,Hypertension,Completed,D03
+A00458,P0053,Orthopedics,2026-08-22,14,Back Pain,Completed,D05
+A02116,P0374,ENT,2026-08-22,11,Skin Allergy,Completed,D07
+A01885,P0113,Pediatrics,2026-08-22,18,Skin Allergy,Cancelled,D02
+A02162,P0509,Gynecology,2026-08-22,16,Diabetes,Completed,D06
+A01459,P0318,Dentistry,2026-08-22,13,Skin Allergy,Completed,D08
+A00423,P0113,General Medicine,2026-08-22,10,Hypertension,No-Show,D01
+A02392,P0408,Orthopedics,2026-08-22,11,Infection,Cancelled,D05
+A00884,P0209,Cardiology,2026-08-22,9,Fever,Completed,D03
+A02761,P0177,Gynecology,2026-08-22,11,Fever,Cancelled,D06
+A00650,P0202,Dermatology,2026-08-22,14,Checkup,Completed,D04
+A01012,P0454,Dermatology,2026-08-23,11,Hypertension,Completed,D04
+A02393,P0104,ENT,2026-08-23,13,Migraine,Completed,D07
+A00534,P0512,Cardiology,2026-08-23,10,Checkup,Completed,D03
+A00068,P0147,General Medicine,2026-08-23,17,Fever,Completed,D01
+A02277,P0205,General Medicine,2026-08-23,11,Migraine,Completed,D01
+A00318,P0125,Dentistry,2026-08-24,9,Skin Allergy,Completed,D08
+A00639,P0459,General Medicine,2026-08-24,14,Diabetes,No-Show,D01
+A02862,P0181,Gynecology,2026-08-24,9,Asthma,Cancelled,D06
+A01983,P0494,Dermatology,2026-08-24,14,Dental Pain,Completed,D04
+A01938,P0338,Gynecology,2026-08-24,14,Infection,Completed,D06
+A00551,P0183,General Medicine,2026-08-24,9,Dental Pain,Completed,D01
+A02455,P0099,General Medicine,2026-08-24,9,Skin Allergy,Completed,D01
+A02254,P0255,General Medicine,2026-08-24,11,Hypertension,Completed,D01
+A02714,P0352,Cardiology,2026-08-25,16,Infection,Completed,D03
+A01462,P0252,ENT,2026-08-25,16,Diabetes,Completed,D07
+A01823,P0503,Pediatrics,2026-08-25,10,Diabetes,Completed,D02
+A01942,P0384,General Medicine,2026-08-25,9,Migraine,Completed,D01
+A00473,P0311,Orthopedics,2026-08-25,20,Migraine,Completed,D05
+A02666,P0024,Gynecology,2026-08-26,10,Infection,Cancelled,D06
+A00488,P0225,Cardiology,2026-08-26,12,Hypertension,No-Show,D03
+A00432,P0326,Pediatrics,2026-08-26,12,Checkup,Completed,D02
+A01583,P0393,Orthopedics,2026-08-26,9,Hypertension,Completed,D05
+A01852,P0116,General Medicine,2026-08-26,9,Asthma,Completed,D01
+A01336,P0190,General Medicine,2026-08-26,14,Hypertension,Cancelled,D01
+A02554,P0473,General Medicine,2026-08-27,9,Asthma,Completed,D01
+A00525,P0131,Pediatrics,2026-08-27,16,Infection,Completed,D02
+A00940,P0507,General Medicine,2026-08-27,11,Hypertension,Completed,D01
+A01770,P0032,Orthopedics,2026-08-27,17,Infection,Completed,D05
+A01843,P0412,Dentistry,2026-08-27,12,Hypertension,Completed,D08
+A02430,P0191,Pediatrics,2026-08-27,12,Hypertension,Completed,D02
+A01546,P0583,Orthopedics,2026-08-27,15,Fever,Cancelled,D05
+A00704,P0262,Gynecology,2026-08-28,13,Dental Pain,Completed,D06
+A01787,P0201,Gynecology,2026-08-28,12,Asthma,Completed,D06
+A02926,P0324,Orthopedics,2026-08-28,16,Dental Pain,Completed,D05
+A00539,P0378,Pediatrics,2026-08-28,13,Infection,Completed,D02
+A02596,P0479,Cardiology,2026-08-28,13,Infection,Cancelled,D03
+A00964,P0289,General Medicine,2026-08-28,9,Diabetes,Completed,D01
+A00893,P0582,Orthopedics,2026-08-28,13,Asthma,Completed,D05
+A01465,P0377,Gynecology,2026-08-28,16,Back Pain,Completed,D06
+A01362,P0568,Cardiology,2026-08-28,15,Back Pain,Completed,D03
+A00645,P0589,General Medicine,2026-08-28,14,Infection,No-Show,D01
+A02261,P0276,General Medicine,2026-08-29,11,Hypertension,No-Show,D01
+A02826,P0469,Dermatology,2026-08-29,13,Diabetes,Completed,D04
+A01560,P0171,Gynecology,2026-08-29,15,Hypertension,Completed,D06
+A00584,P0572,Pediatrics,2026-08-29,13,Hypertension,Completed,D02
+A02538,P0387,General Medicine,2026-08-29,12,Fever,Completed,D01
+A00405,P0497,Pediatrics,2026-08-29,11,Back Pain,Completed,D02
+A02034,P0560,Dentistry,2026-08-29,10,Dental Pain,Completed,D08
+A00320,P0137,ENT,2026-08-29,12,Back Pain,Completed,D07
+A02243,P0218,Dentistry,2026-08-29,17,Back Pain,Completed,D08
+A02279,P0191,Dermatology,2026-08-29,11,Diabetes,Completed,D04
+A02152,P0198,Cardiology,2026-08-30,13,Dental Pain,Cancelled,D03
+A00303,P0577,Pediatrics,2026-08-30,9,Fever,Cancelled,D02
+A00542,P0120,Gynecology,2026-08-30,9,Fever,Completed,D06
+A01813,P0196,Dentistry,2026-08-30,10,Back Pain,Completed,D08
+A01347,P0270,General Medicine,2026-08-30,15,Checkup,Completed,D01
+A00121,P0407,Orthopedics,2026-08-30,9,Hypertension,Completed,D05
+A01034,P0588,General Medicine,2026-08-30,16,Dental Pain,Completed,D01
+A00101,P0192,ENT,2026-08-30,17,Skin Allergy,Cancelled,D07
+A01038,P0560,Dentistry,2026-08-30,14,Hypertension,Completed,D08
+A01398,P0035,General Medicine,2026-08-30,9,Checkup,Completed,D01
+A01703,P0541,Dermatology,2026-08-31,14,Fever,Completed,D04
+A02072,P0210,Pediatrics,2026-08-31,14,Dental Pain,Completed,D02
+A02216,P0180,Dermatology,2026-08-31,10,Hypertension,Completed,D04
+A00132,P0248,Pediatrics,2026-08-31,13,Dental Pain,Completed,D02
+A02385,P0360,Cardiology,2026-08-31,9,Back Pain,Completed,D03
+A00186,P0353,General Medicine,2026-08-31,16,Fever,Cancelled,D01
+A00139,P0098,General Medicine,2026-08-31,9,Back Pain,Completed,D01
+A00308,P0204,General Medicine,2026-08-31,9,Dental Pain,Cancelled,D01
+A01819,P0503,Pediatrics,2026-09-01,14,Hypertension,Completed,D02
+A01563,P0191,General Medicine,2026-09-01,13,Dental Pain,Cancelled,D01
+A01400,P0381,Pediatrics,2026-09-01,11,Asthma,Completed,D02
+A01220,P0318,General Medicine,2026-09-01,14,Infection,Completed,D01
+A01094,P0410,General Medicine,2026-09-01,12,Hypertension,Completed,D01
+A00996,P0409,General Medicine,2026-09-01,9,Hypertension,Cancelled,D01
+A02082,P0017,Orthopedics,2026-09-01,16,Infection,Completed,D05
+A02681,P0218,Orthopedics,2026-09-01,9,Back Pain,Completed,D05
+A01625,P0126,Dermatology,2026-09-01,12,Infection,Completed,D04
+A01889,P0076,Cardiology,2026-09-02,13,Asthma,Completed,D03
+A01745,P0147,Pediatrics,2026-09-02,11,Asthma,Completed,D02
+A00014,P0600,General Medicine,2026-09-02,9,Dental Pain,Completed,D01
+A00104,P0425,General Medicine,2026-09-02,14,Infection,Completed,D01
+A01245,P0106,General Medicine,2026-09-02,11,Hypertension,Completed,D01
+A02574,P0127,Dentistry,2026-09-02,14,Diabetes,Completed,D08
+A00252,P0213,Orthopedics,2026-09-03,9,Diabetes,Completed,D05
+A01081,P0523,Orthopedics,2026-09-03,14,Back Pain,Completed,D05
+A01908,P0310,Orthopedics,2026-09-03,13,Back Pain,Completed,D05
+A00018,P0173,Dentistry,2026-09-03,9,Checkup,Completed,D08
+A01024,P0509,Orthopedics,2026-09-03,9,Checkup,Completed,D05
+A00336,P0127,Dermatology,2026-09-03,15,Skin Allergy,Completed,D04
+A01325,P0043,ENT,2026-09-03,13,Checkup,Completed,D07
+A01731,P0155,General Medicine,2026-09-03,10,Dental Pain,Completed,D01
+A02487,P0305,Orthopedics,2026-09-04,15,Fever,Completed,D05
+A00354,P0339,Gynecology,2026-09-04,13,Dental Pain,Completed,D06
+A01694,P0527,General Medicine,2026-09-04,13,Asthma,Completed,D01
+A01696,P0377,General Medicine,2026-09-04,9,Skin Allergy,No-Show,D01
+A00023,P0197,Pediatrics,2026-09-04,9,Migraine,Completed,D02
+A01882,P0475,General Medicine,2026-09-04,11,Skin Allergy,Completed,D01
+A01463,P0565,General Medicine,2026-09-04,19,Dental Pain,Completed,D01
+A02702,P0392,Cardiology,2026-09-04,9,Asthma,Completed,D03
+A02054,P0525,General Medicine,2026-09-04,13,Asthma,Completed,D01
+A02730,P0033,Dentistry,2026-09-04,12,Fever,Cancelled,D08
+A02854,P0555,Dentistry,2026-09-05,16,Infection,Completed,D08
+A00187,P0127,General Medicine,2026-09-05,17,Dental Pain,Completed,D01
+A01670,P0559,ENT,2026-09-05,13,Back Pain,Completed,D07
+A01930,P0599,ENT,2026-09-05,9,Diabetes,Completed,D07
+A00587,P0161,General Medicine,2026-09-06,11,Back Pain,Completed,D01
+A02604,P0289,Cardiology,2026-09-06,12,Infection,Cancelled,D03
+A00091,P0559,Dentistry,2026-09-06,14,Diabetes,Cancelled,D08
+A00071,P0567,Cardiology,2026-09-06,13,Infection,Completed,D03
+A00015,P0565,Gynecology,2026-09-06,10,Infection,Completed,D06
+A00116,P0146,General Medicine,2026-09-06,10,Checkup,Completed,D01
+A00253,P0274,General Medicine,2026-09-06,15,Back Pain,Completed,D01
+A02890,P0447,Gynecology,2026-09-07,14,Migraine,Completed,D06
+A02097,P0071,Pediatrics,2026-09-07,14,Back Pain,Cancelled,D02
+A00969,P0212,General Medicine,2026-09-07,11,Fever,Cancelled,D01
+A01154,P0033,General Medicine,2026-09-07,12,Diabetes,Completed,D01
+A01070,P0090,Pediatrics,2026-09-07,15,Migraine,Completed,D02
+A00743,P0315,ENT,2026-09-07,16,Fever,Cancelled,D07
+A00557,P0357,Pediatrics,2026-09-07,13,Back Pain,Completed,D02
+A02362,P0591,Dentistry,2026-09-07,20,Migraine,Completed,D08
+A01229,P0599,Cardiology,2026-09-07,11,Hypertension,Completed,D03
+A02809,P0508,General Medicine,2026-09-08,12,Back Pain,Completed,D01
+A02563,P0560,General Medicine,2026-09-08,12,Skin Allergy,Completed,D01
+A02071,P0478,Dentistry,2026-09-08,10,Skin Allergy,Cancelled,D08
+A01950,P0199,General Medicine,2026-09-08,9,Diabetes,Completed,D01
+A00712,P0598,ENT,2026-09-08,11,Diabetes,Completed,D07
+A01384,P0196,Dermatology,2026-09-08,13,Checkup,Cancelled,D04
+A00722,P0392,General Medicine,2026-09-09,14,Asthma,Cancelled,D01
+A02133,P0217,Dermatology,2026-09-09,19,Skin Allergy,Completed,D04
+A01113,P0335,General Medicine,2026-09-09,14,Skin Allergy,Completed,D01
+A00293,P0013,Orthopedics,2026-09-09,14,Dental Pain,Cancelled,D05
+A02453,P0580,Dentistry,2026-09-09,13,Asthma,Cancelled,D08
+A02019,P0474,General Medicine,2026-09-09,17,Checkup,Cancelled,D01
+A01927,P0364,General Medicine,2026-09-10,14,Fever,Completed,D01
+A01581,P0546,Gynecology,2026-09-10,13,Hypertension,Completed,D06
+A00042,P0341,Cardiology,2026-09-10,16,Back Pain,Completed,D03
+A00098,P0100,General Medicine,2026-09-10,9,Asthma,No-Show,D01
+A02763,P0047,Cardiology,2026-09-10,17,Skin Allergy,Completed,D03
+A01824,P0539,General Medicine,2026-09-10,12,Checkup,Completed,D01
+A00592,P0070,Gynecology,2026-09-10,10,Diabetes,Completed,D06
+A02781,P0359,Gynecology,2026-09-11,10,Diabetes,Completed,D06
+A01955,P0325,General Medicine,2026-09-11,15,Skin Allergy,Completed,D01
+A01900,P0269,Dermatology,2026-09-11,11,Diabetes,Completed,D04
+A02491,P0169,Gynecology,2026-09-11,12,Skin Allergy,Completed,D06
+A01668,P0177,Orthopedics,2026-09-11,9,Fever,Completed,D05
+A01878,P0123,Pediatrics,2026-09-11,13,Migraine,Completed,D02
+A01466,P0357,Pediatrics,2026-09-12,13,Skin Allergy,Completed,D02
+A00956,P0003,Pediatrics,2026-09-12,11,Hypertension,Completed,D02
+A01184,P0404,Pediatrics,2026-09-12,11,Back Pain,Completed,D02
+A01008,P0244,Cardiology,2026-09-12,11,Back Pain,Completed,D03
+A02337,P0144,Dentistry,2026-09-12,9,Diabetes,Completed,D08
+A00420,P0510,Dentistry,2026-09-12,11,Asthma,Cancelled,D08
+A00288,P0015,Dentistry,2026-09-12,14,Asthma,No-Show,D08
+A00019,P0553,General Medicine,2026-09-12,11,Diabetes,Completed,D01
+A00538,P0510,Gynecology,2026-09-13,13,Checkup,Completed,D06
+A02620,P0296,Orthopedics,2026-09-13,18,Migraine,Completed,D05
+A01161,P0202,Gynecology,2026-09-13,14,Checkup,Completed,D06
+A00283,P0478,Cardiology,2026-09-13,16,Migraine,Completed,D03
+A02323,P0100,General Medicine,2026-09-13,10,Asthma,Completed,D01
+A01499,P0213,General Medicine,2026-09-13,13,Skin Allergy,Completed,D01
+A01555,P0335,Dentistry,2026-09-14,10,Skin Allergy,Completed,D08
+A02408,P0588,Pediatrics,2026-09-14,18,Dental Pain,Cancelled,D02
+A00957,P0525,ENT,2026-09-14,15,Asthma,Cancelled,D07
+A00558,P0583,General Medicine,2026-09-14,9,Back Pain,Cancelled,D01
+A01759,P0262,General Medicine,2026-09-14,15,Diabetes,Completed,D01
+A02848,P0333,Pediatrics,2026-09-14,13,Infection,Cancelled,D02
+A02932,P0319,Orthopedics,2026-09-14,9,Infection,Cancelled,D05
+A01084,P0144,ENT,2026-09-14,14,Checkup,Completed,D07
+A02874,P0600,Dentistry,2026-09-14,19,Dental Pain,Completed,D08
+A00192,P0098,Cardiology,2026-09-14,17,Back Pain,Completed,D03
+A01530,P0042,General Medicine,2026-09-15,10,Fever,Completed,D01
+A02855,P0050,Cardiology,2026-09-15,12,Hypertension,Completed,D03
+A02546,P0121,ENT,2026-09-15,15,Migraine,Completed,D07
+A02086,P0585,General Medicine,2026-09-15,11,Infection,Cancelled,D01
+A00070,P0427,Cardiology,2026-09-15,14,Infection,Completed,D03
+A01199,P0156,Cardiology,2026-09-15,13,Skin Allergy,Completed,D03
+A02466,P0555,General Medicine,2026-09-15,10,Checkup,Completed,D01
+A02262,P0048,Dermatology,2026-09-16,14,Dental Pain,Completed,D04
+A00484,P0588,General Medicine,2026-09-16,15,Migraine,Completed,D01
+A00002,P0360,General Medicine,2026-09-16,9,Fever,Completed,D01
+A01952,P0594,Pediatrics,2026-09-16,14,Checkup,Completed,D02
+A01363,P0509,Dermatology,2026-09-16,13,Dental Pain,Completed,D04
+A02568,P0166,ENT,2026-09-16,11,Checkup,Completed,D07
+A00782,P0217,General Medicine,2026-09-16,9,Back Pain,Completed,D01
+A00726,P0035,ENT,2026-09-16,9,Dental Pain,Completed,D07
+A00810,P0262,General Medicine,2026-09-16,10,Back Pain,Completed,D01
+A00734,P0345,General Medicine,2026-09-16,9,Infection,Completed,D01
+A00829,P0024,Dermatology,2026-09-16,10,Dental Pain,Completed,D04
+A00402,P0210,Dentistry,2026-09-16,12,Dental Pain,Completed,D08
+A02228,P0561,General Medicine,2026-09-16,10,Fever,Completed,D01
+A00053,P0300,Orthopedics,2026-09-16,13,Migraine,Completed,D05
+A00792,P0107,ENT,2026-09-16,19,Dental Pain,Completed,D07
+A00213,P0468,Cardiology,2026-09-17,20,Diabetes,Completed,D03
+A00456,P0379,Pediatrics,2026-09-17,11,Diabetes,Completed,D02
+A00962,P0375,Cardiology,2026-09-17,16,Asthma,Completed,D03
+A00540,P0111,Dentistry,2026-09-17,9,Checkup,Completed,D08
+A01365,P0233,ENT,2026-09-17,14,Skin Allergy,No-Show,D07
+A00498,P0183,Gynecology,2026-09-17,10,Diabetes,Cancelled,D06
+A01656,P0276,Cardiology,2026-09-17,17,Back Pain,Completed,D03
+A02739,P0553,General Medicine,2026-09-17,16,Checkup,Completed,D01
+A01385,P0119,Orthopedics,2026-09-17,13,Dental Pain,Completed,D05
+A01895,P0127,Orthopedics,2026-09-17,13,Migraine,Completed,D05
+A02741,P0358,General Medicine,2026-09-17,14,Migraine,Completed,D01
+A02582,P0241,General Medicine,2026-09-18,15,Asthma,Completed,D01
+A01554,P0194,ENT,2026-09-18,13,Diabetes,Completed,D07
+A01478,P0269,General Medicine,2026-09-18,16,Migraine,Completed,D01
+A00794,P0311,Cardiology,2026-09-18,9,Migraine,Completed,D03
+A02634,P0302,General Medicine,2026-09-18,11,Dental Pain,Completed,D01
+A01309,P0027,ENT,2026-09-18,17,Back Pain,Completed,D07
+A01147,P0235,Pediatrics,2026-09-18,13,Diabetes,Completed,D02
+A01967,P0370,Gynecology,2026-09-18,14,Asthma,Completed,D06
+A02689,P0391,Pediatrics,2026-09-19,15,Migraine,Cancelled,D02
+A01848,P0505,Dermatology,2026-09-19,16,Back Pain,Completed,D04
+A00426,P0111,ENT,2026-09-19,9,Infection,Completed,D07
+A01455,P0385,General Medicine,2026-09-19,17,Checkup,Completed,D01
+A01951,P0010,Pediatrics,2026-09-19,10,Skin Allergy,Completed,D02
+A02632,P0320,General Medicine,2026-09-19,9,Checkup,Completed,D01
+A02461,P0395,General Medicine,2026-09-19,17,Fever,Completed,D01
+A02256,P0285,General Medicine,2026-09-19,16,Asthma,Completed,D01
+A00931,P0116,Dermatology,2026-09-19,19,Dental Pain,Completed,D04
+A00916,P0575,General Medicine,2026-09-19,9,Dental Pain,Completed,D01
+A00561,P0485,General Medicine,2026-09-19,12,Checkup,Completed,D01
+A01256,P0016,General Medicine,2026-09-19,13,Dental Pain,Completed,D01
+A02593,P0529,Cardiology,2026-09-19,14,Checkup,Completed,D03
+A00629,P0363,Dermatology,2026-09-20,13,Checkup,Completed,D04
+A00994,P0382,Pediatrics,2026-09-20,9,Fever,Cancelled,D02
+A01182,P0548,ENT,2026-09-20,9,Skin Allergy,Completed,D07
+A02459,P0047,General Medicine,2026-09-20,13,Fever,Completed,D01
+A00229,P0372,Dentistry,2026-09-20,9,Diabetes,Completed,D08
+A01272,P0024,General Medicine,2026-09-20,16,Hypertension,Cancelled,D01
+A00367,P0243,Pediatrics,2026-09-21,18,Back Pain,Completed,D02
+A01277,P0103,Pediatrics,2026-09-21,12,Hypertension,Completed,D02
+A02887,P0134,General Medicine,2026-09-21,12,Hypertension,Completed,D01
+A01597,P0250,General Medicine,2026-09-21,9,Dental Pain,Completed,D01
+A01784,P0573,Dermatology,2026-09-21,12,Infection,Completed,D04
+A02879,P0303,General Medicine,2026-09-21,11,Migraine,Completed,D01
+A02542,P0302,General Medicine,2026-09-21,13,Asthma,Completed,D01
+A00508,P0302,Dentistry,2026-09-21,13,Infection,No-Show,D08
+A02382,P0534,Cardiology,2026-09-21,10,Skin Allergy,Completed,D03
+A02319,P0543,Orthopedics,2026-09-22,11,Asthma,Completed,D05
+A02682,P0545,ENT,2026-09-22,12,Infection,Completed,D07
+A02576,P0298,Orthopedics,2026-09-22,11,Checkup,Completed,D05
+A02214,P0098,ENT,2026-09-22,14,Diabetes,Completed,D07
+A02478,P0361,General Medicine,2026-09-22,12,Infection,Completed,D01
+A02280,P0324,Pediatrics,2026-09-22,16,Hypertension,Completed,D02
+A02699,P0320,Cardiology,2026-09-23,9,Migraine,Completed,D03
+A02157,P0588,General Medicine,2026-09-23,12,Dental Pain,Completed,D01
+A01149,P0238,General Medicine,2026-09-23,15,Infection,Completed,D01
+A02750,P0528,Pediatrics,2026-09-23,16,Skin Allergy,Completed,D02
+A02751,P0136,ENT,2026-09-23,13,Migraine,Completed,D07
+A01010,P0202,Dentistry,2026-09-23,9,Infection,Completed,D08
+A01307,P0374,General Medicine,2026-09-23,12,Checkup,Completed,D01
+A00965,P0303,General Medicine,2026-09-23,9,Infection,Completed,D01
+A02818,P0487,Dermatology,2026-09-23,17,Dental Pain,Cancelled,D04
+A02850,P0453,Dentistry,2026-09-24,13,Hypertension,Completed,D08
+A01260,P0453,Gynecology,2026-09-24,13,Migraine,Completed,D06
+A00775,P0265,Orthopedics,2026-09-24,11,Checkup,Completed,D05
+A02740,P0162,Gynecology,2026-09-24,10,Hypertension,No-Show,D06
+A00272,P0274,ENT,2026-09-24,15,Fever,Completed,D07
+A02361,P0144,Cardiology,2026-09-24,13,Back Pain,Completed,D03
+A00007,P0540,Pediatrics,2026-09-24,13,Skin Allergy,Completed,D02
+A02580,P0336,Dentistry,2026-09-24,15,Checkup,Completed,D08
+A00314,P0481,General Medicine,2026-09-24,18,Skin Allergy,Cancelled,D01
+A00987,P0387,Gynecology,2026-09-24,9,Infection,No-Show,D06
+A00497,P0470,Cardiology,2026-09-24,16,Checkup,Completed,D03
+A00172,P0077,Cardiology,2026-09-24,17,Infection,Completed,D03
+A02391,P0085,Orthopedics,2026-09-24,15,Checkup,Completed,D05
+A01735,P0480,Pediatrics,2026-09-25,17,Fever,No-Show,D02
+A02012,P0259,Pediatrics,2026-09-25,15,Dental Pain,Completed,D02
+A00394,P0421,Orthopedics,2026-09-25,19,Diabetes,Completed,D05
+A01631,P0357,Dermatology,2026-09-25,13,Infection,Completed,D04
+A00912,P0528,Dermatology,2026-09-25,15,Migraine,Completed,D04
+A02640,P0142,General Medicine,2026-09-25,10,Migraine,Completed,D01
+A02892,P0592,General Medicine,2026-09-25,9,Hypertension,Completed,D01
+A01511,P0363,Pediatrics,2026-09-25,10,Migraine,Cancelled,D02
+A01977,P0464,Dentistry,2026-09-26,11,Asthma,Completed,D08
+A01176,P0396,Cardiology,2026-09-26,9,Migraine,Completed,D03
+A00434,P0361,Orthopedics,2026-09-26,9,Hypertension,Completed,D05
+A02698,P0569,Orthopedics,2026-09-26,10,Hypertension,Completed,D05
+A02508,P0537,General Medicine,2026-09-26,16,Asthma,Cancelled,D01
+A02754,P0175,General Medicine,2026-09-26,19,Asthma,Completed,D01
+A01401,P0410,Orthopedics,2026-09-26,12,Skin Allergy,Cancelled,D05
+A00391,P0238,General Medicine,2026-09-27,11,Skin Allergy,Completed,D01
+A02396,P0596,Pediatrics,2026-09-27,13,Hypertension,Cancelled,D02
+A01793,P0419,General Medicine,2026-09-27,13,Diabetes,Completed,D01
+A01467,P0022,Pediatrics,2026-09-27,10,Skin Allergy,Completed,D02
+A02035,P0546,General Medicine,2026-09-27,9,Skin Allergy,Completed,D01
+A01766,P0135,Gynecology,2026-09-27,13,Skin Allergy,Completed,D06
+A01268,P0496,ENT,2026-09-27,19,Diabetes,Completed,D07
+A01310,P0316,Pediatrics,2026-09-27,11,Migraine,Completed,D02
+A02077,P0271,ENT,2026-09-27,11,Hypertension,Completed,D07
+A00751,P0397,Orthopedics,2026-09-27,11,Hypertension,Completed,D05
+A01868,P0579,General Medicine,2026-09-28,11,Fever,Completed,D01
+A01274,P0465,Dermatology,2026-09-28,10,Skin Allergy,Completed,D04
+A00621,P0251,General Medicine,2026-09-28,13,Skin Allergy,Completed,D01
+A01035,P0163,Gynecology,2026-09-28,12,Hypertension,Completed,D06
+A00861,P0003,General Medicine,2026-09-28,11,Diabetes,Completed,D01
+A02936,P0484,General Medicine,2026-09-28,12,Infection,Completed,D01
+A00517,P0020,Dentistry,2026-09-29,11,Asthma,No-Show,D08
+A00619,P0573,Pediatrics,2026-09-29,13,Asthma,Completed,D02
+A01051,P0531,Cardiology,2026-09-29,18,Skin Allergy,Completed,D03
+A01545,P0330,Dentistry,2026-09-29,14,Fever,Completed,D08
+A02115,P0009,Gynecology,2026-09-29,14,Hypertension,Cancelled,D06
+A01449,P0362,Pediatrics,2026-09-29,12,Back Pain,Completed,D02
+A02638,P0448,General Medicine,2026-09-29,12,Fever,Completed,D01
+A00729,P0342,General Medicine,2026-09-29,11,Hypertension,Cancelled,D01
+A00929,P0567,General Medicine,2026-09-29,12,Skin Allergy,Completed,D01
+A00522,P0214,General Medicine,2026-09-29,12,Diabetes,Completed,D01
+A01978,P0473,General Medicine,2026-09-30,11,Back Pain,Completed,D01
+A00009,P0347,General Medicine,2026-09-30,16,Skin Allergy,Completed,D01
+A00111,P0180,Gynecology,2026-09-30,11,Migraine,Completed,D06
+A01856,P0374,Dermatology,2026-09-30,11,Dental Pain,Cancelled,D04
+A01990,P0226,Orthopedics,2026-09-30,16,Fever,Completed,D05
+A02880,P0317,Orthopedics,2026-09-30,20,Dental Pain,Completed,D05
+A02923,P0398,Orthopedics,2026-09-30,9,Asthma,Completed,D05
+A00632,P0192,ENT,2026-09-30,13,Dental Pain,Completed,D07
