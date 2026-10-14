@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  {% set page_title = self.title() %}
+  {% include "_head.html" %}
+</head>
+<body>
+<div class="app">
+
+  <!-- ===== Sidebar navigation ===== -->
+  <aside class="sidebar">
+    <a class="brand" href="{{ url_for('dashboard') }}">
+      <img src="{{ url_for('static', filename='images/logo.svg') }}" alt="Smart Clinic logo">
+      <span>Smart Clinic<small>Management &amp; Analytics</small></span>
+    </a>
+
+    {% set ep = request.endpoint or '' %}
+    <nav class="side-nav" aria-label="Main navigation">
+      <a href="{{ url_for('dashboard') }}" class="{{ 'active' if ep == 'dashboard' }}">{{ icon('dashboard', 20) }} Dashboard</a>
+      <a href="{{ url_for('patients') }}" class="{{ 'active' if ep.startswith('patient') }}">{{ icon('patients', 20) }} Patients</a>
+      <a href="{{ url_for('appointments') }}" class="{{ 'active' if ep.startswith('appointment') }}">{{ icon('calendar', 20) }} Appointments</a>
+      <a href="{{ url_for('billing') }}" class="{{ 'active' if ep.startswith('bill') }}">{{ icon('billing', 20) }} Billing</a>
+      <a href="{{ url_for('analytics') }}" class="{{ 'active' if ep == 'analytics' }}">{{ icon('analytics', 20) }} Analytics</a>
+      <a href="{{ url_for('intro') }}">{{ icon('cross', 20) }} Project Intro</a>
+    </nav>
+
+    <div class="side-note">
+      {{ icon('shield', 16) }} <strong>Demo project.</strong> All patients shown are fictional. Not for real clinical records.
+    </div>
+    <div class="side-user">
+      <span class="avatar-dot">{{ user.name[0] }}</span>
+      <span><strong>{{ user.name }}</strong><small>{{ 'Administrator' if user.role == 'admin' else 'Staff' }}</small></span>
+      <form class="inline-form" method="post" action="{{ url_for('logout') }}">
+        <input type="hidden" name="_csrf" value="{{ csrf_token }}">
+        <button class="btn btn-light btn-sm" type="submit" title="Sign out" aria-label="Sign out">{{ icon('logout', 16) }} Sign out</button>
+      </form>
+    </div>
+  </aside>
+
+  <!-- ===== Page content ===== -->
+  <main class="main">
+    <div class="topbar">
+      <h1>{% block heading %}{{ self.title() }}{% endblock %}</h1>
+      <span class="date-chip">{{ icon('calendar', 15) }} {{ today|nicedate }}</span>
+    </div>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+      <div class="flash-wrap" role="status">
+        {% for category, text in messages %}
+          <div class="flash {{ category }}">{{ icon('check' if category == 'success' else 'x', 18) }} <span>{{ text }}</span></div>
+        {% endfor %}
+      </div>
+      {% endif %}
+    {% endwith %}
+
+    {% block content %}{% endblock %}
+
+    <footer class="app-footer">
+      Smart Clinic Management &amp; Analytics System · Student project by Momin &amp; Murtiza · Demonstration only, fictional data
+    </footer>
+  </main>
+</div>
+</body>
+</html>

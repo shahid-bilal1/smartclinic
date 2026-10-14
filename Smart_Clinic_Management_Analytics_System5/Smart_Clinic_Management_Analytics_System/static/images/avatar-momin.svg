@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Avatar of Momin">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DDF5E9"/><stop offset="1" stop-color="#a8e3c8"/></linearGradient></defs>
+  <circle cx="100" cy="100" r="98" fill="url(#bg)"/>
+  <path d="M30 188c0-38 30-58 70-58s70 20 70 58a98 98 0 0 1-140 0z" fill="#15966A"/>
+  <path d="M82 134l18 26 18-26z" fill="#fff"/>
+  <rect x="88" y="104" width="24" height="26" rx="8" fill="#d99f76"/>
+  <ellipse cx="100" cy="78" rx="30" ry="34" fill="#e8b48c"/>
+  <path d="M68 76c-4-26 14-42 34-40 20 2 32 18 28 40-6-12-16-18-30-18s-24 6-32 18z" fill="#24352F"/>
+  <circle cx="90" cy="82" r="3" fill="#24352F"/><circle cx="110" cy="82" r="3" fill="#24352F"/>
+  <path d="M92 96q8 7 16 0" fill="none" stroke="#24352F" stroke-width="3" stroke-linecap="round"/>
+</svg>

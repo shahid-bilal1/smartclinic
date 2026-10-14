@@ -1,0 +1,14 @@
+<div class="pager">
+  <span>Showing page {{ page }} of {{ pages }} · {{ total }} record{{ '' if total == 1 else 's' }}</span>
+  {% if pages > 1 %}
+  <div class="pages">
+    {% if page > 1 %}<a href="{{ page_url(page - 1) }}">&laquo; Prev</a>{% endif %}
+    {% for n in range(1, pages + 1) %}
+      {% if n == page %}<span class="cur">{{ n }}</span>
+      {% elif n == 1 or n == pages or (n - page)|abs <= 1 %}<a href="{{ page_url(n) }}">{{ n }}</a>
+      {% elif (n - page)|abs == 2 %}<span>…</span>{% endif %}
+    {% endfor %}
+    {% if page < pages %}<a href="{{ page_url(page + 1) }}">Next &raquo;</a>{% endif %}
+  </div>
+  {% endif %}
+</div>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Illustration of a friendly doctor">
+  <circle cx="120" cy="120" r="112" fill="#DDF5E9"/>
+  <!-- body / coat -->
+  <path d="M40 222c0-44 34-70 80-70s80 26 80 70z" fill="#fff"/>
+  <path d="M120 152l-26 70h52z" fill="#15966A" opacity=".0"/>
+  <path d="M96 156l24 40 24-40" fill="#DDF5E9"/>
+  <path d="M104 152l16 30 16-30" fill="#e9b88c"/>
+  <!-- scrubs v-neck -->
+  <path d="M96 156l24 42 24-42c14 6 24 14 30 24l-22 42h-64l-22-42c6-10 16-18 30-24z" fill="#15966A"/>
+  <path d="M104 152l16 30 16-30z" fill="#e9b88c"/>
+  <!-- stethoscope -->
+  <path d="M88 160c-8 20 0 40 20 44" fill="none" stroke="#24352F" stroke-width="4" stroke-linecap="round"/>
+  <path d="M152 160c8 20 0 40-20 44" fill="none" stroke="#24352F" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="120" cy="208" r="8" fill="#fff" stroke="#24352F" stroke-width="4"/>
+  <!-- head -->
+  <rect x="108" y="128" width="24" height="26" rx="8" fill="#e9b88c"/>
+  <ellipse cx="120" cy="100" rx="34" ry="38" fill="#f1c6a0"/>
+  <path d="M84 98c-2-30 18-48 40-46 22 2 34 20 30 46-8-16-22-22-36-20-14 2-26 8-34 20z" fill="#24352F"/>
+  <circle cx="107" cy="104" r="3.5" fill="#24352F"/><circle cx="133" cy="104" r="3.5" fill="#24352F"/>
+  <path d="M110 119q10 9 20 0" fill="none" stroke="#24352F" stroke-width="3" stroke-linecap="round"/>
+  <!-- cap cross badge -->
+  <circle cx="176" cy="60" r="22" fill="#fff"/>
+  <path d="M171 48h10v7h7v10h-7v7h-10v-7h-7V55h7z" fill="#15966A"/>
+</svg>

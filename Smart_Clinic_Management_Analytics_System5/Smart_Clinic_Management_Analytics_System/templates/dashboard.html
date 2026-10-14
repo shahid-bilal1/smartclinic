@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+{% block title %}Dashboard{% endblock %}
+{% block heading %}{{ icon('dashboard', 26) }} Dashboard{% endblock %}
+
+{% block content %}
+<div class="stack">
+
+  <section class="card welcome">
+    <div>
+      <h2>Welcome, {{ user.name }}</h2>
+      <p>Here is today's clinic overview. Every number below is calculated from the CSV data files.</p>
+      <a class="btn btn-light btn-sm" href="{{ url_for('appointments') }}">{{ icon('plus', 15) }} Book appointment</a>
+    </div>
+    <img src="{{ url_for('static', filename='images/doctor.svg') }}" alt="Doctor illustration">
+  </section>
+
+  <section class="stat-grid" aria-label="Key statistics">
+    <div class="card stat"><div class="stat-icon">{{ icon('patients', 26) }}</div><div><b>{{ stats.patients }}</b><span>Total Patients</span></div></div>
+    <div class="card stat"><div class="stat-icon">{{ icon('calendar', 26) }}</div><div><b>{{ stats.today }}</b><span>Today's Appointments</span></div></div>
+    <div class="card stat"><div class="stat-icon">{{ icon('check', 26) }}</div><div><b>{{ stats.completed }}</b><span>Completed Appointments</span></div></div>
+    <div class="card stat"><div class="stat-icon">{{ icon('wallet', 26) }}</div><div><b>{{ stats.revenue|money|replace('.00','') }}</b><span>Total Revenue<br>{{ stats.pending|money|replace('.00','') }} pending</span></div></div>
+  </section>
+
+  <div class="two-equal">
+    <section class="card">
+      <div class="card-head"><h2>{{ icon('patients', 20) }} Recent Patients</h2><a class="btn btn-outline btn-sm" href="{{ url_for('patients') }}">View all</a></div>
+      {% if recent %}
+      <div class="table-wrap"><table>
+        <thead><tr><th>ID</th><th>Patient</th><th>Visit date</th></tr></thead>
+        <tbody>
+        {% for p in recent %}
+          <tr><td>{{ p.patient_id }}</td>
+              <td><a href="{{ url_for('patient_view', pid=p.patient_id) }}"><strong>{{ p.full_name }}</strong></a><span class="sub">{{ p.gender }}, {{ p.age }} yrs</span></td>
+              <td>{{ p.visit_date|nicedate }}</td></tr>
+        {% endfor %}
+        </tbody></table></div>
+      {% else %}
+      <div class="empty"><img src="{{ url_for('static', filename='images/empty.svg') }}" alt="">No patients yet. <a href="{{ url_for('patients') }}">Add the first patient</a>.</div>
+      {% endif %}
+    </section>
+
+    <section class="card">
+      <div class="card-head"><h2>{{ icon('clock', 20) }} Upcoming Appointments</h2><a class="btn btn-outline btn-sm" href="{{ url_for('appointments') }}">View all</a></div>
+      {% if upcoming %}
+      <div class="table-wrap"><table>
+        <thead><tr><th>When</th><th>Patient</th><th>Doctor</th></tr></thead>
+        <tbody>
+        {% for a in upcoming %}
+          <tr><td>{{ a.appointment_date|nicedate }}<span class="sub">{{ a.appointment_time|time12 }}</span></td>
+              <td><strong>{{ a.patient_name }}</strong><span class="sub">{{ a.reason }}</span></td>
+              <td>{{ a.doctor_name }}</td></tr>
+        {% endfor %}
+        </tbody></table></div>
+      {% else %}
+      <div class="empty"><img src="{{ url_for('static', filename='images/empty.svg') }}" alt="">No upcoming appointments. <a href="{{ url_for('appointments') }}">Book one</a>.</div>
+      {% endif %}
+    </section>
+  </div>
+
+  <div class="two-equal">
+    <section class="card">
+      <h2>{{ icon('analytics', 20) }} Monthly Revenue <span class="muted small">(paid bills, last 6 months)</span></h2>
+      <div class="vbars">
+        {% for b in revenue_bars %}
+          <div class="vbar" title="{{ b.label }}: {{ b.value|money }}"><span class="val">{{ b.value|money|replace('.00', '') }}</span><div class="fill" style="height: {{ b.pct }}%"></div></div>
+        {% endfor %}
+      </div>
+      <div class="vlabels">{% for b in revenue_bars %}<span>{{ b.label }}</span>{% endfor %}</div>
+    </section>
+
+    <section class="card">
+      <h2>{{ icon('patients', 20) }} Patient Statistics</h2>
+      <div class="hbars-title">By gender</div>
+      <div class="hbars">
+        {% for b in gender_bars %}<div class="hbar"><span>{{ b.label }}</span><span class="track"><span class="fill" style="width: {{ b.pct }}%"></span></span><b>{{ b.value }}</b></div>{% endfor %}
+      </div>
+      <div class="hbars-title">By age group</div>
+      <div class="hbars">
+        {% for b in age_bars %}<div class="hbar alt"><span>{{ b.label }}</span><span class="track"><span class="fill" style="width: {{ b.pct }}%"></span></span><b>{{ b.value }}</b></div>{% endfor %}
+      </div>
+    </section>
+  </div>
+</div>
+{% endblock %}

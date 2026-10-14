@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% block title %}Appointments{% endblock %}
+{% block heading %}{{ icon('calendar', 26) }} Appointments{% endblock %}
+
+{% block content %}
+<div class="two-col">
+  <section class="card">
+    <div class="card-head"><h2>All appointments</h2></div>
+    <form class="search" method="get" action="{{ url_for('appointments') }}" role="search" style="margin-bottom:1rem">
+      <div class="grow">{{ icon('search', 16) }}<input type="search" name="q" value="{{ q }}" placeholder="Patient name, ID or appointment ID" aria-label="Search appointments"></div>
+      <select name="status" aria-label="Filter by status"><option value="">All statuses</option>{% for s in STATUSES %}<option {{ 'selected' if status == s }}>{{ s }}</option>{% endfor %}</select>
+      <select name="doctor" aria-label="Filter by doctor"><option value="">All doctors</option>{% for d in DOCTORS %}<option {{ 'selected' if doctor == d }}>{{ d }}</option>{% endfor %}</select>
+      <input type="date" name="day" value="{{ day }}" aria-label="Filter by date">
+      <button class="btn btn-primary btn-sm" type="submit">Filter</button>
+      {% if q or status or doctor or day %}<a class="btn btn-outline btn-sm" href="{{ url_for('appointments') }}">Clear</a>{% endif %}
+    </form>
+
+    {% if rows %}
+    <div class="table-wrap"><table>
+      <thead><tr><th>ID</th><th>Patient</th><th>Date &amp; time</th><th>Doctor</th><th>Reason</th><th>Status</th><th>Actions</th></tr></thead>
+      <tbody>
+      {% for a in rows %}
+        <tr>
+          <td>{{ a.appointment_id }}</td>
+          <td><a href="{{ url_for('patient_view', pid=a.patient_id) }}"><strong>{{ a.patient_name }}</strong></a><span class="sub">{{ a.patient_id }}</span></td>
+          <td>{{ a.appointment_date|nicedate }}<span class="sub">{{ a.appointment_time|time12 }}</span></td>
+          <td>{{ a.doctor_name }}</td>
+          <td>{{ a.reason }}</td>
+          <td><span class="badge {{ a.status|lower }}">{{ a.status }}</span></td>
+          <td><div class="actions">
+            <a class="btn btn-outline btn-sm" href="{{ url_for('appointment_edit', aid=a.appointment_id) }}">{{ icon('edit', 14) }} Edit</a>
+            {% if a.status == 'Scheduled' %}
+            <form class="inline-form" method="post" action="{{ url_for('appointment_status', aid=a.appointment_id) }}">
+              <input type="hidden" name="_csrf" value="{{ csrf_token }}"><input type="hidden" name="status" value="Completed"><input type="hidden" name="back" value="{{ request.full_path }}">
+              <button class="btn btn-outline btn-sm" type="submit">{{ icon('check', 14) }} Done</button></form>
+            <form class="inline-form" method="post" action="{{ url_for('appointment_status', aid=a.appointment_id) }}">
+              <input type="hidden" name="_csrf" value="{{ csrf_token }}"><input type="hidden" name="status" value="Cancelled"><input type="hidden" name="back" value="{{ request.full_path }}">
+              <button class="btn btn-danger btn-sm" type="submit">{{ icon('x', 14) }} Cancel</button></form>
+            {% endif %}
+            {% if user.role == 'admin' %}<a class="btn btn-danger btn-sm" href="{{ url_for('appointment_delete', aid=a.appointment_id) }}" title="Delete" aria-label="Delete appointment">{{ icon('trash', 14) }}</a>{% endif %}
+          </div></td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table></div>
+    {% include "_pager.html" %}
+    {% else %}
+    <div class="empty"><img src="{{ url_for('static', filename='images/empty.svg') }}" alt="">No appointments found.</div>
+    {% endif %}
+  </section>
+
+  <aside class="card sticky">
+    <h2>{{ icon('plus', 20) }} Book appointment</h2>
+    {% if patients %}
+    <form method="post" action="{{ url_for('appointments') }}">
+      <input type="hidden" name="_csrf" value="{{ csrf_token }}">
+      {% set editing = False %}
+      {% include "_appointment_fields.html" %}
+      <button class="btn btn-primary btn-block" type="submit" style="margin-top:1rem">{{ icon('calendar', 16) }} Book appointment</button>
+    </form>
+    {% else %}
+    <p class="muted">Register a patient first, then you can book an appointment.</p>
+    <a class="btn btn-primary" href="{{ url_for('patients') }}">Go to patients</a>
+    {% endif %}
+  </aside>
+</div>
+{% endblock %}

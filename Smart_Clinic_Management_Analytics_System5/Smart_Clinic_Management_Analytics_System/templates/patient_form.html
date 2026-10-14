@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}Edit patient{% endblock %}
+{% block heading %}{{ icon('edit', 26) }} Edit patient {{ pid }}{% endblock %}
+
+{% block content %}
+<section class="card" style="max-width:640px">
+  <form method="post">
+    <input type="hidden" name="_csrf" value="{{ csrf_token }}">
+    {% include "_patient_fields.html" %}
+    <div class="actions" style="margin-top:1.2rem">
+      <button class="btn btn-primary" type="submit">{{ icon('check', 16) }} Save changes</button>
+      <a class="btn btn-outline" href="{{ url_for('patient_view', pid=pid) }}">Cancel</a>
+    </div>
+  </form>
+</section>
+{% endblock %}

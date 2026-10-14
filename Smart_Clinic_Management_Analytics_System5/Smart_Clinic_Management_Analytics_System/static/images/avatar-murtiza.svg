@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Avatar of Murtiza">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8f8f0"/><stop offset="1" stop-color="#9ddcc0"/></linearGradient></defs>
+  <circle cx="100" cy="100" r="98" fill="url(#bg)"/>
+  <path d="M30 188c0-38 30-58 70-58s70 20 70 58a98 98 0 0 1-140 0z" fill="#0e7a55"/>
+  <path d="M82 134l18 26 18-26z" fill="#fff"/>
+  <rect x="88" y="104" width="24" height="26" rx="8" fill="#c98e66"/>
+  <ellipse cx="100" cy="78" rx="30" ry="34" fill="#dba57d"/>
+  <path d="M70 70c2-24 18-34 32-32 16 2 28 14 28 32-8-8-18-12-30-12s-22 4-30 12z" fill="#2b2b2b"/>
+  <path d="M74 92c4 22 18 30 26 30s22-8 26-30c-6 10-14 14-26 14s-20-4-26-14z" fill="#2b2b2b" opacity=".85"/>
+  <circle cx="90" cy="80" r="3" fill="#24352F"/><circle cx="110" cy="80" r="3" fill="#24352F"/>
+  <path d="M93 98q7 4 14 0" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

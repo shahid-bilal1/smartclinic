@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}Edit appointment{% endblock %}
+{% block heading %}{{ icon('edit', 26) }} Update appointment {{ aid }}{% endblock %}
+
+{% block content %}
+<section class="card" style="max-width:640px">
+  <form method="post">
+    <input type="hidden" name="_csrf" value="{{ csrf_token }}">
+    {% set editing = True %}
+    {% include "_appointment_fields.html" %}
+    <div class="actions" style="margin-top:1.2rem">
+      <button class="btn btn-primary" type="submit">{{ icon('check', 16) }} Save changes</button>
+      <a class="btn btn-outline" href="{{ url_for('appointments') }}">Back</a>
+    </div>
+  </form>
+</section>
+{% endblock %}

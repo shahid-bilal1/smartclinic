@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>{% set page_title = 'Sign in' %}{% include "_head.html" %}</head>
+<body>
+<div class="login-page">
+  <section class="login-art">
+    <img class="art" src="{{ url_for('static', filename='images/hero-clinic.svg') }}" alt="Clinic illustration">
+    <div>
+      <h2>Protected clinic records</h2>
+      <p>Patient information is only visible after signing in. Demonstration data is fictional.</p>
+    </div>
+  </section>
+
+  <section class="login-form-wrap">
+    <div class="login-card card">
+      <a class="brand" href="{{ url_for('intro') }}">
+        <img src="{{ url_for('static', filename='images/logo.svg') }}" alt="Smart Clinic logo">
+        <span>Smart Clinic<small style="color:var(--muted)">Management &amp; Analytics</small></span>
+      </a>
+      <h2>Sign in</h2>
+      <p class="muted">Enter your clinic account to open the dashboard.</p>
+
+      {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+        <div class="flash-wrap" role="alert">
+          {% for category, text in messages %}<div class="flash {{ category }}"><span>{{ text }}</span></div>{% endfor %}
+        </div>
+        {% endif %}
+      {% endwith %}
+
+      <form method="post" class="form-grid" autocomplete="on">
+        <input type="hidden" name="_csrf" value="{{ csrf_token }}">
+        <div class="field">
+          <label for="username">Username</label>
+          <input id="username" name="username" type="text" required autofocus autocomplete="username" value="{{ request.form.get('username', '') }}">
+        </div>
+        <div class="field">
+          <label for="password">Password</label>
+          <input id="password" name="password" type="password" required autocomplete="current-password">
+        </div>
+        <button class="btn btn-primary btn-block btn-lg" type="submit">{{ icon('lock', 18) }} Sign in</button>
+      </form>
+
+      <div class="demo-box">
+        <strong>Demo accounts</strong><br>
+        Admin: <code>admin</code> / <code>admin123</code><br>
+        Staff: <code>reception</code> / <code>reception123</code>
+      </div>
+      <p class="small muted" style="margin:1rem 0 0"><a href="{{ url_for('intro') }}">{{ icon('back', 14) }} Back to project introduction</a></p>
+    </div>
+  </section>
+</div>
+</body>
+</html>

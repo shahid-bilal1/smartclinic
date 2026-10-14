@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+<head>{% set page_title = 'Welcome' %}{% include "_head.html" %}</head>
+<body>
+
+<!-- ===== Top navigation ===== -->
+<header class="site-nav">
+  <div class="inner">
+    <a class="brand" href="{{ url_for('intro') }}">
+      <img src="{{ url_for('static', filename='images/logo.svg') }}" alt="Smart Clinic logo">
+      <span>Smart Clinic<small>Management &amp; Analytics</small></span>
+    </a>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#objectives">Objectives</a></li>
+      <li><a href="#features">Features</a></li>
+      <li><a href="#team">Our Team</a></li>
+    </ul>
+    <a class="btn btn-light btn-sm" href="{{ url_for('dashboard') }}">Get Started {{ icon('arrow', 15) }}</a>
+  </div>
+</header>
+
+<!-- ===== Hero ===== -->
+<section class="hero" id="about">
+  <div class="container">
+    <div>
+      <span class="eyebrow">{{ icon('cross', 15) }} Student Project · Healthcare Operations</span>
+      <h1>Smart Clinic <em>Management</em> &amp; Analytics System</h1>
+      <p class="lead">One simple place to register patients, book appointments, create bills and understand how the clinic is doing, with clear charts built from real project data.</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary btn-lg" href="{{ url_for('dashboard') }}">Get Started {{ icon('arrow', 20) }}</a>
+        <a class="btn btn-outline btn-lg" href="#team">Meet the Team</a>
+      </div>
+      <div class="hero-team">
+        <div class="faces">
+          <img src="{{ url_for('static', filename='images/avatar-momin.svg') }}" alt="Momin">
+          <img src="{{ url_for('static', filename='images/avatar-murtiza.svg') }}" alt="Murtiza">
+        </div>
+        <span>Built by <strong>Momin</strong> &amp; <strong>Murtiza</strong></span>
+      </div>
+    </div>
+    <div class="hero-art">
+      <img src="{{ url_for('static', filename='images/hero-clinic.svg') }}" alt="Illustration of a modern clinic with calendar, heartbeat and analytics cards">
+    </div>
+  </div>
+</section>
+
+<!-- ===== Objectives ===== -->
+<section class="section alt" id="objectives">
+  <div class="container">
+    <div class="section-head">
+      <h2>Project Objectives</h2>
+      <p>What we set out to learn and build.</p>
+    </div>
+    <ul class="objectives">
+      {% for text in [
+        'Keep patient, appointment and billing records organised in one system.',
+        'Prevent double-booking of a doctor for the same date and time slot.',
+        'Calculate bill totals automatically and track paid and unpaid bills.',
+        'Turn CSV data into useful charts using Pandas, NumPy, Matplotlib and Seaborn.',
+        'Show clinic statistics that update automatically when records change.',
+        'Practise safe web development: input validation, sign-in and role-based access.'] %}
+      <li><span class="tick">{{ icon('check', 15) }}</span><span>{{ text }}</span></li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<!-- ===== Features ===== -->
+<section class="section" id="features">
+  <div class="container">
+    <div class="section-head">
+      <h2>Key Features</h2>
+      <p>Everything a small clinic front desk needs for a demonstration.</p>
+    </div>
+    <div class="cards-grid">
+      <article class="card feature"><div class="stat-icon">{{ icon('dashboard', 26) }}</div><h3>Live Dashboard</h3><p>Total patients, today's appointments, revenue and charts, all calculated from the data files.</p></article>
+      <article class="card feature"><div class="stat-icon">{{ icon('patients', 26) }}</div><h3>Patient Records</h3><p>Add, search, view, edit and delete patient records with validated forms and unique patient IDs.</p></article>
+      <article class="card feature"><div class="stat-icon">{{ icon('calendar', 26) }}</div><h3>Appointment Booking</h3><p>Book, update and cancel visits. Duplicate doctor and time-slot bookings are blocked.</p></article>
+      <article class="card feature"><div class="stat-icon">{{ icon('billing', 26) }}</div><h3>Smart Billing</h3><p>Totals are calculated automatically. Mark any bill as paid or unpaid with one click.</p></article>
+      <article class="card feature"><div class="stat-icon">{{ icon('analytics', 26) }}</div><h3>Health-Data Analytics</h3><p>Seven charts built from real records: visits, revenue, paid vs unpaid, and more.</p></article>
+      <article class="card feature"><div class="stat-icon">{{ icon('lock', 26) }}</div><h3>Access Control</h3><p>Sign-in required. Staff can work with records; only the admin can delete them.</p></article>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Team ===== -->
+<section class="section alt" id="team">
+  <div class="container">
+    <div class="section-head">
+      <h2>Team Portfolio</h2>
+      <p>The two students behind the Smart Clinic project.</p>
+    </div>
+    <div class="team-grid">
+      <article class="card member">
+        <img src="{{ url_for('static', filename='images/avatar-momin.svg') }}" alt="Portrait illustration of Momin">
+        <h3>Momin</h3>
+        <div class="role">Project Team Member</div>
+        <p>Worked on the Smart Clinic system: planning the features, building the patient, appointment and billing pages, and testing the project.</p>
+        <div class="chips"><span class="chip">Python</span><span class="chip">Flask</span><span class="chip">HTML &amp; CSS</span></div>
+      </article>
+      <article class="card member">
+        <img src="{{ url_for('static', filename='images/avatar-murtiza.svg') }}" alt="Portrait illustration of Murtiza">
+        <h3>Murtiza</h3>
+        <div class="role">Project Team Member</div>
+        <p>Worked on the Smart Clinic system: preparing the data files, building the analytics charts, and writing the project documentation.</p>
+        <div class="chips"><span class="chip">Pandas</span><span class="chip">Matplotlib</span><span class="chip">Seaborn</span></div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ===== How it works ===== -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <h2>How It Works</h2>
+      <p>Built with beginner-friendly tools.</p>
+    </div>
+    <div class="steps">
+      <div class="card step"><h3>Browser</h3><p class="muted small">HTML forms and CSS pages you click through.</p></div>
+      <div class="card step"><h3>Flask</h3><p class="muted small">Python routes receive each request and check the input.</p></div>
+      <div class="card step"><h3>CSV files</h3><p class="muted small">patients, appointments and billing are stored as simple files.</p></div>
+      <div class="card step"><h3>Pandas &amp; charts</h3><p class="muted small">Data is analysed and drawn as Matplotlib and Seaborn graphs.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="cta">
+  <div class="container">
+    <h2>Ready to explore the clinic?</h2>
+    <p>Open the dashboard to see patients, appointments, billing and analytics working together.</p>
+    <a class="btn btn-light btn-lg" href="{{ url_for('dashboard') }}">Get Started {{ icon('arrow', 20) }}</a>
+  </div>
+</section>
+
+<!-- ===== Footer ===== -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="cols">
+      <div>
+        <h4>Smart Clinic Management &amp; Analytics System</h4>
+        <p>A student project by Momin &amp; Murtiza, built with Flask, Pandas, NumPy, Matplotlib and Seaborn.</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="#objectives">Objectives</a></li>
+          <li><a href="#features">Features</a></li>
+          <li><a href="#team">Team</a></li>
+          <li><a href="{{ url_for('dashboard') }}">Dashboard</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Technology</h4>
+        <ul><li>Python &amp; Flask</li><li>HTML5 &amp; CSS3</li><li>CSV data storage</li><li>Pandas · NumPy · Matplotlib · Seaborn</li></ul>
+      </div>
+    </div>
+    <div class="legal">
+      &copy; {{ year }} Momin &amp; Murtiza. Educational demonstration using fictional data only. This is not production-ready software and must not be used for real clinical records. It does not provide medical diagnoses or treatment advice.
+    </div>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+<head>{% set page_title = 'Error ' ~ code %}{% include "_head.html" %}</head>
+<body>
+  <div class="error-page">
+    <div>
+      <img src="{{ url_for('static', filename='images/empty.svg') }}" alt="" style="width:120px;margin:0 auto 1rem">
+      <div class="code">{{ code }}</div>
+      <h2>Oops!</h2>
+      <p class="muted">{{ message }}</p>
+      <a class="btn btn-primary" href="{{ url_for('intro') }}">Back to start</a>
+    </div>
+  </div>
+</body>
+</html>
